@@ -33,11 +33,9 @@ Topics to cover
 - About Page
 - ready for more!
 
-{% embed src="Screen Recording 2023-04-02 at 3.30.38 PM.mov" title="test video" %}
-
 {% video src="Screen Recording 2023-04-02 at 3.30.38 PM.mov" %}
 
-{% img src="Screen Recording 2023-04-02 at 3.30.38 PM.mov" alt="test" %}
+{% img src="group_stake_v_leverage_chart.png" alt="group stake vs leverage chart" %}
 
 {% img src="avg_resulting_decen_chart.png" alt="average resulting decentralization chart" %}
 

@@ -37,10 +37,28 @@ Topics to cover
 
 
 
-{% img src="avg_resulting_decen_chart.png" alt="average resulting decentralization chart" %}
 
-{% video src="Screen Recording 2023-04-02 at 3.30.38 PM.mov" %}
+{% img src="01_landing_page_welcome_shot.png" alt="landing page welcome shot" %}
 
 {% img src="group_stake_v_leverage_chart.png" alt="group stake vs leverage chart" %}
 
+{% img src="avg_resulting_decen_chart.png" alt="group stake vs leverage chart" %}
 
+
+{% video src="avg_resulting_decen_chart_demo.mov" %}
+
+{% video src="stake_v_lev_demo_bubbles.mov" %}
+
+{% video src="stake_v_lev_time_demo.mov" %}
+
+{% video src="02_welcome_in_dark_mode_demo.mov" %}
+
+{% video src="cip_50_chart_welcome_dark_mode_demo.mov" %}
+
+{% video src="walking_thru_cf_article_bottom_boxes.mov" %}
+
+{% video src="faq_demo.mov" %}
+
+{% img src="about_page.png" alt="about page" %}
+
+{% img src="newsletter_subscribe.png" alt="subscribe to the newsletter" %}

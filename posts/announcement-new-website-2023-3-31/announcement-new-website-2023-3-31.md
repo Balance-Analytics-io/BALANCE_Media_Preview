@@ -33,14 +33,14 @@ Topics to cover
 - About Page
 - ready for more!
 
+
+
+
+
+{% img src="avg_resulting_decen_chart.png" alt="average resulting decentralization chart" %}
+
 {% video src="Screen Recording 2023-04-02 at 3.30.38 PM.mov" %}
-
-lower res below
-
-{% video src="Screen Recording 2023-04-02 at 3.30.38 PM2.mov" %}
-
 
 {% img src="group_stake_v_leverage_chart.png" alt="group stake vs leverage chart" %}
 
-{% img src="avg_resulting_decen_chart.png" alt="average resulting decentralization chart" %}
 

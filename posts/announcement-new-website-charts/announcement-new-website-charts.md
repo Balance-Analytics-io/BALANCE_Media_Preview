@@ -31,11 +31,11 @@ test text
 
 {% img src="01_landing_page_welcome_shot.png" alt="landing page welcome shot" %}
 
-##### Light and Dark Mode
+**Light and Dark Mode:** test text
 
 {% video src="02_welcome_in_dark_mode_demo.mov" %}
 
-**Grab articles by category** test text
+**Grab articles by category:** test text
 
 {% video src="walking_thru_cf_article_bottom_boxes.mov" %}
 

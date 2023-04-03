@@ -17,48 +17,48 @@ series: false
 ## Table of Contents
 
 ------------
-## What's New?
 
-Topics to cover
-
-- Introduction site
+## New Website Introduction
 - Newsletter sign up
 - Website article section
 - Grab articles by category
 - Light and Dark Mode
-- CIP-50 Chart Board
-- Tool Tip
-- fast and responsive charts
-- FAQ expanding boxes
-- About Page
-- ready for more!
-
-
-
-
-
 
 {% img src="01_landing_page_welcome_shot.png" alt="landing page welcome shot" %}
 
-{% img src="group_stake_v_leverage_chart.png" alt="group stake vs leverage chart" %}
+{% video src="02_welcome_in_dark_mode_demo.mov" %}
+
+{% video src="walking_thru_cf_article_bottom_boxes.mov" %}
+
+
+## Chart Boards
+- CIP-50 Chart Board
+- Tool Tip
+- fast and responsive charts
+
+{% video src="cip_50_chart_welcome_dark_mode_demo.mov" %}
 
 {% img src="avg_resulting_decen_chart.png" alt="group stake vs leverage chart" %}
 
-
 {% video src="avg_resulting_decen_chart_demo.mov" %}
+
+{% img src="group_stake_v_leverage_chart.png" alt="group stake vs leverage chart" %}
 
 {% video src="stake_v_lev_demo_bubbles.mov" %}
 
 {% video src="stake_v_lev_time_demo.mov" %}
 
-{% video src="02_welcome_in_dark_mode_demo.mov" %}
-
-{% video src="cip_50_chart_welcome_dark_mode_demo.mov" %}
-
-{% video src="walking_thru_cf_article_bottom_boxes.mov" %}
+## About & FAQ
+- FAQ expanding boxes
+- About Page
+- ready for more!
 
 {% video src="faq_demo.mov" %}
 
 {% img src="about_page.png" alt="about page" %}
+
+
+## Subscribe to the Newsletter
+- Newsletter
 
 {% img src="newsletter_subscribe.png" alt="subscribe to the newsletter" %}

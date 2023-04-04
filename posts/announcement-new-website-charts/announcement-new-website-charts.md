@@ -19,6 +19,9 @@ series: false
 ------------
 
 ## New Website Introduction
+- Email Newsletter Subscription
+- Website Article Collection & Category Group Grabs
+- Brand New Look
 
 Welcome to the totally revamped BALANCE Website & Application!
 
@@ -43,6 +46,9 @@ Before jumping into the "why" and technicals, first a quick demo:
 {% video src="walking_thru_cf_article_bottom_boxes.mov" %}
 
 ## Chart Boards
+- Fast Big Data Loading on Beautiful Info Dense Charts
+- Crisp and Responsive Chart Interaction
+- Beautiful Transitions and Tools to Explore
 
 BALANCE is ***way*** more than a Website, it's a full blown Application. Let's see why.
 
@@ -73,9 +79,14 @@ Press play and sit back and enjoy the show. Pause to explore.
 {% video src="stake_v_lev_time_demo.mov" %}
 
 -----------
-## What's Under the Hood?
+## What's Under the Hood & Why?
 - Sveltkit & D3 Charts
-- Solid Foundation on rock, ready for building, versitile
+- Solid Foundation on Rock, Ready for Building, Versitile
+
+**Why go thru this effort?**
+The old BALANCE Web App was built on React and just couldn't handle the information dense charts. It was very obvious the site took forever to load and the charts were very laggy to explore. For the best data analytics with plans for much more data and charts, we took a fresh look at the website's foundation. 
+
+Could it handle to big data work load and could it take future growth? Probably not...enter SveltKit.
 
 **Sveltekit for the Website & Application**
 
@@ -118,16 +129,19 @@ It should be clear by now BALANCE is going for timeless work and the learning cu
 
 -------
 ## About & FAQ
-- FAQ expanding boxes
+- FAQ Expanding Boxes, Beautiful and Info Dense
 - About Page
-- ready for more!
+
+Thanks the SvelteKit's smooth transitions and design, the FAQ section is info dense yet easy on the eyes.
 
 {% video src="faq_demo.mov" %}
+
+Here's the team behind BALANCE that is hard at work for your Ada delegation. We have a pretty rich and diverse experience combination.
 
 {% img src="about_page.png" alt="about page" %}
 
 
 ## Subscribe to the Newsletter
-- Newsletter
+That's all for now. Thanks for reading! Subscribe for more updates to come as we continue to build out more charts, research, and analysis.
 
 {% img src="newsletter_subscribe.png" alt="subscribe to the newsletter" %}

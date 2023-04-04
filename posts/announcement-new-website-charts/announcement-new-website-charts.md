@@ -44,7 +44,7 @@ Before jumping into the "why" and technicals, first a quick demo:
 
 ## Chart Boards
 
-BALANCE is _way_ more than a Website, it's an Application.
+BALANCE is *_way_* more than a Website, it's a full blown Application.
 
 - CIP-50 Chart Board
 - Tool Tip

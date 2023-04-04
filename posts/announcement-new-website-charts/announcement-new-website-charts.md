@@ -48,7 +48,7 @@ Before jumping into the "why" and technicals, first a quick tour:
 ## Chart Boards
 - Fast Big Data Loading on Beautiful Info Dense Charts
 - Crisp and Responsive Chart Interaction
-- Beautiful Transitions and Tools to Explore
+- Beautiful Transitions and Exploratory Tools
 
 BALANCE is ***way*** more than a Website, it's a full blown Application. Let's see why.
 

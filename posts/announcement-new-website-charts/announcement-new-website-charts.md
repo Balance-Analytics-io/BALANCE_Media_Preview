@@ -10,7 +10,7 @@ series: false
 # Announcing Launch of New Website & Charts!
 
 **Highlights**
-- New Website & Fast Crisp Charts
+- New Website Application & Fast Crisp Charts
 - New Email Newsletter Subscription and Website Articles
 - Under the Hood of the New Website: Sveltekit and D3 Charts
 
@@ -19,11 +19,11 @@ series: false
 ------------
 
 ## New Website Introduction
+- Brand New Look & Feel
 - Email Newsletter Subscription
 - Website Article Collection & Category Group Grabs
-- Brand New Look
 
-Welcome to the totally revamped BALANCE Website & Application!
+**Welcome to the totally revamped BALANCE Website & Application!**
 
 We have been deep in the weeds working on this totally bespoke website for many months, and are very excited to finally share what's new.
 

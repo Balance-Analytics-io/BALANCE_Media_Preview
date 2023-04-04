@@ -132,16 +132,14 @@ It should be clear by now BALANCE is going for timeless work and the learning cu
 - FAQ Expanding Boxes, Beautiful and Info Dense
 - About Page
 
-Thanks the SvelteKit's smooth transitions and design, the FAQ section is info dense yet easy on the eyes.
+Thanks the SvelteKit's smooth transitions and design, the FAQ section is info dense yet easy on the eyes. Come here for any questions, which we're sure there will be many.
 
 {% video src="faq_demo.mov" %}
 
-Here's the team behind BALANCE that is hard at work for your Ada delegation. We have a pretty rich and diverse experience combination.
+Here's the team behind BALANCE that is hard at work for your Ada delegation. We have a pretty rich and diverse experience combination which should give us a unique perspective aside from reliable work ethic and technical capabilities.
 
 {% img src="about_page.png" alt="about page" %}
 
 
 ## Subscribe to the Newsletter
 That's all for now. Thanks for reading! Subscribe for more updates to come as we continue to build out more charts, research, and analysis.
-
-{% img src="newsletter_subscribe.png" alt="subscribe to the newsletter" %}

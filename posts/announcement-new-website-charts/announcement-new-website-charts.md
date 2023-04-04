@@ -46,9 +46,7 @@ Before jumping into the "why" and technicals, first a quick demo:
 
 BALANCE is ***way*** more than a Website, it's a full blown Application.
 
-- CIP-50 Chart Board
-- Tool Tip
-- fast and responsive charts
+Presenting the infamous `Group Stave vs Leverage` Chart in Light and Dark Modes:
 
 {% video src="cip_50_chart_welcome_dark_mode_demo.mov" %}
 
@@ -75,7 +73,7 @@ BALANCE is ***way*** more than a Website, it's a full blown Application.
 - Sveltkit & D3 Charts
 - Solid Foundation on rock, ready for building, versitile
 
-### Sveltekit for the Website & Application
+**Sveltekit for the Website & Application**
 
 {% img src="svelte_kit_homepage_screenshot.png" alt="svelte kit home page screenshot" %}
 
@@ -98,7 +96,7 @@ In layman’s terms again, Sveltekit is the tooling and framework that lets you 
 
 Sveltekit is a hot new language that is being adopted for good reason, but it is still very new, has poor documentation at times, and has early growing pains. So, the design decision to use Svelte was not the easy route, but we believe the right decision.
 
-### D3.js for Beautiful Charts
+**D3.js for Beautiful Charts**
 
 {% img src="d3js_homepage_screenshot.png" alt="d3js homepage screenshot" %}
 

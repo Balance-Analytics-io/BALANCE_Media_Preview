@@ -44,31 +44,35 @@ Before jumping into the "why" and technicals, first a quick demo:
 
 ## Chart Boards
 
-BALANCE is ***way*** more than a Website, it's a full blown Application.
+BALANCE is ***way*** more than a Website, it's a full blown Application. Let's see why.
 
-Presenting the infamous `Group Stave vs Leverage` Chart in Light and Dark Modes:
+Here is the _Chart Board_ in the updated Light and Dark Mode themes. Note how **quickly these charts load**. This is pretty amazing given the big data information density distilled in the charts.
 
 {% video src="cip_50_chart_welcome_dark_mode_demo.mov" %}
 
-{% img src="avg_resulting_decen_chart.png" alt="group stake vs leverage chart" %}
+Presenting the _Average Resulting Decentralization Chart_ where you can see the 51% pool network metric over time in a new pretty presentation.
+
+{% img src="avg_resulting_decen_chart.png" alt="average resulting decentralization chart" %}
+
+However, the real magic is the chart's **interaction and crisp responsiveness**. This makes the data exploration a much more satisfying and fun experience.
 
 {% video src="avg_resulting_decen_chart_demo.mov" %}
 
+Next, presenting the infamous _Group Stake Vs Leverage Chart_. It's a beautiful information dense visualization.
+
 {% img src="group_stake_v_leverage_chart.png" alt="group stake vs leverage chart" %}
+
+However, the true beauty now is in the data exploration. The **Hover Tool Tip** has nice transitions and almost no lag. Skipping over the pools with the data tip is fun.
 
 {% video src="stake_v_lev_demo_bubbles.mov" %}
 
+Probably something we are most proud of with the new tech stack is the sheer resposiveness of the charts given all the big data behind the scenes. The **Time Tool Strip** allows you to see Cardano's Stake Pool Landscape over time (epochs) and see trends you might never have picked up on before looks at tables. 
+
+Press play and sit back and enjoy the show. Pause to explore.
+
 {% video src="stake_v_lev_time_demo.mov" %}
 
-## About & FAQ
-- FAQ expanding boxes
-- About Page
-- ready for more!
-
-{% video src="faq_demo.mov" %}
-
-{% img src="about_page.png" alt="about page" %}
-
+-----------
 ## What's Under the Hood?
 - Sveltkit & D3 Charts
 - Solid Foundation on rock, ready for building, versitile
@@ -112,6 +116,15 @@ In layman’s terms, D3 is a robust and mature Javascript visualization library 
 
 It should be clear by now BALANCE is going for timeless work and the learning curve investment is worth our time for quality.
 
+-------
+## About & FAQ
+- FAQ expanding boxes
+- About Page
+- ready for more!
+
+{% video src="faq_demo.mov" %}
+
+{% img src="about_page.png" alt="about page" %}
 
 
 ## Subscribe to the Newsletter

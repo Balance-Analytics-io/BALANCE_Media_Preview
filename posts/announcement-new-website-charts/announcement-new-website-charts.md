@@ -26,21 +26,25 @@ We have been deep in the weeds working on this totally bespoke website for many 
 
 {% img src="01_landing_page_welcome_shot.png" alt="landing page welcome shot" %}
 
-**Email Newsletter Subscription Service:** You are greeted with an email newsletter subscription as soon as you are welcomed on the landing page. We will start bringing Cardano analytics right to your inbox.
+Before jumping into the "why" and technicals, first a quick demo:
 
-**Website Article Library:** If you miss an email, there will be a full library of articles to read to browse from the homepage. Articles will range from pool group and landscape deep dives, to development updates, education and tutorials.
+**Email Newsletter Subscription Service:** You are greeted with an email newsletter subscription as soon as you land on the page. We will start bringing Cardano research and analytics right to your inbox.
 
-**Light and Dark Mode:** Check out the new BALANCE Dark Mode vibes, perfect to get lost in on-chain deep dives.
+**Website Article Library:** If you miss an email, there will be a full library of articles to browse from the homepage. Articles will range from pool group and landscape deep dives, to development updates, education, and tutorials.
+
+**Light and Dark Mode:** Check out the new BALANCE Dark Mode vibes, perfect to get lost in on-chain deep dives.  You can also adjust font parameters.
 
 {% video src="02_welcome_in_dark_mode_demo.mov" %}
 
-**Grab Articles by Category:** At the bottom of the website will be article category tags to choose for certain topics of interest.
+**Grab Articles by Category:** At the bottom of the website and articles will be article category tags to choose for certain topics of interest. You will then be taken back to the home page with the articles of interest.
+
+**Research Articles:** We aim for highly curated data visualization, research, and analysis in our articles. At the bottom of shareable articles are calls to action to delegate, subscribe, and join our chat in the Matrix to build a community.
 
 {% video src="walking_thru_cf_article_bottom_boxes.mov" %}
 
 ## Chart Boards
 
-More than a website, BALANCE is an Application.
+BALANCE is _way_ more than a Website, it's an Application.
 
 - CIP-50 Chart Board
 - Tool Tip

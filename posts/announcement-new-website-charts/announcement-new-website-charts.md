@@ -20,27 +20,28 @@ series: false
 
 ## New Website Introduction
 
+Welcome to the totally revamped BALANCE Website & Application!
 
-#### Newsletter sign up
-test text
-
-#### Website article section
-test text
-
-
+We have been deep in the weeds working on this totally bespoke website for many months, and are very excited to finally share what's new.
 
 {% img src="01_landing_page_welcome_shot.png" alt="landing page welcome shot" %}
 
-**Light and Dark Mode:** test text
+**Email Newsletter Subscription Service:** You are greeted with an email newsletter subscription as soon as you are welcomed on the landing page. We will start bringing Cardano analytics right to your inbox.
+
+**Website Article Library:** If you miss an email, there will be a full library of articles to read to browse from the homepage. Articles will range from pool group and landscape deep dives, to development updates, education and tutorials.
+
+**Light and Dark Mode:** Check out the new BALANCE Dark Mode vibes, perfect to get lost in on-chain deep dives.
 
 {% video src="02_welcome_in_dark_mode_demo.mov" %}
 
-**Grab articles by category:** test text
+**Grab Articles by Category:** At the bottom of the website will be article category tags to choose for certain topics of interest.
 
 {% video src="walking_thru_cf_article_bottom_boxes.mov" %}
 
-
 ## Chart Boards
+
+More than a website, BALANCE is an Application.
+
 - CIP-50 Chart Board
 - Tool Tip
 - fast and responsive charts

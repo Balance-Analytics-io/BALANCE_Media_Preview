@@ -54,7 +54,7 @@ BALANCE is ***way*** more than a Website, it's a full blown Application. Let's s
 
 Here is the _Chart Board_ in the updated Light and Dark Mode themes. Note how **quickly these charts load**. This is pretty amazing given the big data information density distilled in the charts.
 
-{% video src="cip_50_chart_welcome_dark_mode_demo.mov" %}
+{% video src="dec_chart_dark_mode_demo.mov" %}
 
 Presenting the _Average Resulting Decentralization Chart_ where you can see the 51% pool network metric over time in a new pretty presentation.
 
@@ -66,17 +66,21 @@ However, the real magic is the chart's **interaction and crisp responsiveness**.
 
 Next, presenting the infamous _Group Stake Vs Leverage Chart_. It's a beautiful information dense visualization.
 
-{% img src="group_stake_v_leverage_chart.png" alt="group stake vs leverage chart" %}
+{% img src="stake_v_lev.png" alt="group stake vs leverage chart" %}
 
 However, the true beauty now is in the data exploration. The **Hover Tool Tip** has smooth transitions and almost no lag. Skipping over the pools with the data tip is fun.
 
-{% video src="stake_v_lev_demo_bubbles.mov" %}
+{% video src="stake_v_lev_hover_tip_demo.mov" %}
 
 Probably something we are most proud of with the new tech stack is the **sheer responsiveness** of the charts given all the big data behind the scenes. The **Time Tool Strip** allows you to see Cardano's Stake Pool Landscape over time (epochs) and catch the trends you might never have picked up on before just looking at tables numbers. 
 
 Press play, sit back and enjoy the show. Pause to explore.
 
 {% video src="stake_v_lev_time_demo.mov" %}
+
+Something you're going to love, a brand new feature to **Pool Search**. Find you pool, or group, and follow it's story.
+
+{% video src="stake_v_lev_pool_search_demo.mov" %}
 
 -----------
 ## What's Under the Hood & Why?

@@ -29,7 +29,7 @@ We have been deep in the weeds working on this totally bespoke website for many 
 
 {% img src="01_landing_page_welcome_shot.png" alt="landing page welcome shot" %}
 
-Before jumping into the "why" and technicals, first a quick tour:
+Before jumping into the "why" and the technicals, first a quick tour:
 
 **Email Newsletter Subscription Service:** You are greeted with an email newsletter subscription as soon as you land on the homepage. We will start bringing Cardano research and analytics right to your inbox.
 
@@ -41,7 +41,7 @@ Before jumping into the "why" and technicals, first a quick tour:
 
 **Grab Articles by Category:** At the website footer are article category tags to choose from for certain topics of interest. You will then be taken back to the homepage with the queried articles of interest.
 
-**Research Articles:** We aim for highly curated research and analysis in our articles. At the bottom of our shareable articles are calls to action to delegate, subscribe, and join our chat in the Matrix to build an intelligence hub community.
+**Research Articles:** We aim for highly curated research and analysis in our articles. At the bottom of our shareable articles are calls to action to delegate, subscribe, and join our chat in the Matrix -- our intelligence hub community.
 
 {% video src="walking_thru_cf_article_bottom_boxes.mov" %}
 
@@ -78,7 +78,7 @@ Press play, sit back and enjoy the show. Pause to explore.
 
 {% video src="stake_v_lev_time_demo.mov" %}
 
-Something you're going to love, a brand new feature to **Pool Search**. Find you pool, or group, and follow it's story.
+Something you're going to love, a brand new feature called **Pool Search**. Find your pool (or group) and follow its progression.
 
 {% video src="stake_v_lev_pool_search_demo.mov" %}
 
@@ -125,7 +125,7 @@ From the D3.js website:
 D3 is a robust and mature Javascript visualization library used by the dataviz pros, with the trade off of complexity for additional control and artistic work.  After browsing what is possible from the very creators of Sveltekit showcasing their data visualization story telling, it is _*very impressive*_ and BALANCE was sold.
 
 **Finally, the bedrock is laid.**
-It should be clear by now BALANCE is going for timeless work, high quality work. The design decision to use Svelte was not the easy route, but we believe the right design decision for a bedrock foundation to build upon.
+It should be clear by now BALANCE is going for timeless, high quality work. The design decision to use Svelte was not the easy route, but we believe the right design decision for a bedrock foundation to build upon.
 
 
 -------
@@ -133,7 +133,7 @@ It should be clear by now BALANCE is going for timeless work, high quality work.
 - FAQ Expanding Boxes, Beautiful and Info Dense
 - About Page
 
-Thanks the SvelteKit's smooth transitions and design, the FAQ section is info dense yet easy on the eyes. Come here for any questions, which we're sure there will be many.
+Thanks to SvelteKit's smooth transitions and design, the FAQ section is info dense yet easy on the eyes. Come here for any questions, which we're sure there will be many.
 
 {% video src="faq_demo.mov" %}
 
@@ -143,6 +143,6 @@ Here's the team behind BALANCE that is hard at work for your Ada delegation. We 
 
 
 ## Subscribe to the Newsletter
-That's all for now, thanks for reading! Subscribe for more updates to come as we continue to build out more charts, research, analysis, data stack, roadmap, tutorials, you name it.
+That's all for now, thanks for reading! Subscribe for more updates to come as we continue to build out more charts, research, analysis, data stack, roadmap, tutorials, and more.
 
 Have feedback, want to request some charts?  Please jump in our Matrix Space or find us on Twitter.

@@ -115,22 +115,26 @@ What you may not be fully aware of though is that they utilize a 3rd party staki
 
 In our [tweet](https://twitter.com/BalanceData22/status/1643038391498428416?s=20) we made aware that Exodus & Everstake [EVE] Pool Group have supported Cardano Staking since Sept 2021, early epoch 200s.
 
-EVE runs 11 stake pools, combined 11k pledge, ~500MAda, and about 45,000x leverage factor. So far there have been no significant stake changes.
+However, EVE runs 11 low pledge high leverage pools, combined for 11k pledge, ~500MAda, at about 45,000x leverage factor. So far there have been no significant stake changes since the announcement.
 
 An option to choose your own stake pool would be great for advanced users in the Exodus web3 wallet, maybe we can mass request this feature.
 
 ### Luganodes [LGNS1] Potential to Multi-Pool
 We have been watching these guys [Luganodes](https://www.luganodes.com/) who are another staking service provider based in the Swiss: "Secure staking by leading blockchain infrastructure provider". 
 
-They currently run just one pool [LGNS1] with a pledge of 10 Ada, but let's see if they form a multi-pool operation. Their whole business is about running stake pools as a service so we wouldn’t be surprised if we see them spin up more when the market picks back up.
+They currently run just one pool [LGNS1] with a pledge of 10 Ada, but let's see if they form a multi-pool operation soon. Their whole business is about running staking as a service so we wouldn’t be surprised if we see them spin up more when the market picks back up.
 
 So far though they have a decent Cardano awareness and pretty decent [Cardano tweets](https://twitter.com/search?q=from%3Aluganodes%20cardano&src=recent_search_click), so they aren't completely out of touch with the community.
 
-The pool [LGNS1](https://pool.pm/0338d4f1c5e8ebee0689e22148c1483d411c5587d0ab986b8e824428/stake) looks like it has one huge wallet of 41MAda (MAda for Million Ada) with 86% majority stake that arrived in epoch 370. This is a new stake address, with [only previous delegation](https://cexplorer.io/stake/stake1u87mn7454dmezggnq6fy3j0fclh0e6zhsd7x5r6t0x4u3fc86730l/delegation#data) to [FKAI](https://cexplorer.io/pool/pool1mmrh2l3t5r7w5l7e82ven0e595vhgvu0hyf4ttrgcyejq8gwqcm) pool, who has a whooping 1.53 Ada met pledge (sarcasim alert). FKAI looks like it is currently inactive with 0% saturation now.  You can probably assume this 41MAda is VC or Big Business money getting "professional" third party staking service. It makes you wonder, what is the driver to use these third party services and not community delegation?
+The pool [LGNS1](https://pool.pm/0338d4f1c5e8ebee0689e22148c1483d411c5587d0ab986b8e824428/stake) looks like it has one huge wallet of 41MAda (MAda for Million Ada) with 86% majority stake that arrived in epoch 370. This is a new stake address, with [only previous delegation](https://cexplorer.io/stake/stake1u87mn7454dmezggnq6fy3j0fclh0e6zhsd7x5r6t0x4u3fc86730l/delegation#data) to [FKAI](https://cexplorer.io/pool/pool1mmrh2l3t5r7w5l7e82ven0e595vhgvu0hyf4ttrgcyejq8gwqcm) pool, who has a whooping 1.53 Ada met pledge (sarcasim alert). 
+
+FKAI looks like it is currently inactive with 0% saturation now.  You can probably assume this 41MAda is VC or Big Business money getting "professional" third party staking service. 
+
+It makes you wonder, what is the driver to use these third party services and not community delegation?
 
 ## BALANCE Updates
 
-### New Pool Group API Link now with Single Pool Group
+### New BALANCE Pool Group API Link - now with Single Pool Group!
 We have made updates to the BALANCE Pool Group Data API, which now includes a **"SINGLEPOOL"** group!  This should be a very interesting new detail.  Please find the dataset here:
 
 https://www.balanceanalytics.io/api/groupdata.json

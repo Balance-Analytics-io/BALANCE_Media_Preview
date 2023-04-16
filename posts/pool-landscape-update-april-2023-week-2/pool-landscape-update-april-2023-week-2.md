@@ -20,7 +20,7 @@ We strive to remain unbias, and will bring just the facts to the table.  However
 
 This is the first of many articles, enjoy! Be sure to try the Table of Contents hotlinks if you want to skip around.
 
-## Big Picture Coverage of Epoch 370 to 405 (10/17/22-4/10/22)
+## Big Picture Coverage of Epoch 370 to 406 (10/17/22-4/16/22)
 We'd be remiss if we didn't cover the big picture at a high level of the stake pool action over the last few months, which saw significant pool activity and movement from what appears to be the SEC crack down (off-chain attacks if you will) on exchanges and staking services. Here's a brief timeline of significant events:
 
 ### SEC Rumors and Crackdown Timeline
@@ -39,11 +39,10 @@ Specifically in the stake pool landscape...
 - SKY pool? Coinbase and Binance size change? WHO KNOWS disappears.
 
 ### MAV Increase
+So has the SEC crack-down been helping out the infamous Nakamoto Coefficient, or Minimum Attack Vector (MAV) of 51% of chain stake ownership (and thus control)?
 
-|test|test|test|
-|---|---|---|
-|x|y|z|
-|a|b|c|
+
+
 
 ## March 2023 Significant Events
 - [Nick Analysis] 11 new pools, 1 multi-pool update CNODE (new pool added - from 3 to 4 pools)
@@ -64,6 +63,16 @@ Specifically in the stake pool landscape...
 
 
 ### NUFI0 Whale Oversaturation Attack?
+
+{% img src="adalite_pledge_stake.png" alt="adalite_pledge_stake" %}
+{% img src="adalite_stake_v_lev.png" alt="adalite_stake_v_lev" %}
+{% img src="awp2_pledge_not_met.png" alt="awp2_pledge_not_met" %}
+{% img src="balnc_pledge_increase.png" alt="balnc_pledge_increase" %}
+{% img src="mav_epoch_406.png" alt="mav_epoch_406" %}
+{% img src="nufi0_incoming.png" alt="nufi0_incoming" %}
+{% img src="nufi0_outgoing.png" alt="nufi0_outgoing" %}
+{% img src="nufi0_over_sat.png" alt="nufi0_over_sat" %}
+
 ADALITE, NUFI0, Epoch 402 multi wallet whale moves 6 sets of 50MAda and 1 13MAda, could be the same entity, April 11 2023. 2 Days later the whales migrated to other NuFi pools. They are likely NuFi or VC wallets.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Err...you do know there&#39;s other pools right NUFI0? 👀<br><br>ADALITE pool group has added significant pledge and stake since epoch 370, look for yourself:<a href="https://t.co/MCxNeN5sJO">https://t.co/MCxNeN5sJO</a> <a href="https://t.co/r9vHUsNRhH">pic.twitter.com/r9vHUsNRhH</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1645954409250328577?ref_src=twsrc%5Etfw">April 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -36,10 +36,10 @@ We'd be remiss if we didn't cover the big picture at a high level of the stake p
 ### Big Pool Movements
 During the same time period, we saw the following big pool changes.
 
-- **Binance**
-- **Coinbase**
-- **WHO KNOWS**
-- **SKY Pool Group?** Coinbase and Binance size change? WHO KNOWS disappears.
+- **Binance**: Stake decreased by a whooping -27% for 782MAda
+- **Coinbase**: Stake decreased by -9% for 217MAda
+- **SWIM Pool Group?**: New pool group with a 1,678% increase for 557MAda. Maybe Binance moved funds?
+- **WHO KNOWS**: Was far top left, is now far right (high leverage). Significant change too.
 
 ### MAV Increase
 So, has the SEC crack-down been helping out the infamous Nakamoto Coefficient, or Minimum Attack Vector (MAV) of 51% of chain stake ownership (and thus control)?
@@ -79,15 +79,15 @@ Was [NUFI0] Pool subject to a Whale Over-Saturation Attack (OSA)??
 
 [NuFi](https://nu.fi/) is a non-custodial web3 crypto wallet service powered by parent company [VacuumLabs](https://vacuumlabs.com/adalite/). The now NUFI% pools can be found under the ADALITE Pool Group, their former wallet and branding. They use to be a super low pledge, high leverage pool group on the far right of the chart, but have since added significant pledge and stake, as shown below:
 
-{% img src="adalite_pledge_stake.png" alt="adalite_pledge_stake" %}
-
 {% img src="adalite_stake_v_lev.png" alt="adalite_stake_v_lev" %}
+
+{% img src="adalite_pledge_stake.png" alt="adalite_pledge_stake" %}
 
 So during Epoch 402 a multi-wallet whale entity moves six sets of 50MAda and one 13MAda stake into NUFI0 pool on April 11 2023. That's a total of 313MAda! A pool's saturation is about 80MAda. That's a huge whale herd!
 
 {% img src="nufi0_incoming.png" alt="nufi0_incoming" %}
 
-[NUFI0] quickly found itself insanely over-saturated and losing significant staking rewards.
+[NUFI0](https://pool.pm/a0fc643d831b144e1dd289f5acf4274aedc331b6a0e4257ef5376520) quickly found itself insanely over-saturated and losing significant staking rewards.
 
 {% img src="nufi0_over_sat.png" alt="nufi0_over_sat" %}
 

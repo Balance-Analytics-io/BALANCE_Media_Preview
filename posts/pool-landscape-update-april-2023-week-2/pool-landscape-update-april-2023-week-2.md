@@ -18,12 +18,15 @@ Welcome to BALANCE's Pool Landscape Update Article, a series that will cover the
 
 We strive to remain unbias, and will bring just the facts to the table.  However, we will remain vigilant watchdogs and call out any actions to improve network security.
 
-This is the first of many articles, enjoy!
+This is the first of many articles, enjoy! Be sure to try the Table of Contents hotlinks if you want to skip around.
 
 ## Big Picture Coverage of Epoch 370 to 405 (10/17/22-4/10/22)
-We'd be remiss if we didn't cover the big picture at a high level of the stake pool action over the last few months, which saw significant pool activity and movement from what appears to be the SEC crack down (off-chain attacks if you will). 
+We'd be remiss if we didn't cover the big picture at a high level of the stake pool action over the last few months, which saw significant pool activity and movement from what appears to be the SEC crack down (off-chain attacks if you will) on exchanges and staking services. Here's a brief timeline of significant events:
 
-Specifically,
+- Feb 9, 2023 [Epoch 393], [Kraken to end on-chain staking services for U.S. clients](https://blog.kraken.com/post/17619/settlement/)
+    > "Kraken has agreed to end its on-chain staking services for U.S. clients. Starting today, Kraken will automatically unstake all U.S. client assets enrolled in the on-chain staking program."
+
+Specifically in the stake pool landscape...
 
 - SKY pool? Coinbase and Binance size change? WHO KNOWS disappears.
 
@@ -47,7 +50,7 @@ Specifically,
 
 
 ### NUFI0 Whale Oversaturation Attack?
-
+ADALITE, NUFI0, Epoch 402 multi wallet whale moves 6 sets of 50MAda and 1 13MAda, could be the same entity, April 11 2023. 2 Days later the whales migrated to other NuFi pools. They are likely NuFi or VC wallets.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Err...you do know there&#39;s other pools right NUFI0? 👀<br><br>ADALITE pool group has added significant pledge and stake since epoch 370, look for yourself:<a href="https://t.co/MCxNeN5sJO">https://t.co/MCxNeN5sJO</a> <a href="https://t.co/r9vHUsNRhH">pic.twitter.com/r9vHUsNRhH</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1645954409250328577?ref_src=twsrc%5Etfw">April 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -68,11 +71,11 @@ What you may not be fully aware of though is that they utilize a 3rd party staki
 
 In our [tweet](https://twitter.com/BalanceData22/status/1643038391498428416?s=20) we made aware that Exodus & Everstake [EVE] Pool Group have supported Cardano Staking since Sept 2021, early epoch 200s.
 
-EVE runs 11 stake pools, combined 11k pledge, ~500MAda, and about 45,000x leverage factor.
+EVE runs 11 stake pools, combined 11k pledge, ~500MAda, and about 45,000x leverage factor. So far there have been no significant stake changes.
 
 An option to choose your own stake pool would be great for advanced users in the Exodus web3 wallet, maybe we can mass request this feature.
 
-### Luganodes LGNS1 Potential to Multi-Pool
+### Luganodes [LGNS1] Potential to Multi-Pool
 We have been watching these guys [Luganodes](https://www.luganodes.com/) who are another staking service provider based in the Swiss: "Secure staking by leading blockchain infrastructure provider". 
 
 They currently run just one pool [LGNS1] with a pledge of 10 Ada, but let's see if they form a multi-pool operation. Their whole business is about running stake pools as a service so we wouldn’t be surprised if we see them spin up more when the market picks back up.
@@ -97,5 +100,6 @@ We are happy to announce our pledge increased by 100,000 Ada, and now includes t
 As always, be sure to give us feedback and hope you enjoyed the article! Until next time.
 
 Cheers,
+
 The BALANCE Team
 

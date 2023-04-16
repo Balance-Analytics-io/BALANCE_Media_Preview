@@ -40,7 +40,7 @@ Specifically in the stake pool landscape...
 
 ### MAV Increase
 
-|:---:|:----:|:----:|
+|---|----|----|
 |x|y|z|
 |a|b|c|
 

@@ -1,24 +1,24 @@
 ---
-title: Pool Landscape Update - April 2023 Week 2
-description: Cardano Stake Pool Landscape Update Artile on Group Edits and Events
-slug: pool-landscape-update-april-2023-week-2
+title: Pool Landscape Report - April 2023 Week 2
+description: Cardano Stake Pool Landscape Update Report on Group Edits and Events
+slug: pool-landscape-report-april-2023-week-2
 published: 2023-4-16
-category: pool-landscape-updates
+category: pool-landscape-reports
 series: true
 ---
 
-# Pool Landscape Update - April 2023 Week 2
+# Pool Landscape Report - April 2023 Week 2
 
 ## Table of Contents
 
 ------------
 
 ## Introduction
-Welcome to BALANCE's Pool Landscape Update Article, a series that will cover the Cardano Stake Pool ecosystem of events and noteable changes. We will focus on pool groups and decentralization, but will of course cover any significant events to keep the Cardano Community aprised with the best pool and chain intel. 
+Welcome to BALANCE's Pool Landscape Update Report, a series that will cover the Cardano Stake Pool ecosystem of events and noteable changes. We will focus on pool groups and decentralization, but will of course cover any significant events to keep the Cardano Community aprised with the best pool and chain intel. 
 
 We strive to remain unbias, and will bring just the facts to the table.  However, we will also remain vigilant watchdogs and call out any actions to improve network security.
 
-This is the first of many articles, enjoy! Be sure to try the Table of Contents hotlinks if you want to skip around.
+This is the first of many reports, enjoy! Be sure to try the Table of Contents hotlinks if you want to skip around.
 
 ## Big Picture Coverage of Epoch 370 to 406 (10/17/22-04/16/22)
 We'd be remiss if we didn't cover the big picture at a high level of the stake pool landscape action over the last few months which saw significant activity and movement.  The spur appears to be from the SEC crackdown (off-chain attacks if you will) on exchanges and staking services. Here's a brief timeline of significant events:
@@ -50,13 +50,12 @@ It's hard to say and prove. However, there has been a significant downsize and r
 
 MAV has increased by 32% from 19 to 25. K-effective has increased by 27% from 34 to 43. The rate of increase has sharply turned positive. These numbers are nothing to sneeze at. One could probably argue the SEC attack has had a correlated effect.
 
-## Noteworthy Significant Events
+## Other Noteworthy Significant Events
 Some other noteworthy significant events in March-April:
 - 11 new pools
-    - GMO - coin exchange? 
-    - EMURG6 new pool
-    - New SwimmingPools? 
-- 1 multi-pool update, CNODE (new pool added - from 3 to 4 pools)
+    - [EMURG6](https://pool.pm/34d37dabdf2c17056c07a002a685e4bba8673e6bf30c6ef6bd394534) new Emurgo pool
+    - New [SWIM] SwimmingPools for the summer heat
+- 1 multi-pool update, [CNODE](https://pool.pm/0775f0139af22e1ebf2c3278598816946e750029b70eace3c5135c3e) (4 pools under [Cardanode](https://www.cardanode.io/))
 - [4/7/23] FAX pool ISPO, 5 Epochs and Saturated! Look out hot stuff at [Orcfax](https://orcfax.io/#ispo)
 - More wave pool finance operated pools?
 - [ARM1], nice pledge increase to 800kA

@@ -23,8 +23,13 @@ This is the first of many articles, enjoy! Be sure to try the Table of Contents 
 ## Big Picture Coverage of Epoch 370 to 405 (10/17/22-4/10/22)
 We'd be remiss if we didn't cover the big picture at a high level of the stake pool action over the last few months, which saw significant pool activity and movement from what appears to be the SEC crack down (off-chain attacks if you will) on exchanges and staking services. Here's a brief timeline of significant events:
 
+- Feb 8, 2023 [Epoch 392], [Brian Armstrong Tweet](https://twitter.com/brian_armstrong/status/1623459203150131201?s=20)
+    > "1/ We're hearing rumors that the SEC would like to get rid of crypto staking in the U.S. for retail customers. I hope that's not the case as I believe it would be a terrible path for the U.S. if that was allowed to happen."
 - Feb 9, 2023 [Epoch 393], [Kraken to end on-chain staking services for U.S. clients](https://blog.kraken.com/post/17619/settlement/)
     > "Kraken has agreed to end its on-chain staking services for U.S. clients. Starting today, Kraken will automatically unstake all U.S. client assets enrolled in the on-chain staking program."
+- March 22, 2023 [Epoch 401], [Coinbase Blog: We asked the SEC for reasonable crypto rules for Americans. We got legal threats instead.](https://www.coinbase.com/blog/we-asked-the-sec-for-reasonable-crypto-rules-for-americans-we-got-legal)
+    > "Today, we are disappointed to share that the SEC gave us a “Wells notice” regarding an unspecified portion of our listed digital assets, **our staking service Coinbase Earn**, Coinbase Prime, and Coinbase Wallet after a cursory investigation. A Wells notice is the way that SEC staff tells a company that they are recommending that the SEC take enforcement action for possible violations of securities laws. It is not a formal charge or lawsuit, but it can lead to one. Rest assured, Coinbase products and services continue to **operate as usual** - today’s news does not require any changes to our current products or services." (bold text added by BALANCE)
+
 
 Specifically in the stake pool landscape...
 

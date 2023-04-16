@@ -21,7 +21,7 @@ We strive to remain unbiased and present only the facts. However, we will also r
 This is the first report of many, and we hope you find it informative. You can use the Table of Contents hotlinks to navigate through the report and find the information you need.
 
 ## Big Picture Coverage of Epoch 370 to 406 (10/17/22-04/16/22)
-We'd be remiss if we didn't cover the big picture at a high level of the stake pool landscape action over the last few months which saw significant activity and movement.  The spur appears to be from the SEC crackdown (off-chain attacks if you will) on exchanges and staking services. Here's a brief timeline of significant events:
+To provide a comprehensive view of the stake pool landscape, it's important to cover the significant activity and movement that has taken place over the last few months. This surge appears to have been triggered by the SEC's crackdown on exchanges and staking services - off-chain attacks if you will. In order to understand the context, we present a brief timeline of significant events below:
 
 ### SEC Rumors and Crackdown Timeline
 - Feb 8, 2023 [Epoch 392], [Brian Armstrong Tweet on SEC Rumors](https://twitter.com/brian_armstrong/status/1623459203150131201?s=20)
@@ -42,9 +42,9 @@ During the same time period, we saw the following big pool changes.
 - **WHO KNOWS**: Was far top left, is now far right (high leverage). Significant change too.
 
 ### MAV Increase
-So, has the SEC crack-down been helping out the infamous Nakamoto Coefficient, or Minimum Attack Vector (MAV) of 51% of chain stake ownership (and thus control)?
+So, has the SEC crack-down been helping improve the infamous Nakamoto Coefficient, or Minimum Attack Vector (MAV) of 51% of chain stake ownership (and thus control)?
 
-It's hard to say and prove. However, there has been a significant downsize and reorganization on the big pools, and a sharp rate of increase in MAV! 
+It's hard to say and prove. However, there has been a significant downsizing and reorganization on the big pools, and a sharp rate of increase in MAV! 
 
 {% img src="mav_epoch_406.png" alt="mav_epoch_406" %}
 

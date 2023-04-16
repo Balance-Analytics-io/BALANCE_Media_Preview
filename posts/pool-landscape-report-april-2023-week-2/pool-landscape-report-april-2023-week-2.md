@@ -14,11 +14,11 @@ series: true
 ------------
 
 ## Introduction
-Welcome to BALANCE's Pool Landscape Update Report, a series that will cover the Cardano Stake Pool ecosystem of events and noteable changes. We will focus on pool groups and decentralization, but will of course cover any significant events to keep the Cardano Community aprised with the best pool and chain intel. 
+Welcome to BALANCE's Pool Landscape Update Report, a series that provides insights into the Cardano Stake Pool ecosystem, covering notable changes and events. Our focus will be on pool groups and decentralization, but we will also include any significant events to keep the Cardano community informed with the best pool and chain intelligence.
 
-We strive to remain unbias, and will bring just the facts to the table.  However, we will also remain vigilant watchdogs and call out any actions to improve network security.
+We strive to remain unbiased and present only the facts. However, we will also remain vigilant watchdogs and will call out any actions that can improve network security.
 
-This is the first of many reports, enjoy! Be sure to try the Table of Contents hotlinks if you want to skip around.
+This is the first report of many, and we hope you find it informative. You can use the Table of Contents hotlinks to navigate through the report and find the information you need.
 
 ## Big Picture Coverage of Epoch 370 to 406 (10/17/22-04/16/22)
 We'd be remiss if we didn't cover the big picture at a high level of the stake pool landscape action over the last few months which saw significant activity and movement.  The spur appears to be from the SEC crackdown (off-chain attacks if you will) on exchanges and staking services. Here's a brief timeline of significant events:

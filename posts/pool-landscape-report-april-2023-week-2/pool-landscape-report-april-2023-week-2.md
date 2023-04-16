@@ -135,12 +135,12 @@ It makes you wonder, what is the driver to use these third party services and no
 ## BALANCE Updates
 
 ### New BALANCE Pool Group API Link - now with Single Pool Group!
-We have made updates to the BALANCE Pool Group Data API, which now includes a **"SINGLEPOOL"** group!  This should be a very interesting new detail.  Please find the dataset here:
+We have made updates to the BALANCE Pool Group Data API, which now includes a **"SINGLEPOOL"** group!  This should be a very interesting and useful new detail.  Please find the dataset here:
 
 https://www.balanceanalytics.io/api/groupdata.json
 
 ### BALNC Pool Pledge Increase
-We are happy to announce our pledge increased by 100,000 Ada, and now includes the co-owners wallet. Christophe now officially has skin-in-the-game. Welcome to the club rookie.
+We are happy to announce our pledge has increased by 100,000 Ada, and now includes the co-owners wallet! Christophe now officially has skin-in-the-game. Welcome to the club rookie.
 
 <blockquote class="twitter-tweet" data-dnt="true" align="center"><p lang="en" dir="ltr">Pledge increase alert.<br><br>We now have 22x the pledge of ADALITE (<a href="https://twitter.com/NuFi_Official?ref_src=twsrc%5Etfw">@NuFi_Official</a>) group of 18 pools. 🤷‍♂️ <a href="https://twitter.com/hashtag/CardanoADA?src=hash&amp;ref_src=twsrc%5Etfw">#CardanoADA</a> <a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> <a href="https://twitter.com/hashtag/CardanoCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#CardanoCommunity</a> <a href="https://twitter.com/Cardano_CF?ref_src=twsrc%5Etfw">@Cardano_CF</a> <a href="https://twitter.com/Cardano?ref_src=twsrc%5Etfw">@Cardano</a> <a href="https://twitter.com/CardanoSPA?ref_src=twsrc%5Etfw">@CardanoSPA</a> <a href="https://t.co/hzBsOmeWOy">pic.twitter.com/hzBsOmeWOy</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1646981987062763529?ref_src=twsrc%5Etfw">April 14, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

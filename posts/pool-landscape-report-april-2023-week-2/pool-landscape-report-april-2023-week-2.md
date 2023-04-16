@@ -72,15 +72,15 @@ We sent out a warning tweet to the community, as did [OYSTR Pool](https://twitte
 
 ### [NUFI0] Whale Over-Saturation Attack?
 
-Was [NUFI0] Pool subject to a Whale Over-Saturation Attack (OSA)?? An OSA is when a whale entity delagates a massive amount od stake to a pool to super saturate the pool (stake well over the saturation limit of ~80MAda) and thereby tanks the pool's reward returns.
+Was [NUFI0] Pool subject to a Whale Over-Saturation Attack (OSA)?? An OSA is when a whale entity delegates a massive amount of stake to super saturate the pool (stake well over the saturation limit of ~80MAda) and thereby tank the pool's reward returns.
 
-[NuFi](https://nu.fi/) is a non-custodial web3 crypto wallet service powered by parent company [VacuumLabs](https://vacuumlabs.com/adalite/). The now NUFI% pools can be found under the ADALITE Pool Group, their former wallet and branding. They use to be a super low pledge, high leverage pool group on the far right of the chart, but have since added significant pledge and stake, as shown below:
+[NuFi](https://nu.fi/) is a non-custodial web3 crypto wallet service powered by parent company [VacuumLabs](https://vacuumlabs.com/adalite/). The now NUFI% pools can be found under the ADALITE Pool Group, their former wallet and branding. They use to be a super low pledge, high leverage pool group on the far right of the chart, but have since added significant pledge and stake, as shown below. Well done.
 
 {% img src="adalite_stake_v_lev.png" alt="adalite_stake_v_lev" %}
 
 {% img src="adalite_pledge_stake.png" alt="adalite_pledge_stake" %}
 
-So during Epoch 402 a multi-wallet whale entity moves six sets of 50MAda and one 13MAda stake into NUFI0 pool on April 11 2023. That's a total of 313MAda! A pool's saturation is about 80MAda. That's a huge whale herd!
+So during Epoch 402, a multi-wallet whale entity moved six sets of 50MAda and one 13MAda stake into NUFI0 pool on April 11 2023. That's a total of 313MAda! A pool's saturation is about 80MAda. That's a huge whale herd!
 
 {% img src="nufi0_incoming.png" alt="nufi0_incoming" %}
 
@@ -88,15 +88,19 @@ So during Epoch 402 a multi-wallet whale entity moves six sets of 50MAda and one
 
 {% img src="nufi0_over_sat.png" alt="nufi0_over_sat" %}
 
-We and other Single Pools rose the warning flag:
+We and other Single Pools raised the warning flag:
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Err...you do know there&#39;s other pools right NUFI0? 👀<br><br>ADALITE pool group has added significant pledge and stake since epoch 370, look for yourself:<a href="https://t.co/MCxNeN5sJO">https://t.co/MCxNeN5sJO</a> <a href="https://t.co/r9vHUsNRhH">pic.twitter.com/r9vHUsNRhH</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1645954409250328577?ref_src=twsrc%5Etfw">April 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-NuFi on twitter also stated they will work to address the issue. Two days later the whale entity migrated to other NuFi pools.
+NuFi on twitter also [stated](https://twitter.com/NuFi_Official/status/1646093009719525376?s=20) they will work to address the issue, thanks also to [BBHMM]'s tweet:
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">🚨Attention NUFI0 delegates you will lose your rewards delegated there.<br>🐳Please swim over to some <a href="https://twitter.com/CardanoSPA?ref_src=twsrc%5Etfw">@CardanoSPA</a> pools.<br>🛡️Let&#39;s decentralize cardano even more.<br>☔️ Registered pools get&#39;s drops at <a href="https://twitter.com/TosiDrop?ref_src=twsrc%5Etfw">@TosiDrop</a> <a href="https://t.co/kKrWqnjq8y">https://t.co/kKrWqnjq8y</a><br>✅Check us out and spread the ADA love❤️ <a href="https://t.co/UG4zWC4UhC">pic.twitter.com/UG4zWC4UhC</a></p>&mdash; BBHMM | ☔️ | SSPO | TOSI | FLZ (@BBHMM_Stake) <a href="https://twitter.com/BBHMM_Stake/status/1646005515909050368?ref_src=twsrc%5Etfw">April 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Two days later, the whale entity migrated to other NuFi pools to spread out the stake.
 
 {% img src="nufi0_outgoing.png" alt="nufi0_outgoing" %}
 
-They are likely NuFi or VC friendly wallets, not an intentional staking reward attack to tank the pool.  What turned out to be a suspected over-saturation attack was in reality a lack of due dilligence bone head move.  That would have been an interesting saga to watch.
+The whale herd is likely NuFi or VC friendly wallets, not an intentional OSA to tank the pool.  In reality, it was a lack of due diligence and a bone head move.  That would have been an interesting saga to watch.
 
 
 ## What We're Watching Now

@@ -50,31 +50,29 @@ It's hard to say and prove. However, there has been a significant downsizing and
 
 MAV has increased by 32% from 19 to 25. K-effective has increased by 27% from 34 to 43. The rate of increase has sharply turned positive. These numbers are nothing to sneeze at. One could probably argue the SEC attack has had a correlated effect.
 
-## Other Noteworthy Significant Events
-Some other noteworthy significant events in March-April:
+## Other Noteworthy Significant Events in March-April
 - 11 new pools
     - [EMURG6](https://pool.pm/34d37dabdf2c17056c07a002a685e4bba8673e6bf30c6ef6bd394534) new Emurgo pool
     - New [SWIM] SwimmingPools for the summer heat
 - 1 multi-pool update, [CNODE](https://pool.pm/0775f0139af22e1ebf2c3278598816946e750029b70eace3c5135c3e) (4 pools under [Cardanode](https://www.cardanode.io/))
-- [4/7/23] FAX pool ISPO, 5 Epochs and Saturated! Look out hot stuff at [Orcfax](https://orcfax.io/#ispo)
-- More wave pool finance operated pools?
+- [4/7/23] [FAX](https://pool.pm/7c342689b39e269c29ef74fe12e66dee78df69955544d9f0662f6167) pool ISPO, 5 Epochs and Saturated! Look out hot stuff at [Orcfax](https://orcfax.io/#ispo)
 - [ARM1], nice pledge increase to 800kA
-- [BD%] Blockdaemon Pool Group, updating margin from 3.00 to 8.00%.
+- [BD%](https://pool.pm/5eb362978a68a4780f4fd701b8f04f5aeb990eb80b1cb025d99e82a1) Blockdaemon Pool Group, updating margin from 3.00 to 8.00%.
     - Who are these guys anyway? The short answer is VC Money. We might do a deep dive on them for you.
 
-### AWP2 Not Meeting 1k Pledge
+### [AWP2] Not Meeting 1k Pledge
 
-[4/11/23] AWP2 is a low pledge pool group that keeps messing up their stake pledge. Get out of that pool people if you want rewards.
+[4/11/23] [AWP2](https://pool.pm/ae66e56ab11ccb39e882669f220a37956c683e4ce84fefd910012d7a) pool of [Atomic Wallet](https://atomicwallet.io/) is a low pledge pool group that keeps messing up their stake pledge. Get out of that pool people if you want rewards. How hard is a 1kAda pledge to keep for a 25MAda pool!
 
 {% img src="awp2_pledge_not_met.png" alt="awp2_pledge_not_met" %}
 
-We sent out a warning tweet to the community:
+We sent out a warning tweet to the community, as did [OYSTR Pool](https://twitter.com/OystrPool) (Good looks).
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Imagine not meeting a 1kAda pledge...<br><br>AWP Pool Group has 3 pools, combined 3kAda Pledge, and 125MAda Stake, giving them a 40,000x Leverage Factor.<br><br>AWP has 2 tweets on Cardano in 3 years.<br><br>Between OYSTR and AWP, there&#39;s a clear choice what&#39;s better for the <a href="https://twitter.com/hashtag/CardanoCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#CardanoCommunity</a>. <a href="https://t.co/fa6etdzYfd">https://t.co/fa6etdzYfd</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1645752437523857408?ref_src=twsrc%5Etfw">April 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### NUFI0 Whale Over-Saturation Attack?
+### [NUFI0] Whale Over-Saturation Attack?
 
-Was [NUFI0] Pool subject to a Whale Over-Saturation Attack (OSA)??
+Was [NUFI0] Pool subject to a Whale Over-Saturation Attack (OSA)?? An OSA is when a whale entity delagates a massive amount od stake to a pool to super saturate the pool (stake well over the saturation limit of ~80MAda) and thereby tanks the pool's reward returns.
 
 [NuFi](https://nu.fi/) is a non-custodial web3 crypto wallet service powered by parent company [VacuumLabs](https://vacuumlabs.com/adalite/). The now NUFI% pools can be found under the ADALITE Pool Group, their former wallet and branding. They use to be a super low pledge, high leverage pool group on the far right of the chart, but have since added significant pledge and stake, as shown below:
 
@@ -124,7 +122,7 @@ They currently run just one pool [LGNS1] with a pledge of 10 Ada, but let's see 
 
 So far though they have a decent Cardano awareness and pretty decent [Cardano tweets](https://twitter.com/search?q=from%3Aluganodes%20cardano&src=recent_search_click), so they aren't completely out of touch with the community.
 
-The pool [LGNS1](https://pool.pm/0338d4f1c5e8ebee0689e22148c1483d411c5587d0ab986b8e824428/stake) looks like it has one huge wallet of 41M Ada (M Ada for Million Ada) with 86% majority stake that arrived in epoch 370. This is a new stake address, with [only previous delegation](https://cexplorer.io/stake/stake1u87mn7454dmezggnq6fy3j0fclh0e6zhsd7x5r6t0x4u3fc86730l/delegation#data) to [FKAI](https://cexplorer.io/pool/pool1mmrh2l3t5r7w5l7e82ven0e595vhgvu0hyf4ttrgcyejq8gwqcm) pool, who has a whooping 1.53 Ada met pledge (sarcasim alert). FKAI looks like it is currently inactive with 0% saturation now.  You can probably assume this 41M Ada is VC or Big Business money getting "professional" third party staking service. It makes you wonder, what is the driver to use these third party services and not community delegation?
+The pool [LGNS1](https://pool.pm/0338d4f1c5e8ebee0689e22148c1483d411c5587d0ab986b8e824428/stake) looks like it has one huge wallet of 41MAda (MAda for Million Ada) with 86% majority stake that arrived in epoch 370. This is a new stake address, with [only previous delegation](https://cexplorer.io/stake/stake1u87mn7454dmezggnq6fy3j0fclh0e6zhsd7x5r6t0x4u3fc86730l/delegation#data) to [FKAI](https://cexplorer.io/pool/pool1mmrh2l3t5r7w5l7e82ven0e595vhgvu0hyf4ttrgcyejq8gwqcm) pool, who has a whooping 1.53 Ada met pledge (sarcasim alert). FKAI looks like it is currently inactive with 0% saturation now.  You can probably assume this 41MAda is VC or Big Business money getting "professional" third party staking service. It makes you wonder, what is the driver to use these third party services and not community delegation?
 
 ## BALANCE Updates
 

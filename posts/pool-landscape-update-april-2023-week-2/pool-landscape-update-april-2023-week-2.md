@@ -38,6 +38,11 @@ Specifically in the stake pool landscape...
 
 - SKY pool? Coinbase and Binance size change? WHO KNOWS disappears.
 
+### MAV Increase
+
+|:---:|:----:|:----:|
+|x|y|z|
+|a|b|c|
 
 ## March 2023 Significant Events
 - [Nick Analysis] 11 new pools, 1 multi-pool update CNODE (new pool added - from 3 to 4 pools)
@@ -65,6 +70,19 @@ ADALITE, NUFI0, Epoch 402 multi wallet whale moves 6 sets of 50MAda and 1 13MAda
 
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Imagine not meeting a 1kAda pledge...<br><br>AWP Pool Group has 3 pools, combined 3kAda Pledge, and 125MAda Stake, giving them a 40,000x Leverage Factor.<br><br>AWP has 2 tweets on Cardano in 3 years.<br><br>Between OYSTR and AWP, there&#39;s a clear choice what&#39;s better for the <a href="https://twitter.com/hashtag/CardanoCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#CardanoCommunity</a>. <a href="https://t.co/fa6etdzYfd">https://t.co/fa6etdzYfd</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1645752437523857408?ref_src=twsrc%5Etfw">April 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Noteworthy
+
+More wave pool finance operated pools?
+GMO coin exchange? 
+
+EMURG6 new pool. 
+
+SwimmingPools? 
+
+ARM1 nice pledge increase to 800kA 
+
+Who are these guys? BD
 
 
 ## What We're Watching Now

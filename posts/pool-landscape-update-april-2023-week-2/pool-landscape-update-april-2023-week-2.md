@@ -14,17 +14,17 @@ series: true
 ------------
 
 ## Introduction
-Welcome to BALANCE's Pool Landscape Update Article, a series that will cover the Cardano Stake Pool ecosystem of events and noteable changes. We will focus on pool groups and decentralization, but will of course cover any significant events to keep the Cardano Community aprised with the best pool and chain intelligence. 
+Welcome to BALANCE's Pool Landscape Update Article, a series that will cover the Cardano Stake Pool ecosystem of events and noteable changes. We will focus on pool groups and decentralization, but will of course cover any significant events to keep the Cardano Community aprised with the best pool and chain intel. 
 
-We strive to remain unbias, and will bring just the facts to the table.  However, we will remain vigilant watchdogs and call out any actions to improve network security.
+We strive to remain unbias, and will bring just the facts to the table.  However, we will also remain vigilant watchdogs and call out any actions to improve network security.
 
 This is the first of many articles, enjoy! Be sure to try the Table of Contents hotlinks if you want to skip around.
 
-## Big Picture Coverage of Epoch 370 to 406 (10/17/22-4/16/22)
-We'd be remiss if we didn't cover the big picture at a high level of the stake pool action over the last few months, which saw significant pool activity and movement from what appears to be the SEC crack down (off-chain attacks if you will) on exchanges and staking services. Here's a brief timeline of significant events:
+## Big Picture Coverage of Epoch 370 to 406 (10/17/22-04/16/22)
+We'd be remiss if we didn't cover the big picture at a high level of the stake pool landscape action over the last few months which saw significant activity and movement.  The spur appears to be from the SEC crackdown (off-chain attacks if you will) on exchanges and staking services. Here's a brief timeline of significant events:
 
 ### SEC Rumors and Crackdown Timeline
-- Feb 8, 2023 [Epoch 392], [Brian Armstrong Tweet](https://twitter.com/brian_armstrong/status/1623459203150131201?s=20)
+- Feb 8, 2023 [Epoch 392], [Brian Armstrong Tweet on SEC Rumors](https://twitter.com/brian_armstrong/status/1623459203150131201?s=20)
     > "1/ We're hearing rumors that the SEC would like to get rid of crypto staking in the U.S. for retail customers. I hope that's not the case as I believe it would be a terrible path for the U.S. if that was allowed to happen."
 - Feb 9, 2023 [Epoch 393], [Kraken to end on-chain staking services for U.S. clients](https://blog.kraken.com/post/17619/settlement/)
     > "Kraken has agreed to end its on-chain staking services for U.S. clients. Starting today, Kraken will automatically unstake all U.S. client assets enrolled in the on-chain staking program."
@@ -34,69 +34,76 @@ We'd be remiss if we didn't cover the big picture at a high level of the stake p
     > "Today, we are disappointed to share that the SEC gave us a “Wells notice” regarding an unspecified portion of our listed digital assets, **our staking service Coinbase Earn**, Coinbase Prime, and Coinbase Wallet after a cursory investigation. A Wells notice is the way that SEC staff tells a company that they are recommending that the SEC take enforcement action for possible violations of securities laws. It is not a formal charge or lawsuit, but it can lead to one. Rest assured, Coinbase products and services continue to **operate as usual** - today’s news does not require any changes to our current products or services." (bold text added by BALANCE)
 
 ### Big Pool Movements
-Specifically in the stake pool landscape...
+During the same time period, we saw the following big pool changes.
 
-- SKY pool? Coinbase and Binance size change? WHO KNOWS disappears.
+- **Binance**
+- **Coinbase**
+- **WHO KNOWS**
+- **SKY Pool Group?** Coinbase and Binance size change? WHO KNOWS disappears.
 
 ### MAV Increase
-So has the SEC crack-down been helping out the infamous Nakamoto Coefficient, or Minimum Attack Vector (MAV) of 51% of chain stake ownership (and thus control)?
+So, has the SEC crack-down been helping out the infamous Nakamoto Coefficient, or Minimum Attack Vector (MAV) of 51% of chain stake ownership (and thus control)?
 
+It's hard to say and prove. However, there has been a significant downsize and reorganization on the big pools, and a sharp rate of increase in MAV! 
 
+{% img src="mav_epoch_406.png" alt="mav_epoch_406" %}
 
+MAV has increased by 32% from 19 to 25. K-effective has increased by 27% from 34 to 43. The rate of increase has sharply turned positive. These numbers are nothing to sneeze at. One could probably argue the SEC attack has had a correlated effect.
 
-## March 2023 Significant Events
-- [Nick Analysis] 11 new pools, 1 multi-pool update CNODE (new pool added - from 3 to 4 pools)
-
-## April 2023 Signficant Events
-- FlUX Pool 5 days and saturated
-- AWP2 1k pledge not met
-- FAX
+## Noteworthy Significant Events
+Some other noteworthy significant events in March-April:
+- 11 new pools
+    - GMO - coin exchange? 
+    - EMURG6 new pool
+    - New SwimmingPools? 
+- 1 multi-pool update, CNODE (new pool added - from 3 to 4 pools)
+- [4/7/23] FAX pool ISPO, 5 Epochs and Saturated! Look out hot stuff at [Orcfax](https://orcfax.io/#ispo)
+- More wave pool finance operated pools?
+- [ARM1], nice pledge increase to 800kA
+- [BD%] Blockdaemon Pool Group, updating margin from 3.00 to 8.00%.
+    - Who are these guys anyway? The short answer is VC Money. We might do a deep dive on them for you.
 
 ### AWP2 Not Meeting 1k Pledge
 
-4/11/23
-- AWP2 low pledge pool group keep messing up their stake. Get out of that pool people.
+[4/11/23] AWP2 is a low pledge pool group that keeps messing up their stake pledge. Get out of that pool people if you want rewards.
 
-4/7/23
-- FAX pool ISPO, 5 Epochs and Saturated
-    - https://orcfax.io/#ispo
-
-
-### NUFI0 Whale Oversaturation Attack?
-
-{% img src="adalite_pledge_stake.png" alt="adalite_pledge_stake" %}
-{% img src="adalite_stake_v_lev.png" alt="adalite_stake_v_lev" %}
 {% img src="awp2_pledge_not_met.png" alt="awp2_pledge_not_met" %}
-{% img src="balnc_pledge_increase.png" alt="balnc_pledge_increase" %}
-{% img src="mav_epoch_406.png" alt="mav_epoch_406" %}
-{% img src="nufi0_incoming.png" alt="nufi0_incoming" %}
-{% img src="nufi0_outgoing.png" alt="nufi0_outgoing" %}
-{% img src="nufi0_over_sat.png" alt="nufi0_over_sat" %}
 
-ADALITE, NUFI0, Epoch 402 multi wallet whale moves 6 sets of 50MAda and 1 13MAda, could be the same entity, April 11 2023. 2 Days later the whales migrated to other NuFi pools. They are likely NuFi or VC wallets.
-
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Err...you do know there&#39;s other pools right NUFI0? 👀<br><br>ADALITE pool group has added significant pledge and stake since epoch 370, look for yourself:<a href="https://t.co/MCxNeN5sJO">https://t.co/MCxNeN5sJO</a> <a href="https://t.co/r9vHUsNRhH">pic.twitter.com/r9vHUsNRhH</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1645954409250328577?ref_src=twsrc%5Etfw">April 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
+We sent out a warning tweet to the community:
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Imagine not meeting a 1kAda pledge...<br><br>AWP Pool Group has 3 pools, combined 3kAda Pledge, and 125MAda Stake, giving them a 40,000x Leverage Factor.<br><br>AWP has 2 tweets on Cardano in 3 years.<br><br>Between OYSTR and AWP, there&#39;s a clear choice what&#39;s better for the <a href="https://twitter.com/hashtag/CardanoCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#CardanoCommunity</a>. <a href="https://t.co/fa6etdzYfd">https://t.co/fa6etdzYfd</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1645752437523857408?ref_src=twsrc%5Etfw">April 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Noteworthy
+### NUFI0 Whale Over-Saturation Attack?
 
-More wave pool finance operated pools?
-GMO coin exchange? 
+Was [NUFI0] Pool subject to a Whale Over-Saturation Attack (OSA)??
 
-EMURG6 new pool. 
+[NuFi](https://nu.fi/) is a non-custodial web3 crypto wallet service powered by parent company [VacuumLabs](https://vacuumlabs.com/adalite/). The now NUFI% pools can be found under the ADALITE Pool Group, their former wallet and branding. They use to be a super low pledge, high leverage pool group on the far right of the chart, but have since added significant pledge and stake, as shown below:
 
-SwimmingPools? 
+{% img src="adalite_pledge_stake.png" alt="adalite_pledge_stake" %}
 
-ARM1 nice pledge increase to 800kA 
+{% img src="adalite_stake_v_lev.png" alt="adalite_stake_v_lev" %}
 
-Who are these guys? BD
+So during Epoch 402 a multi-wallet whale entity moves six sets of 50MAda and one 13MAda stake into NUFI0 pool on April 11 2023. That's a total of 313MAda! A pool's saturation is about 80MAda. That's a huge whale herd!
+
+{% img src="nufi0_incoming.png" alt="nufi0_incoming" %}
+
+[NUFI0] quickly found itself insanely over-saturated and losing significant staking rewards.
+
+{% img src="nufi0_over_sat.png" alt="nufi0_over_sat" %}
+
+We and other Single Pools rose the warning flag:
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Err...you do know there&#39;s other pools right NUFI0? 👀<br><br>ADALITE pool group has added significant pledge and stake since epoch 370, look for yourself:<a href="https://t.co/MCxNeN5sJO">https://t.co/MCxNeN5sJO</a> <a href="https://t.co/r9vHUsNRhH">pic.twitter.com/r9vHUsNRhH</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1645954409250328577?ref_src=twsrc%5Etfw">April 12, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+NuFi on twitter also stated they will work to address the issue. Two days later the whale entity migrated to other NuFi pools.
+
+{% img src="nufi0_outgoing.png" alt="nufi0_outgoing" %}
+
+They are likely NuFi or VC friendly wallets, not an intentional staking reward attack to tank the pool.  What turned out to be a suspected over-saturation attack was in reality a lack of due dilligence bone head move.  That would have been an interesting saga to watch.
 
 
 ## What We're Watching Now
-Here's what we are keeping an eye on.
+In other news, here's what we are keeping an eye on.
 
 ### Exodus Launches Cardano Web3 Browser Wallet - Watch EVE Pool Group
 On March 31st Exodus Wallet, a self-custody multi-chain wallet, [announced](https://www.exodus.com/web3-wallet/) they are launching a Cardano Web3 Browser Extension wallet. This is great news as they have a large user base. 
@@ -132,6 +139,7 @@ We are happy to announce our pledge increased by 100,000 Ada, and now includes t
 
 <blockquote class="twitter-tweet" data-dnt="true" align="center"><p lang="en" dir="ltr">Pledge increase alert.<br><br>We now have 22x the pledge of ADALITE (<a href="https://twitter.com/NuFi_Official?ref_src=twsrc%5Etfw">@NuFi_Official</a>) group of 18 pools. 🤷‍♂️ <a href="https://twitter.com/hashtag/CardanoADA?src=hash&amp;ref_src=twsrc%5Etfw">#CardanoADA</a> <a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> <a href="https://twitter.com/hashtag/CardanoCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#CardanoCommunity</a> <a href="https://twitter.com/Cardano_CF?ref_src=twsrc%5Etfw">@Cardano_CF</a> <a href="https://twitter.com/Cardano?ref_src=twsrc%5Etfw">@Cardano</a> <a href="https://twitter.com/CardanoSPA?ref_src=twsrc%5Etfw">@CardanoSPA</a> <a href="https://t.co/hzBsOmeWOy">pic.twitter.com/hzBsOmeWOy</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1646981987062763529?ref_src=twsrc%5Etfw">April 14, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+{% img src="balnc_pledge_increase.png" alt="balnc_pledge_increase" %}
 
 As always, be sure to give us feedback and hope you enjoyed the article! Until next time.
 

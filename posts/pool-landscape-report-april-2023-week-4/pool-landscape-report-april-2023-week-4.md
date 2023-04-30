@@ -163,7 +163,7 @@ Pool ranking actually has a powerful psychological impact. For instance, we are 
 
 BALNCE Pool has surpassed _200 Blocks!_ A new personal record, and many more to come strengthening the network.
 
-{% img src="BALNC_over_200_blocks.png" alt="BALNC_pool_now_over_200_blocks"}
+{% img src="BALNC_over_200_blocks.png" alt="BALNC_pool_now_over_200_blocks" %}
 
 
 

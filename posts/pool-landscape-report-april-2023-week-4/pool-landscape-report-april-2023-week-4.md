@@ -129,40 +129,41 @@ Single ITN Pools spooling down, multiple ISPO and Exchange pools are spooling up
 
 ### The Pool Group Public API Updated to Include Pool Tickers
 
-From our last pool landscape report, there was a request if the [Public BALANCE Pool Group API](https://www.balanceanalytics.io/api/groupdata.json) could be updated to include pool tickers by Community Request from the great STR8 Pool.
+In our last pool landscape report, the great STR8 pool community requested if the [Public BALANCE Pool Group API](https://www.balanceanalytics.io/api/groupdata.json) could be updated to include pool tickers.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Might I suggest to add a third attribute &quot;pool_ticker&quot; next to &quot;pool_hash&quot; and &quot;pool_group&quot; to double check and validate the list and for more human-readability?</p>&mdash; Straight Pool,💧 (@Straightpool4) <a href="https://twitter.com/Straightpool4/status/1648315608558186497?ref_src=twsrc%5Etfw">April 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-We are happy to announce the update has been incorporated!
+It's not a bad idea, and we are delighted to announce that the update has been incorporated!
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Hello!! Great news! The BALANCE pool group data API has been updated to include pool ticker. Enjoy!!</p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1650356131649273857?ref_src=twsrc%5Etfw">April 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Don't forget to bookmark the site, freely share, and suggest more requests: https://www.balanceanalytics.io/api/groupdata.json 
+Don't forget to bookmark the API, share it freely, and suggest more requests.
 
-### New BALANCE Rack Server dedicated to DB-Sync
+Enjoy: https://www.balanceanalytics.io/api/groupdata.json
 
-More great news, as the Pool Node and DB-Sync storage requirements are quickly on the rise, we provisioned for future growth and performance and have procured and installed a new **rack server dedicated to db-sync and BALANCE on-chain analytics**.
+### New BALANCE Rack Server Dedicated to DB-Sync
+More great news: as the Pool Node and DB-Sync storage requirements are quickly on the rise, we have provisioned for future growth and performance and have procured and installed a ***new rack server dedicated to DB-Sync and BALANCE On-chain Analytics.***
 
-We are making big upgrades to exceed current and future hardware requirements by 1.5x minimum at all times using best in business class technology. DB-Sync has been sucessfully re-spooled up and 100% synced with the blockchain tip!
+We are making big upgrades to exceed current and future hardware requirements by at least 1.5x using the best-in-class technology. DB-Sync has been successfully re-spooled up and 100% synced with the blockchain tip!
 
-We'll have more pool and db-sync information coming to our website pool page in the future. Too much building for now, but you'll be impressed with the baremetal setup for sure.
+We'll have more pool and DB-Sync information coming to our website pool page in the future. There is too much building for now, but you'll be impressed with the bare-metal setup, for sure.
 
-Have you noticed the quiet jump in the minimum RAM size requirement for Cardano Node from 16 to 24GB with the latest [1.35.7 release](https://github.com/input-output-hk/cardano-node/releases/tag/1.35.7). It's definitely getting up there fast. Pay attention folks. Have your pools been impacted?
+By the way, have you noticed the quiet jump in the minimum RAM size requirement for Cardano Node from 16 to 24GB with the latest [1.35.7 release](https://github.com/input-output-hk/cardano-node/releases/tag/1.35.7)? It's definitely increasing rapidly. Pay attention, folks. Have your pools been impacted? Many small pools perhaps will be in the coming 1-2 years (gulp).
 
-### BALNC Pool Eternl Ranked 46
-With the updated pledge from 300kAda to 400kAda, we are now super thankful and proud of our high pool ranking in Eternl of #46.
+### BALNC Pool Eternl Now Ranked #46!
+With the updated pledge from 300kAda to 400kAda, we are now super thankful and proud of our high pool ranking in [Eternl Wallet](https://eternl.io/app/mainnet/welcome) of #46.
 
-Eternl uses a pool ranking scheme based not just on performance and reliabilty, but also values and weighs pledge ***much more*** than Daedalus. We believe they also down rank multipools too based on how many. We wish they would open source the scheme! 
+Eternl uses a pool ranking scheme based not just on performance and reliability, but also values and weighs pledge ***much more*** than Daedalus. We believe they also downrank multipools too based on how many. We wish they would open source the scheme!
 
-Pool ranking actually has a powerful different maker. For instance, we are ranked #46 in Eternl but only #541 in Daedalus as of Epoch 408. This is obviously a wide margin based on what is valued and weight ranked.
+Pool ranking actually has a powerful psychological impact. For instance, we are ranked #46 in Eternl but only #541 in Daedalus as of Epoch 408. This is obviously a wide margin based on what is valued and weight ranked. We should have easy-to-understand and find assumptions to aid in decision-making.
 
 {% img src="BALNC_eternl_pool_ranking.png" alt="balnc_pledge_increase_new_eternl_rank_46" %}
 
-### BALNC Pool Passes 200 Blocks
+### BALNC Pool Passes 200 Blocks!
 
 BALNCE Pool has surpassed _200 Blocks!_ A new personal record, and many more to come strengthening the network.
 
-{% img src="BALNC_over_200_blocks.png" alt="BALNC pool now over 200 blocks"}
+{% img src="BALNC_over_200_blocks.png" alt="BALNC_pool_now_over_200_blocks"}
 
 
 

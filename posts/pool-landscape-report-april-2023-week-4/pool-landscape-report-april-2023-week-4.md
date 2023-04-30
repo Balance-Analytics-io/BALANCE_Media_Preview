@@ -13,31 +13,44 @@ series: true
 
 ------------
 
-## Macro Pool Landscape Updates
-(4/16/23 Epoch 406 -> 4/30/23 Epoch 409)
+## Pool Landscape Updates
+**(4/16/23 Epoch 406 -> 4/30/23 Epoch 409)**
 
 Single ITN Pools are spooling down, and multiple ISPO and Exchange pools are spooling up. 
 
-Eighteen (18) new pools have been created since the last report about 2 weeks ago.
+Eighteen (18) new pools have been created since the last report about 2 weeks ago. Ten (10) of the new pools are from UPBIT, a Korean Crypto Exchange.
 
-Ten (10) of the new pools are from UPBIT, a Korean Crypto Exchange.
+Newish Multi-pool KILN offering "Whitelabel Staking Service" is starting to gain significant stake from a pretty deep network of VC partners and Enterprise.
 
-Multi-pool "Whitelabel Staking Service" KILN is starting to gain stake from a pretty deep network of VC partners and Enterprise.
+Of significant note is ITN Single Pool SOBIT with 45MAda announced they are closing. This will move a lot of stake, and hopefully to single pools which they recommened. 
 
-Of significant note is ITN Single Pool SOBIT with 45MAda closing. This will move a lot of stake, hopefully to small pools. But, watch out for this ISPO Pools that attrack delegation like moths to a flame.
+But, watch out for ISPO Pools to gain traction soon and potentially attrack that delegation like moths to a flame.
 
 ### ITN Era Single Pools Closing: SOBIT ADAGL
 **An Ode to SOBIT and ADAGL**
-- SOBIT pool retiring! Do some nice homework on them and recognition “Staking OutOfBits”
-    - https://twitter.com/SOBITADA/status/1630078397836566531?s=20
-    - Perhaps we can earn some of that delegation!
-    - Really stating the point from a MAV effect.  That kind of stake properly distributed could have an immediate impact on the MAV numbers.
-    - “We are an independent and reliable stake pool for the Cardano blockchain from Austria, operated by IT professionals. We adhere to the principle of “one pool per operator” to support decentralization.” https://staking.outofbits.com/ 
 
-- Little late but ADAGL ADA Globe retired at Epoch 408 with 500kAda:
-    - Website says ITN and Mainnet Shelley Nodes, at their height in 17MAda
-    - https://twitter.com/GlobeAda/status/1647243534200721410?s=20 
-    - https://adaglobe.com/ 
+SOBIT pool accounced they're retiring in 2 months. This is a huge blow as they have 45MAda in stake!
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Because we can&#39;t keep up the usual quality of our stake pool service (mostly due to time constraints), we would like to announce the retirement of our pool with the 1st of July 2023.<br><br>We put some pool recommendations on our site: <a href="https://t.co/ECslQmnlUN">https://t.co/ECslQmnlUN</a></p>&mdash; SOBIT Pool - Retired on 1st of July! (@SOBITADA) <a href="https://twitter.com/SOBITADA/status/1630078397836566531?ref_src=twsrc%5Etfw">February 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[SOBITs](https://staking.outofbits.com/), or "Staking Out of Bit", was a verified ITN Single Stake Pool with significant contributions to Cardano. From their website, they were ardent supporters of single pool decentralization.
+
+> “We are an independent and reliable stake pool for the Cardano blockchain from Austria, operated by IT professionals. We adhere to the principle of “one pool per operator” to support decentralization.” https://staking.outofbits.com/ 
+
+Foruntately, they recommend a handful of other single stake pool staples, so hopefully their delegators are keen, and the re-delegation does not impact MAV. That kind of stake properly distributed to other pools could have an immediate impact on the MAV numbers.
+
+So far, scrolling [SOBIT on Pool.pm](https://pool.pm/cdae4a1a08974113e77ea332cb1da97d9e3fca5cf797f9394739214b) the stake seems to be evenly distributing to some pretty large high performance pools, but at least the stake is spread out.
+
+Also, [ADAGL](https://adaglobe.com/), or ADA Globe, [announced]() they are retiring at Epoch 408 with 500kAda of Stake:
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Hi All,<br>This is to notify you that ADAGL pool will be retiring soon. Kindly delegate your stake to some other pool to continue earning staking rewards. Thanks to all delegators who helped us to maintain the pool for a long time.</p>&mdash; ADA Globe - Ticker : ADAGL (Retiring) (@GlobeAda) <a href="https://twitter.com/GlobeAda/status/1647243534200721410?ref_src=twsrc%5Etfw">April 15, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Their website says they supported "ITN and Mainnet Shelley Nodes", and at their height had about 17MAda Live Stake.
+
+We thank SOBIT and ADAGL for their legendary contributions to get us this far in Cardano PoS.
+
+Now enter the new players...
+
 ### KILN
 
 [KILN](https://www.kiln.fi/)
@@ -48,8 +61,6 @@ From their website they describe themselves as:
 > "Enterprise-grade staking made easy. Stake your treasury directly, or bring staking to your users through our whitelabel product."
 
 ### UPBIT
-
-
 
 
 

@@ -26,7 +26,7 @@ Of significant note is ITN Single Pool SOBIT with 45MAda announced they are clos
 
 But, watch out for ISPO Pools to gain traction soon and potentially attrack that delegation like moths to a flame.
 
-### ITN Era Single Pools Closing: SOBIT ADAGL
+### ITN Era Single Pools Closing: SOBIT & ADAGL
 **An Ode to SOBIT and ADAGL**
 
 SOBIT pool accounced they're retiring in 2 months. This is a huge blow as they have 45MAda in stake!
@@ -141,9 +141,7 @@ In our last pool landscape report, the great STR8 pool community requested if th
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Might I suggest to add a third attribute &quot;pool_ticker&quot; next to &quot;pool_hash&quot; and &quot;pool_group&quot; to double check and validate the list and for more human-readability?</p>&mdash; Straight Pool,💧 (@Straightpool4) <a href="https://twitter.com/Straightpool4/status/1648315608558186497?ref_src=twsrc%5Etfw">April 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-It's not a bad idea, and we are delighted to announce that the update has been incorporated!
-
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Hello!! Great news! The BALANCE pool group data API has been updated to include pool ticker. Enjoy!!</p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1650356131649273857?ref_src=twsrc%5Etfw">April 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+It's not a bad idea, and we are delighted to [announce that the update has been incorporated](https://twitter.com/BalanceData22/status/1650356131649273857?s=20)!
 
 Don't forget to bookmark the API, share it freely, and suggest more requests.
 

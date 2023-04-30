@@ -51,18 +51,18 @@ We thank **SOBIT and ADAGL** for their legendary contributions to get us this fa
 
 Now enter the new players...
 
-### KILN
+### KILN - 4 New Pools - SaaS Whitelabel Staking for Enterprise
 
 [KILN](https://www.kiln.fi/) is another Staking-as-a-Service company based out of Paris Fance.  They have a pretty nice dashboard for "whitelabel staking" geared for Enteprise and VC Customers.
 
-{img src="kiln_front_page.png" alt="kiln_front_page" %}
+{% img src="kiln_front_page.png" alt="kiln_front_page" %}
 
 From their website they describe themselves as:
 > "Enterprise-grade staking made easy. Stake your treasury directly, or bring staking to your users through our whitelabel product."
 
 KILN started Ada Stake Pool Group in Epoch 358 of August of 2022, but the big money started really accumulating in Epoch 397 of March 2023 (See [KILN0](https://cexplorer.io/pool/pool10rdglgh4pzvkf936p2m669qzarr9dusrhmmz9nultm3uvq4eh5k)).
 
-They opened four (4) pools, at the time of writing, with Live Stake of combined **257MAda, and 400Ada of pledge, with a total of 17 delegators**.
+At the time of writing, they opened four (4) pools (KILN 0 thru 3) with Live Stake of combined **257MAda, and 400Ada of pledge, with a total of 17 delegators**. That's a lot of Ada, no small pup.
 
 This yields a **Pool Group Leverage of 643,604x**.
 
@@ -70,9 +70,9 @@ No mention of Cardano in their [twitter @Kiln_finance](https://twitter.com/Kiln_
 
 Someone should also let them know Solana ain't Cardano on the [Cardano Staking Page](https://www.kiln.fi/protocols/cardano):
 
-{img src="kiln_ada_page.png" alt="kil_ada_staking_page_error" %}
+{% img src="kiln_ada_page.png" alt="kil_ada_staking_page_error" %}
 
-Looks like they care as much about Cardano as their pool pledge reflects.
+Looks like they care as much about Cardano as their pool pledge reflects. We should help them out.
 
 ### UPBIT
 

@@ -33,42 +33,55 @@ SOBIT pool accounced they're retiring in 2 months. This is a huge blow as they h
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Because we can&#39;t keep up the usual quality of our stake pool service (mostly due to time constraints), we would like to announce the retirement of our pool with the 1st of July 2023.<br><br>We put some pool recommendations on our site: <a href="https://t.co/ECslQmnlUN">https://t.co/ECslQmnlUN</a></p>&mdash; SOBIT Pool - Retired on 1st of July! (@SOBITADA) <a href="https://twitter.com/SOBITADA/status/1630078397836566531?ref_src=twsrc%5Etfw">February 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[SOBITs](https://staking.outofbits.com/), or "Staking Out of Bit", was a verified ITN Single Stake Pool with significant contributions to Cardano. From their website, they were ardent supporters of single pool decentralization.
+[SOBITs](https://staking.outofbits.com/), or "Staking Out of Bit", was a verified ITN Single Stake Pool with significant contributions to Cardano. From their [website](https://staking.outofbits.com/), they were ardent supporters of single pool decentralization.
 
-> “We are an independent and reliable stake pool for the Cardano blockchain from Austria, operated by IT professionals. We adhere to the principle of “one pool per operator” to support decentralization.” https://staking.outofbits.com/ 
+> “We are an independent and reliable stake pool for the Cardano blockchain from Austria, operated by IT professionals. We adhere to the principle of “one pool per operator” to support decentralization.”
 
-Foruntately, they recommend a handful of other single stake pool staples, so hopefully their delegators are keen, and the re-delegation does not impact MAV. That kind of stake properly distributed to other pools could have an immediate impact on the MAV numbers.
+Foruntately, they recommend a handful of other staples single stake pool, so hopefully their delegators are keen, and the re-delegation does not impact MAV. That kind of stake properly distributed to other pools could have an immediate impact on the MAV numbers.
 
-So far, scrolling [SOBIT on Pool.pm](https://pool.pm/cdae4a1a08974113e77ea332cb1da97d9e3fca5cf797f9394739214b) the stake seems to be evenly distributing to some pretty large high performance pools, but at least the stake is spread out.
+So far scrolling [SOBIT on Pool.pm](https://pool.pm/cdae4a1a08974113e77ea332cb1da97d9e3fca5cf797f9394739214b), the stake seems to be evenly distributing to some pretty large high performance pools, but at least the stake is spreading out.
 
 Also, [ADAGL](https://adaglobe.com/), or ADA Globe, [announced]() they are retiring at Epoch 408 with 500kAda of Stake:
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Hi All,<br>This is to notify you that ADAGL pool will be retiring soon. Kindly delegate your stake to some other pool to continue earning staking rewards. Thanks to all delegators who helped us to maintain the pool for a long time.</p>&mdash; ADA Globe - Ticker : ADAGL (Retiring) (@GlobeAda) <a href="https://twitter.com/GlobeAda/status/1647243534200721410?ref_src=twsrc%5Etfw">April 15, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Their website says they supported "ITN and Mainnet Shelley Nodes", and at their height had about 17MAda Live Stake.
+Their website says they supported _"ITN and Mainnet Shelley Nodes"_, and at their height had about 17MAda Live Stake.
 
-We thank SOBIT and ADAGL for their legendary contributions to get us this far in Cardano PoS.
+We thank **SOBIT and ADAGL** for their legendary contributions to get us this far in Cardano PoS.
 
 Now enter the new players...
 
 ### KILN
 
-[KILN](https://www.kiln.fi/)
+[KILN](https://www.kiln.fi/) is another Staking-as-a-Service company based out of Paris Fance.  They have a pretty nice dashboard for "whitelabel staking" geared for Enteprise and VC Customers.
 
-KILN started Epoch 358 in August of 2022, but really started accumulating stake quickly in earnest in Epoch 397 of March 2023 (See [KILN0](https://cexplorer.io/pool/pool10rdglgh4pzvkf936p2m669qzarr9dusrhmmz9nultm3uvq4eh5k)).
+{img src="kiln_front_page.png" alt="kiln_front_page" %}
 
 From their website they describe themselves as:
 > "Enterprise-grade staking made easy. Stake your treasury directly, or bring staking to your users through our whitelabel product."
+
+KILN started Ada Stake Pool Group in Epoch 358 of August of 2022, but the big money started really accumulating in Epoch 397 of March 2023 (See [KILN0](https://cexplorer.io/pool/pool10rdglgh4pzvkf936p2m669qzarr9dusrhmmz9nultm3uvq4eh5k)).
+
+They opened four (4) pools, at the time of writing, with Live Stake of combined **257MAda, and 400Ada of pledge, with a total of 17 delegators**.
+
+This yields a **Pool Group Leverage of 643,604x**.
+
+No mention of Cardano in their [twitter @Kiln_finance](https://twitter.com/Kiln_finance).
+
+Someone should also let them know Solana ain't Cardano on the [Cardano Staking Page](https://www.kiln.fi/protocols/cardano):
+
+{img src="kiln_ada_page.png" alt="kil_ada_staking_page_error" %}
+
+Looks like they care as much about Cardano as their pool pledge reflects.
 
 ### UPBIT
 
 
 
 ### Big Multi-Pool ISPOs Opening
-- 18 new pools created since the last update (approx. 2 weeks)
-    - New pool Shareslake [SHRLK]
+- New pool Shareslake [SHRLK]
         - www.shareslake.com redirects to paybycrypto.app (website) - looks like a new project. Curious, looks ETH based.
-    - Occam.fi [OCCAM] Ispo
+- Occam.fi [OCCAM] Ispo
         - New SPO as a service on the scene - OCCAM: https://ispo.occam.fi 
         - ISPO for $CHAKRA 
         - https://ispo.occam.fi/project/4 
@@ -88,8 +101,8 @@ From their website they describe themselves as:
     - Liquidity Stake Pool Offering. Honestly Iagon is a pretty cool project and at least they are keeping it single pool. Keep you eyes on IAGL1
 
 ## Noteworthy Micro Updates
-- CF whale migration
-- (…. more from notes below… )
+- CF whale migration & LQ cohort 2 delegation - should have nil impact on MAV.
+    - https://twitter.com/Lovecoach_nic/status/1649382379528544261?s=20 
 - Shout out to Liquid for community delegation. (Show tweet). Call to action to vote for us. Maybe a pretty sveltey chart will come out of it, who knows.
     - https://twitter.com/BalanceData22/status/1650891689848889344?s=20 
     - New pools chosen, congrats: https://twitter.com/liqwidfinance/status/1652325919263195136?s=20 
@@ -134,6 +147,12 @@ From their website they describe themselves as:
     - Something to keep an eye on, as DeFi ramps up, and TVL, does Staking % go down? If folks can get a better return in DeFi than Staking (which will only go down over time as reserve rewards diminish)…https://twitter.com/liberlion17/status/1649378719046197258?s=20 
 
 ## BALANCE Updates
+
+### CF Delegation Grant for BALNC Round 2
+
+We thank the Cardano Foundation for another round of Delegation Grant to BALNC Pool! This makes round two. We are very fortunate, thank the CF, and will build more community charts!
+
+You can see the full list of current CF delegation pools on Pool.pm [here](https://pool.pm/cf/stake).
 
 ### The Pool Group Public API Updated to Include Pool Tickers
 

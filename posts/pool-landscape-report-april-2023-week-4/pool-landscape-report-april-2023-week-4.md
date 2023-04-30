@@ -14,46 +14,47 @@ series: true
 ------------
 
 ## Macro Pool Landscape Updates
-- big small pools closing SOBIT ADAGL
-- big multi pool ISPOs opening (or will open)
-- 18 new pools, 5 from UPBIT
-- [Nick Analysis] Another group that recently appeared in the last month or so is KILN - https://www.kiln.fi/.  There are a staking service with a pretty deep network of VC partners
+(4/16/23 Epoch 406 -> 4/30/23 Epoch 409)
 
-## Noteworthy Micro Updates
-- CF whale migration
-- Ode to SOBIT and ADAGL
-- PRIDE reaches 10k Followers
-- (…. more from notes below… )
-- Shout out to Liquid for community delegation. (Show tweet). Call to action to vote for us. Maybe a pretty sveltey chart will come out of it, who knows.
-    - New pools chosen, congrats: https://twitter.com/liqwidfinance/status/1652325919263195136?s=20 
+Single ITN Pools are spooling down, and multiple ISPO and Exchange pools are spooling up. 
 
+Eighteen (18) new pools have been created since the last report about 2 weeks ago.
 
+Ten (10) of the new pools are from UPBIT, a Korean Crypto Exchange.
 
+Multi-pool "Whitelabel Staking Service" KILN is starting to gain stake from a pretty deep network of VC partners and Enterprise.
 
+Of significant note is ITN Single Pool SOBIT with 45MAda closing. This will move a lot of stake, hopefully to small pools. But, watch out for this ISPO Pools that attrack delegation like moths to a flame.
 
-04/25/23
-- 5 new pools UPBIT Korean exchange established 2017
-    - 100% margin (public) private pools, 200k pledge, 1.8MAda delegations
-    - https://sg.upbit.com/home
-    - (Pick ignore translation, Korean has more detail)
-- SpectrumFi (formerly ErgoDEX) launching cross-chain to Cardano and pursuing an ISPO
-    - https://twitter.com/SpectrumLabs_/status/1650565473967194113?s=20 
-    - They are open source everything and have a steadfast grassroots community. We’ll keep an eye on these potential pools.
-- Little late but ADAGL ADA Globe retired at Epoch 408 with 500kAda:
-    - Website says ITN and Mainnet Shelley Nodes, at their height in 17MAda
-    - https://twitter.com/GlobeAda/status/1647243534200721410?s=20 
-    - https://adaglobe.com/ 
-
-4/24/23
+### ITN Era Single Pools Closing: SOBIT ADAGL
+**An Ode to SOBIT and ADAGL**
 - SOBIT pool retiring! Do some nice homework on them and recognition “Staking OutOfBits”
     - https://twitter.com/SOBITADA/status/1630078397836566531?s=20
     - Perhaps we can earn some of that delegation!
     - Really stating the point from a MAV effect.  That kind of stake properly distributed could have an immediate impact on the MAV numbers.
     - “We are an independent and reliable stake pool for the Cardano blockchain from Austria, operated by IT professionals. We adhere to the principle of “one pool per operator” to support decentralization.” https://staking.outofbits.com/ 
-- PRIDE Pool aka “Stake With Pride” passed 10k followers on Twitter and is a single pool doing great work for the Cardano network health! Congrats! He’s also been a supporter of CIP-50 research. (Find twitter picture)
 
-4/23/23
-- [Nick] 18 new pools created since the last update (approx. 2 weeks)
+- Little late but ADAGL ADA Globe retired at Epoch 408 with 500kAda:
+    - Website says ITN and Mainnet Shelley Nodes, at their height in 17MAda
+    - https://twitter.com/GlobeAda/status/1647243534200721410?s=20 
+    - https://adaglobe.com/ 
+### KILN
+
+[KILN](https://www.kiln.fi/)
+
+KILN started Epoch 358 in August of 2022, but really started accumulating stake quickly in earnest in Epoch 397 of March 2023 (See [KILN0](https://cexplorer.io/pool/pool10rdglgh4pzvkf936p2m669qzarr9dusrhmmz9nultm3uvq4eh5k)).
+
+From their website they describe themselves as:
+> "Enterprise-grade staking made easy. Stake your treasury directly, or bring staking to your users through our whitelabel product."
+
+### UPBIT
+
+
+
+
+
+### Big Multi-Pool ISPOs Opening
+- 18 new pools created since the last update (approx. 2 weeks)
     - New pool Shareslake [SHRLK]
         - www.shareslake.com redirects to paybycrypto.app (website) - looks like a new project. Curious, looks ETH based.
     - Occam.fi [OCCAM] Ispo
@@ -74,56 +75,52 @@ series: true
     - https://cexplorer.io/pool/pool1ztk6dcj2nc3plnujf3ek6jqngtx8hcryufz56lyumemlcy2xxn0 
     - IAGL1
     - Liquidity Stake Pool Offering. Honestly Iagon is a pretty cool project and at least they are keeping it single pool. Keep you eyes on IAGL1
-- Goofy Gophers Mining Club, GGMC
-    - Keep your eyes peeled for any new pools looking like this: https://twitter.com/GGMC_nft/status/1650249711129968640?s=20
-    - Goofy Gophers Mining Club | SOLD OUT on Twitter - Twitter
-    - “Miners have started to arrive in Iowa ⛏️ Soon, they'll be working day and night to power the GGMC and pour liquidity into #ADA ☀️🌙 #UtilityCNFT”
-    - Hat tip to Bison Coin for this: https://twitter.com/bisoncoin_io/status/1650250966216896514?s=20 (use this tweet in the article embedded pic)
-- [Nick] Found a Cardanians [CRDNS] private pool big boy of 42.5 Million.
+
+## Noteworthy Micro Updates
+- CF whale migration
+- (…. more from notes below… )
+- Shout out to Liquid for community delegation. (Show tweet). Call to action to vote for us. Maybe a pretty sveltey chart will come out of it, who knows.
+    - https://twitter.com/BalanceData22/status/1650891689848889344?s=20 
+    - New pools chosen, congrats: https://twitter.com/liqwidfinance/status/1652325919263195136?s=20 
+- 5 new pools UPBIT Korean exchange established 2017
+    - 100% margin (public) private pools, 200k pledge, 1.8MAda delegations
+    - https://sg.upbit.com/home
+    - (Pick ignore translation, Korean has more detail)
+- PRIDE Pool aka “Stake With Pride” passed 10k followers on Twitter and is a single pool doing great work for the Cardano network health! Congrats! He’s also been a supporter of CIP-50 research. (Find twitter picture)
+- NMKR went from 1M pledge to 800k. They went 99% margin private 3 months ago. Interesting did not know they had a pool. Glad it’s single. Is it a company treasury or savings account? The next MicroStrategy, going Ada Standard? 
+- Found a Cardanians [CRDNS] private pool big boy of 42.5 Million.
     - Hmm..just reviewing some of the old pools with high saturation and came across this private pool:(edited)
     - https://cardanoscan.io/pool/e069112add6af5fa1a11a1716357de1848c22229eb2eaa007702d5c9?tab=epochhistory 
     - https://cexplorer.io/pool/pool1up53z2kadt6l5xs359ckx477rpyvyg3favh25qrhqt2ujclpq3h/about#data (to see cardanians relays)
     - Appears to be part of the Cardanians group based on relay data(edited)
     - 42.5 Million ADA staked...this is no puppy
+
+
+
+## What We're Watching: The Power of ISPO Pools
+
 - FAX ISPO, do a deeper dive 
     - Amazing how fast it filled up. Warrants some attention. 
     - Trend to expect for Cardano Degen Token and NFT summer?
     - Expect more ADA dumping to fiat?
     - Lecture on ISPOs not all that great because dumps ADA to Fiat to pay for employees. 
     - What pools did the delegation come from? Anything notable? 
-- Dig into Binance stake what happened to it?
-- BALANCE Pool Group API updated
-    - Pool ticker name is now included per community request
-
-4/22/23
-- [Garant] Something to keep an eye on, as DeFi ramps up, and TVL, does Staking % go down? If folks can get a better return in DeFi than Staking (which will only go down over time as reserve rewards diminish)…https://twitter.com/liberlion17/status/1649378719046197258?s=20 
-
-4/21/23
-- [Garant] CF Whales migrated. Glean any insights from the old to new pools.
-
-4/20/23
-- [Garant] NMKR went from 1M pledge to 800k. They went 99% margin private 3 months ago. Interesting did not know they had a pool. Glad it’s single. Is it a company treasury or savings account? The next MicroStrategy, going Ada Standard? 
-
-
-
-
-
-
-
-
-
-
-
-## The Power of ISPOs Pools
-Single ITN Pools spooling down, multiple ISPO and Exchange pools are spooling up.
 - FAX went so quickly, AXO MAL ISPO (look into) - major black holes that quickly suck in utility. Maybe a lot comes from exchanges searching for the next big token. Perhaps necessary evil because when they close, stake migrated elsewhere.
 
-## What We're Watching
-- SpectrumFi ISPO
+- Spectrum Finance ISPO
+    - SpectrumFi (formerly ErgoDEX) launching cross-chain to Cardano and pursuing an ISPO
+    - https://twitter.com/SpectrumLabs_/status/1650565473967194113?s=20 
+    - They are open source everything and have a steadfast grassroots community. We’ll keep an eye on these potential pools.
 - Iagon ISPO
 - Goofy Goofers (h/t Bison)
+    - Goofy Gophers Mining Club, GGMC
+    - Keep your eyes peeled for any new pools looking like this: https://twitter.com/GGMC_nft/status/1650249711129968640?s=20
+    - Goofy Gophers Mining Club | SOLD OUT on Twitter - Twitter
+    - “Miners have started to arrive in Iowa ⛏️ Soon, they'll be working day and night to power the GGMC and pour liquidity into #ADA ☀️🌙 #UtilityCNFT”
+    - Hat tip to Bison Coin for this: https://twitter.com/bisoncoin_io/status/1650250966216896514?s=20 (use this tweet in the article embedded pic)
 - Reverse ISPO flood from rumors of Frosty and team implosion? Smells of a staking bank run in the making. 
 - Total staked dropping to high 67%, DeFi offering better returns? (h/t LiberLion article)
+    - Something to keep an eye on, as DeFi ramps up, and TVL, does Staking % go down? If folks can get a better return in DeFi than Staking (which will only go down over time as reserve rewards diminish)…https://twitter.com/liberlion17/status/1649378719046197258?s=20 
 
 ## BALANCE Updates
 

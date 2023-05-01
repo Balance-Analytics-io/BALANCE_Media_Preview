@@ -130,15 +130,11 @@ Honestly Iagon is a pretty cool project and at least they are keeping it single 
 - Found a Cardanians [CRDNS](https://cardanoscan.io/pool/e069112add6af5fa1a11a1716357de1848c22229eb2eaa007702d5c9?tab=epochhistory) private pool big boy of 42.5 Million. You can tell by the relays [here](https://cexplorer.io/pool/pool1up53z2kadt6l5xs359ckx477rpyvyg3favh25qrhqt2ujclpq3h/about#data).
 
 ## What We're Watching: The Power of ISPO Pools
+It's no secret that ISPO pools have the power to pull delegation away from many single pools, thus affecting MAV and network health.
 
-- FAX ISPO, do a deeper dive 
-    - Amazing how fast it filled up. Warrants some attention. 
-    - Trend to expect for Cardano Degen Token and NFT summer?
-    - Expect more ADA dumping to fiat?
-    - Lecture on ISPOs not all that great because dumps ADA to Fiat to pay for employees. 
-    - What pools did the delegation come from? Anything notable? 
-- FAX went so quickly, AXO MAL ISPO (look into) - major black holes that quickly suck in utility. Maybe a lot comes from exchanges searching for the next big token. Perhaps necessary evil because when they close, stake migrated elsewhere.
+Just look at how fast FAX pool saturated for the OrcFax ISPO, [0 to Saturated in 10 Epochs](https://cexplorer.io/pool/pool10s6zdzdnncnfc200wnlp9endaeud76v424zdnurx9askwshm02x).
 
+****fix up****
 - Spectrum Finance ISPO
     - SpectrumFi (formerly ErgoDEX) launching cross-chain to Cardano and pursuing an ISPO
     - https://twitter.com/SpectrumLabs_/status/1650565473967194113?s=20 
@@ -153,6 +149,8 @@ Honestly Iagon is a pretty cool project and at least they are keeping it single 
 - Reverse ISPO flood from rumors of Frosty and team implosion? Smells of a staking bank run in the making. 
 - Total staked dropping to high 67%, DeFi offering better returns? (h/t LiberLion article)
     - Something to keep an eye on, as DeFi ramps up, and TVL, does Staking % go down? If folks can get a better return in DeFi than Staking (which will only go down over time as reserve rewards diminish)…https://twitter.com/liberlion17/status/1649378719046197258?s=20 
+
+****fix up****
 
 ## BALANCE Updates
 

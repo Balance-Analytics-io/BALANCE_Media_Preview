@@ -138,7 +138,7 @@ Therefore, we are watching the following ISPO Pools that will likely open in the
 
 - **Spectrum Finance ISPO**: [SpectrumFi](https://spectrum.fi/) (formerly ErgoDEX) launching cross-chain to Cardano and pursuing an [ISPO per their twitter announcement](https://twitter.com/SpectrumLabs_/status/1650565473967194113?s=20)
     - They open source everything and have a steadfast grassroots community. We’ll keep an eye on these potential pools as this launch may be big.
-- **Iagon ISPO** might rip like FAX and pool stake from single small pools.
+- **Iagon ISPO** might rip like FAX and remove pool stake from single small pools.
 - **Goofy Goofers**: Goofy Gophers Mining Club, [GGMC]. Keep your eyes peeled for any new pools looking like [GGMC](https://twitter.com/GGMC_nft/status/1650249711129968640?s=20)
     - Goofy Gophers Mining Club | SOLD OUT on Twitter - Twitter
     - “Miners have started to arrive in Iowa ⛏️ Soon, they'll be working day and night to power the GGMC and pour liquidity into #ADA ☀️🌙 #UtilityCNFT”
@@ -146,11 +146,11 @@ Therefore, we are watching the following ISPO Pools that will likely open in the
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">First project to bring the real world generated revenue back it&#39;s cardano investors<br><br>If this is not bullish then idk what is 🤍🚀<a href="https://twitter.com/hashtag/ggmc?src=hash&amp;ref_src=twsrc%5Etfw">#ggmc</a> <a href="https://twitter.com/search?q=%24ada&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ada</a> <a href="https://t.co/yjCpcbUqk5">https://t.co/yjCpcbUqk5</a></p>&mdash; Bison Coin 🉐 (@bisoncoin_io) <a href="https://twitter.com/bisoncoin_io/status/1650250966216896514?ref_src=twsrc%5Etfw">April 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+The impacts and discussion of ISPO Pools will have to be done in the future. For the record, BALANCE remains indifferent unless it starts impacting Cardano's network decentralization.
+
 - **Total staked dropping to high 67%**,: Is DeFi offering better returns? Why the drop in stake? Something to keep an eye on, as DeFi ramps up, and TVL, does Staking % go down? If folks can get a better return in DeFi than Staking (which will only go down over time as reserve rewards diminish). Hat tip to LiberLion for bringing this topic to light. 
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">1/3<a href="https://twitter.com/hashtag/DeFi?src=hash&amp;ref_src=twsrc%5Etfw">#DeFi</a> is a problem for PoS<br><br>PoS is secure if delegators are incentivized to staking, but if they can get better returns elsewhere, they can withdraw their cryptocurrencies and go with their funds where it yields more. If this happens, the network becomes less secure.</p>&mdash; Li₿εʁLiøη (@liberlion17) <a href="https://twitter.com/liberlion17/status/1649378719046197258?ref_src=twsrc%5Etfw">April 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-The impacts and discussion of ISPO Pools will have to be done in the future. For the record, BALANCE remains indifferent unless it starts impacting Cardano's network decentralization.
 
 ## BALANCE Updates
 

@@ -80,26 +80,26 @@ Looks like they care as much about Cardano as their pool pledge reflects. We sho
 
 ### UPBIT - 10 New Pools - South Korean Crypto Exchange
 
-[UPBIT](https://upbit.com/home) is a South Korean cryptocurrency exchange. It was founded in 2017 by the Korean fintech company Dunamu Inc. and has become one of the largest exchanges in South Korea. If you go under the Korean language option in the website landing page, there's a ton more details to translate.
+[UPBIT](https://upbit.com/home) is a South Korean cryptocurrency exchange. It was founded in 2017 by the Korean fintech company Dunamu Inc. and has become one of the largest exchanges in South Korea. If you go under the Korean language option in the website landing page, there's a ton more details to translate than the English version.
 
-At the time of writing, they have opened **ten (10) new pools** all under UPBIT, with a combined **Live Stake of 97MAda, and 2MAda pledge (not bad)**, with a total of 10 delegators. All the pools have 200kAda pledge and 100% margin fee. 
+At the time of writing, they have opened **ten (10) new pools** all under UPBIT, with a combined **Live Stake of 97MAda, and 2MAda pledge (not bad)**, and a total of 10 delegators. All the pools have 200kAda pledge and 100% margin fee. 
 
-This yields a **Pool Group Leverage of 48x, which is actually exceedingly excellent** for an Exchange pools.
+This yields a **Pool Group Leverage of 48x, which is actually exceedingly excellent** for Exchange pools. We'll leave the exercise up to the reader to find them in the Stake vs Leverage Chart.
 
-Not too shabby UPBIT. No Cardano tweets yet though from [@Official_Upbit](https://twitter.com/search?q=from%3AOfficial_Upbit%20Cardano&src=typed_query&f=top)
+Not too shabby UPBIT. No Cardano tweets yet though from [@Official_Upbit](https://twitter.com/search?q=from%3AOfficial_Upbit%20Cardano&src=typed_query&f=top).
 
 ### Multiple ISPO Pools Opening Under the Radar
-Of the new pools, there were some interesting finds on the public blockchain that are telling. It looks like multiple new ISPO pools are on the horizon.
+Among the eighteen new pools that have been created since the last report, some interesting findings have emerged on the public blockchain. Specifically, it appears that multiple new ISPO pools may be on the horizon.
 
 **Shareslake [SHRLK]**
 
-One (1) new pool was registered on-chain as [SHRLK] from the former Cardano Side-chain Stablecoin effort Shareslake. You can read more about them from an Adapulse article by Blocksplain [Shareslake : A Fiat-backed Stablecoin and Ecosystem – A Sidechain of Cardano](https://adapulse.io/shareslake-a-fiat-backed-stablecoin-and-ecosystem-a-sidechain-of-cardano/)  
+One (1) new pool registered on-chain was **SHRLK** from the former Cardano Side-chain Stablecoin effort _Shareslake_. You can read more about them from an Adapulse article by Blocksplain: [Shareslake : A Fiat-backed Stablecoin and Ecosystem – A Sidechain of Cardano](https://adapulse.io/shareslake-a-fiat-backed-stablecoin-and-ecosystem-a-sidechain-of-cardano/)  
 
-Anyway, the interesting tidbit is that the website www.shareslake.com redirects to paybycrypto.app (a website), which looks like a new project. Something is in the works it seems, but ETH based?
+Anyway, the interesting tidbit is that the website www.shareslake.com redirects to [paybycrypto.app](paybycrypto.app) (a website), which looks like a new project. Something is in the works it seems, but ETH based?
 
 **Occam.fi [CHKR1] ISPO**
 
-One (1) new pool registered was CHKR1, which seems to the an Occam ISPO pool for $CHAKRA token. [Occam](https://occam.fi/) has been around Cardano for a few years now and describes itself from their website as _"Interchain incubator DAO & DeFi powerhouse"_.
+One (1) new pool registered was **CHKR1**, which seems to the an Occam ISPO pool for $CHAKRA token. [Occam](https://occam.fi/) has been around Cardano for a few years now and describes itself from their website as _"Interchain incubator DAO & DeFi powerhouse"_.
 
 It now looks like Occam is in the [ISPO-as-a-Service Business](https://ispo.occam.fi). If you stake in the CHKR1 pool, you will get the $CHAKRA token which seems to be [Occam's DAO governance token](https://ispo.occam.fi/project/4)
 
@@ -113,13 +113,11 @@ Are both Sharelake and Occam projects back from the dead in Cardanoland?
 
 **Iagon Liquidity Stake Pool Offering, IAGL1**
 
-Yet another new pool registered was [IAGL1](https://pool.pm/12eda6e24a9e221fcf924c736d481342cc7be064e2454d7c9cde77fc) of Iagon.
+Yet another new pool registered was **[IAGL1](https://pool.pm/12eda6e24a9e221fcf924c736d481342cc7be064e2454d7c9cde77fc)** of Iagon.
 
 [Iagon](https://blog.iagon.com/), "The first Cloud Computing Platform on Cardano", recently [announced on twitter](https://twitter.com/IagonOfficial/status/1648407891437670408?s=20) that they are launching a [Liquidity Stake Pool Offering (LSPO) on Minswap](https://blog.iagon.com/iagons-liquidity-reward-program-explained/), for which they will be offering $IAG tokens. Per the blog post:
 
->Iagon aims to incentivize liquidity for the $IAG token by rewarding users who stake in our newly listed pools on Cardano DEXes and participate in the LSPO.
-
->"It is set to unleash its power on the DEXes Minswap and Wingriders, as well as the LSPO (Liquidity Stake Pool Offering) pool, in collaboration with the Norwegian crypto exchange, **NBX  & ADAnorthpool** for additional rewards for those who participate."
+>Iagon aims to incentivize liquidity for the $IAG token by rewarding users who stake in our newly listed pools on Cardano DEXes and participate in the LSPO..."It is set to unleash its power on the DEXes Minswap and Wingriders, as well as the LSPO (Liquidity Stake Pool Offering) pool, in collaboration with the Norwegian crypto exchange, **NBX  & ADAnorthpool** for additional rewards for those who participate."
 
 Interestingly enough, Ada North Pool [ANP](https://pool.pm/0000fc522cea692e3e714b392d90cec75e4b87542c5f9638bf9a363a) seems to have disclosed to the Cardano Single Pool Alliance that he was going to run another pool for a business. Looks like Iagon Pool is it. 
     

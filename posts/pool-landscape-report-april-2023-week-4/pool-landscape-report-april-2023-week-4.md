@@ -129,7 +129,7 @@ Honestly, Iagon is a pretty cool project and at least they are keeping it single
 - **Cardano Foundation (CF) Whales** have [migrated](https://twitter.com/Lovecoach_nic/status/1649382379528544261?s=20) to a new Cohort of pools focused on building.
 - **Liqwid Finance (LQ)** [announced](https://twitter.com/liqwidfinance/status/1652325919263195136?s=20) a new Cohort 2 community delegation to single pools. Much respect to the Community Delegation initiative as we dogpiled in [the tweeting positive recognition](https://twitter.com/BalanceData22/status/1650891689848889344?s=20)!
 - **CF and LQ Community Delegation** definitely stirs up some staking changes and volatility, but as the delegation is to single pools, these whale delegation changes should have no significant affect on MAV. The smaller fish might scatter though from the pools the Whales left.
-- **[PRIDE Pool](https://twitter.com/StakeWithPride)** aka “Stake With Pride” passed ***10k followers** on Twitter _and_ is a single pool doing great work. Congrats! He’s also a supporter of CIP-50 research and decentralization. Checkout this tweet and classic throwback debute of Dr. Liesenfelt on Reward Sharing Scheme (RSS) research with Rick [DIGI].
+- **[PRIDE Pool](https://twitter.com/StakeWithPride)** aka “Stake With Pride” passed ***10k followers*** on Twitter _and_ is a single pool doing great work. Congrats! He’s also a supporter of CIP-50 research and decentralization. Checkout this tweet and classic throwback debute of Dr. Liesenfelt on Reward Sharing Scheme (RSS) research with Rick [DIGI].
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Read Dr. Michael Liesenfelt&#39;s <a href="https://twitter.com/DrLiesenfelt?ref_src=twsrc%5Etfw">@DrLiesenfelt</a> CIP that updates the <a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> rewards equation to better utilize pledge. <a href="https://t.co/AxNydXkx1G">https://t.co/AxNydXkx1G</a> <br><br>Then watch <a href="https://twitter.com/RichardMcCrackn?ref_src=twsrc%5Etfw">@RichardMcCrackn</a>&#39;s full interview as there&#39;s a lot of good info not in this clip! <a href="https://t.co/CZcihBdJGj">https://t.co/CZcihBdJGj</a> <a href="https://t.co/98WrptZuyc">pic.twitter.com/98WrptZuyc</a></p>&mdash; St₳kΣ with Pride 🌈 (@StakeWithPride) <a href="https://twitter.com/StakeWithPride/status/1507851755727454213?ref_src=twsrc%5Etfw">March 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -150,21 +150,21 @@ It's no secret that ISPO pools have the power to pull delegation away from many 
 
 Just look at how fast FAX pool saturated for the OrcFax ISPO, [0 to Saturated in 10 Epochs](https://cexplorer.io/pool/pool10s6zdzdnncnfc200wnlp9endaeud76v424zdnurx9askwshm02x).
 
-Therefore, we are watching the following ISPO Pools that will likely open in the next few weeks or months. The impacts of ISPO Pools will have to be done in the future. 
+Therefore, we are watching the following ISPO Pools that will likely open in the next few weeks or months. The impacts and pros and cons of ISPO Pools will have to be a separate article in the future.
 
-- **Spectrum Finance ISPO**: [SpectrumFi](https://spectrum.fi/) (formerly ErgoDEX) launching cross-chain to Cardano and pursuing an [ISPO per their twitter announcement](https://twitter.com/SpectrumLabs_/status/1650565473967194113?s=20)
-    - They open source everything and have a steadfast grassroots community. We’ll keep an eye on these potential pools as this launch may be big.
-- **Iagon ISPO** might rip like FAX and remove pool stake from single small pools.
-- **Goofy Goofers**: Goofy Gophers Mining Club, [GGMC]. Keep your eyes peeled for any new pools looking like [GGMC](https://twitter.com/GGMC_nft/status/1650249711129968640?s=20)
-    - Goofy Gophers Mining Club | SOLD OUT on Twitter - Twitter
+- **Spectrum Finance ISPO**: [SpectrumFi](https://spectrum.fi/) (formerly ErgoDEX) is launching cross-chain to Cardano and pursuing an [ISPO per their twitter announcement](https://twitter.com/SpectrumLabs_/status/1650565473967194113?s=20)
+    - SpectrumFi open sources everything and have a steadfast grassroots community. We’ll keep an eye on these potential pools as this launch may be big.
+- **Iagon ISPO** might be hot and rip like FAX, removing pool stake from many single small pools.
+- **Goofy Goofers**: Goofy Gophers Mining Club, [GGMC]. Not entirely sure what this is yet, but seems like a PoW for PoS project with degen NFTs built in. Keep your eyes peeled for any new pools looking like [GGMC](https://twitter.com/GGMC_nft/status/1650249711129968640?s=20). It seems to be quite popular, and apparently a legitmate project.
+    - Goofy Gophers Mining Club | **SOLD OUT** per on Twitter name
     - “Miners have started to arrive in Iowa ⛏️ Soon, they'll be working day and night to power the GGMC and pour liquidity into #ADA ☀️🌙 #UtilityCNFT”
-    - Hat tip to Bison Coin for this tipoff: 
+    - Hat tip to Bison Coin for this tipoff. He said he'll have an in-depth article review.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">First project to bring the real world generated revenue back it&#39;s cardano investors<br><br>If this is not bullish then idk what is 🤍🚀<a href="https://twitter.com/hashtag/ggmc?src=hash&amp;ref_src=twsrc%5Etfw">#ggmc</a> <a href="https://twitter.com/search?q=%24ada&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ada</a> <a href="https://t.co/yjCpcbUqk5">https://t.co/yjCpcbUqk5</a></p>&mdash; Bison Coin 🉐 (@bisoncoin_io) <a href="https://twitter.com/bisoncoin_io/status/1650250966216896514?ref_src=twsrc%5Etfw">April 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The impacts and discussion of ISPO Pools will have to be done in the future. For the record, BALANCE remains indifferent unless it starts impacting Cardano's network decentralization.
+As mentioned earlier, the effects of ISPO Pools and their impact on Cardano's network decentralization will be discussed in a future article. BALANCE is currently neutral on the matter, unless it begins to affect small single pools by drawing away their stake or becoming involved with risky tokens whose owners cashout to fiat 100% of their ADA staking rewards.
 
-- **Total staked dropping to high 67%**,: Is DeFi offering better returns? Why the drop in stake? Something to keep an eye on, as DeFi ramps up, and TVL, does Staking % go down? If folks can get a better return in DeFi than Staking (which will only go down over time as reserve rewards diminish). Hat tip to LiberLion for bringing this topic to light. 
+- **Total staked dropping to 67%**: Are DeFi offerings providing better returns than staking? Why the decrease in staked ADA? This is something to monitor as DeFi gains momentum and Total Value Locked (TVL) increases. Will the staking percentage decline? If individuals can earn better returns in DeFi compared to staking (which will decrease over time as reserve rewards reduce), it could be a cause for concern. Many thanks to [LiberLion](https://twitter.com/liberlion17) for bringing this topic to our attention.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">1/3<a href="https://twitter.com/hashtag/DeFi?src=hash&amp;ref_src=twsrc%5Etfw">#DeFi</a> is a problem for PoS<br><br>PoS is secure if delegators are incentivized to staking, but if they can get better returns elsewhere, they can withdraw their cryptocurrencies and go with their funds where it yields more. If this happens, the network becomes less secure.</p>&mdash; Li₿εʁLiøη (@liberlion17) <a href="https://twitter.com/liberlion17/status/1649378719046197258?ref_src=twsrc%5Etfw">April 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -172,13 +172,13 @@ The impacts and discussion of ISPO Pools will have to be done in the future. For
 
 ### CF Delegation Grant for BALNC Round 2
 
-We thank the Cardano Foundation for another round of Delegation Grant to BALNC Pool! This makes round two. We are very fortunate, thank the CF, and will build more community charts!
+We thank the Cardano Foundation for ***another round*** of Grant Delegation to BALNC Pool! This makes round two (2). We are very fortunate, thank the CF, and will build more community charts as promised!
 
-You can see the full list of current CF delegation pools on Pool.pm [here](https://pool.pm/cf/stake).
+Note: You can see the full list of current CF community delegation pools on Pool.pm [here](https://pool.pm/cf/stake). Community delegation is the way.
 
-### The Pool Group Public API Updated to Include Pool Tickers
+### The Public Pool Group API Updated to Include Pool Tickers
 
-In our last pool landscape report, the great STR8 pool community requested if the [Public BALANCE Pool Group API](https://www.balanceanalytics.io/api/groupdata.json) could be updated to include pool tickers.
+In our last pool landscape report, the great [STR8](https://twitter.com/Straightpool4) pool made a community request if the [Public BALANCE Pool Group API](https://www.balanceanalytics.io/api/groupdata.json) could be updated to include pool tickers.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Might I suggest to add a third attribute &quot;pool_ticker&quot; next to &quot;pool_hash&quot; and &quot;pool_group&quot; to double check and validate the list and for more human-readability?</p>&mdash; Straight Pool,💧 (@Straightpool4) <a href="https://twitter.com/Straightpool4/status/1648315608558186497?ref_src=twsrc%5Etfw">April 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

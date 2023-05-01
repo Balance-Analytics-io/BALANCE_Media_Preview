@@ -137,8 +137,10 @@ Honestly, Iagon is a pretty cool project and at least they are keeping it single
 - **Cardanians [CRDNS](https://cardanoscan.io/pool/e069112add6af5fa1a11a1716357de1848c22229eb2eaa007702d5c9?tab=epochhistory) private pool discovered**: It's a big boy of 42.5 Million Ada. You can tell by the relays [here](https://cexplorer.io/pool/pool1up53z2kadt6l5xs359ckx477rpyvyg3favh25qrhqt2ujclpq3h/about#data).
 - [BLADE](https://twitter.com/conraddit) has reached Saturation! This great not only from a maximum reward perspective, but also that Conrad pledges to remain a single pool. Congrats to BLADE and team, a shining star of success and leading by example, as per below.
 
+
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">BLADE reached 99.4% saturation this morning. This is a great thing! Cardano is designed to operate with 500 fully saturated pools (K=500). The ideal scenario is 500 independent pools all operating at or close to 100%. This guarantees the most rewards to delegators.<br><br>BLADE won&#39;t… <a href="https://t.co/qMcNl4NJMZ">pic.twitter.com/qMcNl4NJMZ</a></p>&mdash; $conrad (@conraddit) <a href="https://twitter.com/conraddit/status/1653022365486395393?ref_src=twsrc%5Etfw">May 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    - If you weren't aware, [Pooltool.io](d765dee553a7e041d525b1782a10eb0a5e52e96ed55ed173d8bb82a7) provides saturation curve graphs now, a handy visualization tool.
+
+If you weren't aware, [Pooltool.io](d765dee553a7e041d525b1782a10eb0a5e52e96ed55ed173d8bb82a7) provides saturation curve graphs now, a handy visualization tool. Here's BLADE's below:
 
 {% img src="blade_sat_curve.png" alt="blade_sat_curve" %}
 

@@ -62,7 +62,7 @@ From their website they describe themselves as:
 
 KILN started Ada Stake Pool Group in Epoch 358 of August of 2022, but the big money started really accumulating in Epoch 397 of March 2023 (See [KILN0](https://cexplorer.io/pool/pool10rdglgh4pzvkf936p2m669qzarr9dusrhmmz9nultm3uvq4eh5k)).
 
-At the time of writing, they opened four (4) pools (KILN 0 thru 3) with Live Stake of combined **257MAda, and 400Ada of pledge, with a total of 17 delegators**. That's a lot of Ada, no small pup.
+At the time of writing, they opened **four (4) pools** (KILN 0 thru 3) with Live Stake of combined **257MAda, and 400Ada of pledge, with a total of 17 delegators**. That's a lot of Ada, no small pup.
 
 This yields a **Pool Group Leverage of 643,604x**.
 
@@ -74,31 +74,49 @@ Someone should also let them know Solana ain't Cardano on the [Cardano Staking P
 
 Looks like they care as much about Cardano as their pool pledge reflects. We should help them out.
 
-### UPBIT
+### UPBIT - 10 New Pools - South Korean Crypto Exchange
 
+[UPBIT](https://upbit.com/home) is a South Korean cryptocurrency exchange. It was founded in 2017 by the Korean fintech company Dunamu Inc. and has become one of the largest exchanges in South Korea. If you go under the Korean language option, there's a ton more details to translate.
 
+At the time of writing, they have opened **ten (10) new pools** all under UPBIT, with a combined **Live Stake of 97MAda, and 2MAda pledge (not bad)**, with a total of 10 delegators. All the pools have 200kAda pledge and 100% margin fee. 
 
-### Big Multi-Pool ISPOs Opening
-- New pool Shareslake [SHRLK]
-        - www.shareslake.com redirects to paybycrypto.app (website) - looks like a new project. Curious, looks ETH based.
-- Occam.fi [OCCAM] Ispo
-        - New SPO as a service on the scene - OCCAM: https://ispo.occam.fi 
-        - ISPO for $CHAKRA 
-        - https://ispo.occam.fi/project/4 
-        - https://hackmd.io/@OccamDAO/chakra “The $CHAKRA token represents a weighted basket of all the incubated project tokens deposited in a tokenized pool. It will be tradable in secondary markets, and its value would be exposed to the value of each token deposited in the tokenized pool.”
-        - [CHKR1] https://cardanoscan.io/pool/pool1xlluqt0tqvyzkx8wrrqzla6nkx7fyvzutj8kmg34gwk4uzhm5pl 
-    - Both projects back from the dead?
-- Iagon Liquidity Stake Pool Offering, IAGL1
-    - https://blog.iagon.com/iagons-liquidity-reward-program-explained/ 
-    - Iagon’s Liquidity Reward Program Explained - Iagon Official Blog 
-    - Iagon aims to incentivize liquidity for the $IAG token by rewarding users who stake in our newly listed pools on Cardano DEXes and participate in the LSPO.
-    - "It is set to unleash its power on the DEXes Minswap and Wingriders, as well as the LSPO (Liquidity Stake Pool Offering) pool, in collaboration with the Norwegian crypto exchange, NBX  & ADAnorthpool for additional rewards for those who participate."
-    - https://twitter.com/IagonOfficial/status/1648407891437670408?s=20 
-    - Iagon on Twitter - Twitter
-    - “Iagon aims to incentivize liquidity for the $IAG token by rewarding users who stake in our newly listed pools on @Cardano DEXes and participate in the LSPO pool. In this article, we will provide a comprehensive guide on the upcoming program, including details on how to…”
-    - https://cexplorer.io/pool/pool1ztk6dcj2nc3plnujf3ek6jqngtx8hcryufz56lyumemlcy2xxn0 
-    - IAGL1
-    - Liquidity Stake Pool Offering. Honestly Iagon is a pretty cool project and at least they are keeping it single pool. Keep you eyes on IAGL1
+This yields a **Pool Group Leverage of 48x, which is actually exceedingly excellent** as for as Exchange pools go.
+
+Not too shabby UPBIT. No Cardano tweets yet though from [@Official_Upbit though](https://twitter.com/search?q=from%3AOfficial_Upbit%20Cardano&src=typed_query&f=top)
+
+### Multiple ISPO Pools Opening Under the Radar
+Of the new pools, there were some interesting finds on the public blockchain that are telling. It looks like multiple new ISPO pools are on the horizon.
+
+**Shareslake [SHRLK]**
+One (1) new pool was registered on-chain as [SHRLK] from the former Cardano Side-chain Stablecoin effort Shareslake. You can read more about them from an Adapulse article by Blocksplain [Shareslake : A Fiat-backed Stablecoin and Ecosystem – A Sidechain of Cardano](https://adapulse.io/shareslake-a-fiat-backed-stablecoin-and-ecosystem-a-sidechain-of-cardano/)  
+
+Anyway, the interesting tidbit is that the website www.shareslake.com redirects to paybycrypto.app (a website), which looks like a new project. Something is in the works it seems.
+
+**Occam.fi [CHKR1] ISPO**
+One (1) new pool registered was CHKR1, which seems to the an Occam ISPO pool for $CHAKRA token. [Occam](https://occam.fi/) has been around Cardano for a few years now and describes itself from their website as _"Interchain incubator DAO & DeFi powerhouse"_.
+
+It now looks like Occam is in the [ISPO-as-a-Service Business](https://ispo.occam.fi). If you stake in the CHKR1 pool, you will get the $CHAKRA token which seems to be Occam's DAO governance token: https://ispo.occam.fi/project/4 
+
+Per the CHKR1 FAQ Docs https://hackmd.io/@OccamDAO/chakra 
+
+>“The $CHAKRA token represents a weighted basket of all the incubated project tokens deposited in a tokenized pool. It will be tradable in secondary markets, and its value would be exposed to the value of each token deposited in the tokenized pool.”
+
+Occam could be trying again to be the birthplace of ISPO project incubator launchpad.
+
+Are both Sharelake and Occam projects back from the dead in Cardanoland?
+
+**Iagon Liquidity Stake Pool Offering, IAGL1**
+Yet another new pool registered was [IAGL1](https://pool.pm/12eda6e24a9e221fcf924c736d481342cc7be064e2454d7c9cde77fc) of Iagon.
+
+[Iagon](https://blog.iagon.com/), "The first Cloud Computing Platform on Cardano", recently [announced on twitter](https://twitter.com/IagonOfficial/status/1648407891437670408?s=20) that they are launching a [Liquidity Stake Pool Offering (LSPO) on Minswap](https://blog.iagon.com/iagons-liquidity-reward-program-explained/), for which they will be offering $IAG tokens. Per the blog post:
+
+>Iagon aims to incentivize liquidity for the $IAG token by rewarding users who stake in our newly listed pools on Cardano DEXes and participate in the LSPO.
+
+>"It is set to unleash its power on the DEXes Minswap and Wingriders, as well as the LSPO (Liquidity Stake Pool Offering) pool, in collaboration with the Norwegian crypto exchange, **NBX  & ADAnorthpool** for additional rewards for those who participate."
+
+Interestingly enough, Ada North Pool [ANP](https://pool.pm/0000fc522cea692e3e714b392d90cec75e4b87542c5f9638bf9a363a) seems to have disclosed to the Cardano Single Pool Alliance that he was going to run another pool for a business. Looks like Iagon Pool is it. 
+    
+Honestly Iagon is a pretty cool project and at least they are keeping it single pool. Keep you eyes on IAGL1 to potentially flood with stake like FAX of Orcfax did.
 
 ## Noteworthy Micro Updates
 - CF whale migration & LQ cohort 2 delegation - should have nil impact on MAV.
@@ -106,10 +124,6 @@ Looks like they care as much about Cardano as their pool pledge reflects. We sho
 - Shout out to Liquid for community delegation. (Show tweet). Call to action to vote for us. Maybe a pretty sveltey chart will come out of it, who knows.
     - https://twitter.com/BalanceData22/status/1650891689848889344?s=20 
     - New pools chosen, congrats: https://twitter.com/liqwidfinance/status/1652325919263195136?s=20 
-- 5 new pools UPBIT Korean exchange established 2017
-    - 100% margin (public) private pools, 200k pledge, 1.8MAda delegations
-    - https://sg.upbit.com/home
-    - (Pick ignore translation, Korean has more detail)
 - PRIDE Pool aka “Stake With Pride” passed 10k followers on Twitter and is a single pool doing great work for the Cardano network health! Congrats! He’s also been a supporter of CIP-50 research. (Find twitter picture)
 - NMKR went from 1M pledge to 800k. They went 99% margin private 3 months ago. Interesting did not know they had a pool. Glad it’s single. Is it a company treasury or savings account? The next MicroStrategy, going Ada Standard? 
 - Found a Cardanians [CRDNS] private pool big boy of 42.5 Million.
@@ -135,7 +149,7 @@ Looks like they care as much about Cardano as their pool pledge reflects. We sho
     - SpectrumFi (formerly ErgoDEX) launching cross-chain to Cardano and pursuing an ISPO
     - https://twitter.com/SpectrumLabs_/status/1650565473967194113?s=20 
     - They are open source everything and have a steadfast grassroots community. We’ll keep an eye on these potential pools.
-- Iagon ISPO
+- Iagon ISPO might rip like FAX and pool stake from single small pools.
 - Goofy Goofers (h/t Bison)
     - Goofy Gophers Mining Club, GGMC
     - Keep your eyes peeled for any new pools looking like this: https://twitter.com/GGMC_nft/status/1650249711129968640?s=20

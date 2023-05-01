@@ -117,19 +117,21 @@ Yet another new pool registered was **[IAGL1](https://pool.pm/12eda6e24a9e221fcf
 
 [Iagon](https://blog.iagon.com/), "The first Cloud Computing Platform on Cardano", recently [announced on twitter](https://twitter.com/IagonOfficial/status/1648407891437670408?s=20) that they are launching a [Liquidity Stake Pool Offering (LSPO) on Minswap](https://blog.iagon.com/iagons-liquidity-reward-program-explained/), for which they will be offering $IAG tokens. Per the blog post:
 
->Iagon aims to incentivize liquidity for the $IAG token by rewarding users who stake in our newly listed pools on Cardano DEXes and participate in the LSPO..."It is set to unleash its power on the DEXes Minswap and Wingriders, as well as the LSPO (Liquidity Stake Pool Offering) pool, in collaboration with the Norwegian crypto exchange, **NBX  & ADAnorthpool** for additional rewards for those who participate."
+>Iagon aims to incentivize liquidity for the $IAG token by rewarding users who stake in our newly listed pools on Cardano DEXes and participate in the LSPO.
 
-Interestingly enough, Ada North Pool [ANP](https://pool.pm/0000fc522cea692e3e714b392d90cec75e4b87542c5f9638bf9a363a) seems to have disclosed to the Cardano Single Pool Alliance that he was going to run another pool for a business. Looks like Iagon Pool is it. 
+>"It is set to unleash its power on the DEXes Minswap and Wingriders, as well as the LSPO (Liquidity Stake Pool Offering) pool, in collaboration with the Norwegian crypto exchange, **NBX  & ADAnorthpool** for additional rewards for those who participate."
+
+Interestingly enough, Ada North Pool [ANP](https://pool.pm/0000fc522cea692e3e714b392d90cec75e4b87542c5f9638bf9a363a) seems to have disclosed to the Cardano Single Pool Alliance that he was going to run another pool for a business, which looks like Iagon Pool.
     
-Honestly Iagon is a pretty cool project and at least they are keeping it single pool. Keep your eyes on IAGL1 to potentially flood with stake like FAX of Orcfax did.
+Honestly, Iagon is a pretty cool project and at least they are keeping it single pool. Keep your eyes on IAGL1 to potentially flood with stake like FAX of Orcfax ISPO did.
 
 ## Noteworthy Micro Updates
-- **Cardano Foundation (CF) Whales** have [migrated](https://twitter.com/Lovecoach_nic/status/1649382379528544261?s=20)to a new cohort of pool focused on building.
-- **Liqwid Finance (LQ)** [announced](https://twitter.com/liqwidfinance/status/1652325919263195136?s=20) a new Cohort 2 Delegation to Single Pools. Much respect to the Community Delegation initiative as we [tweeted recognition](https://twitter.com/BalanceData22/status/1650891689848889344?s=20)!
-- The **CF and LQ community delegation** definitely stirs up some staking changes, but as the delegation is towards single pools, these changes should have no significant affect on MAV.
+- **Cardano Foundation (CF) Whales** have [migrated](https://twitter.com/Lovecoach_nic/status/1649382379528544261?s=20) to a new Cohort of pools focused on building.
+- **Liqwid Finance (LQ)** [announced](https://twitter.com/liqwidfinance/status/1652325919263195136?s=20) a new Cohort 2 community delegation to single pools. Much respect to the Community Delegation initiative as we dogpiled in [the tweeting positive recognition](https://twitter.com/BalanceData22/status/1650891689848889344?s=20)!
+- **CF and LQ Community Delegation** definitely stirs up some staking changes and volatility, but as the delegation is to single pools, these whale delegation changes should have no significant affect on MAV. The smaller fish might scatter though from the pools the Whales left.
 - **[PRIDE Pool](https://twitter.com/StakeWithPride)** aka “Stake With Pride” passed 10k followers on Twitter _and_ is a single pool doing great work. Congrats! He’s also a supporter of CIP-50 research and Decentralization.
-- **[NMKR](https://cexplorer.io/pool/pool1aq2kqdp9xf9w47vttvmqnahwd4scz2qyddsr9l4mfru4qddg3kr)** went from 1M pledge to 800k on paper, but they still have ~1MAda plegde. They went 99% margin private 3 months ago. Interesting as we did not know they had a pool. Glad it’s single high pledge pool. Another ISPO for $NMKR?
-- Found a **Cardanians [CRDNS](https://cardanoscan.io/pool/e069112add6af5fa1a11a1716357de1848c22229eb2eaa007702d5c9?tab=epochhistory) private pool** big boy of 42.5 Million. You can tell by the relays [here](https://cexplorer.io/pool/pool1up53z2kadt6l5xs359ckx477rpyvyg3favh25qrhqt2ujclpq3h/about#data).
+- **[NMKR](https://cexplorer.io/pool/pool1aq2kqdp9xf9w47vttvmqnahwd4scz2qyddsr9l4mfru4qddg3kr)** went from 1M pledge to 800k on paper, but they still have ~1MAda plegde in their wallet. They went "private" to 99% margin three (3) months ago. Interesting as we did not know they had a pool. Glad it’s a single high pledge pool. Is this an ISPO for $NMKR? Not sure yet.
+- **Cardanians [CRDNS](https://cardanoscan.io/pool/e069112add6af5fa1a11a1716357de1848c22229eb2eaa007702d5c9?tab=epochhistory) private pool discovered**: It's a big boy of 42.5 Million Ada. You can tell by the relays [here](https://cexplorer.io/pool/pool1up53z2kadt6l5xs359ckx477rpyvyg3favh25qrhqt2ujclpq3h/about#data).
 
 ## What We're Watching: The Power of ISPO Pools
 It's no secret that ISPO pools have the power to pull delegation away from many single pools, thus affecting MAV and network health (not to mention ADA sell side pressure).

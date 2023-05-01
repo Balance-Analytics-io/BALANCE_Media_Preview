@@ -68,7 +68,7 @@ At the time of writing, they opened **four (4) pools** (KILN 0 thru 3) with Live
 
 This yields a **Pool Group Leverage of 643,604x**. Guess where they are in the Stake vs. Leverage Chart:
 
-{% img scr="kiln_pool_stake_v_leverage.png" alt="KILN-pool-location-stake-v-lev-chart" %}
+{% img src="kiln_pool_stake_v_leverage.png" alt="KILN-pool-location-stake-v-lev-chart" %}
 
 No mention of Cardano in their [twitter @Kiln_finance](https://twitter.com/Kiln_finance).
 

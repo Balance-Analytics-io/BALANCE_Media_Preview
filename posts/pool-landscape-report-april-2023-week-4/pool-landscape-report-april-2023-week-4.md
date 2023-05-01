@@ -124,33 +124,33 @@ Honestly Iagon is a pretty cool project and at least they are keeping it single 
 ## Noteworthy Micro Updates
 - **Cardano Foundation (CF) Whales** have [migrated](https://twitter.com/Lovecoach_nic/status/1649382379528544261?s=20)to a new cohort of pool focused on building.
 - **Liqwid Finance (LQ)** [announced](https://twitter.com/liqwidfinance/status/1652325919263195136?s=20) a new Cohort 2 Delegation to Single Pools. Much respect to the Community Delegation initiative as we [tweeted recognition](https://twitter.com/BalanceData22/status/1650891689848889344?s=20)!
-- The CF and LQ community delegation definitely stirs up some staking changes, but as the delegation is towards single pools, these changes should have no significant affect on MAV.
+- The **CF and LQ community delegation** definitely stirs up some staking changes, but as the delegation is towards single pools, these changes should have no significant affect on MAV.
 - **[PRIDE Pool](https://twitter.com/StakeWithPride)** aka “Stake With Pride” passed 10k followers on Twitter _and_ is a single pool doing great work. Congrats! He’s also a supporter of CIP-50 research and Decentralization.
 - **[NMKR](https://cexplorer.io/pool/pool1aq2kqdp9xf9w47vttvmqnahwd4scz2qyddsr9l4mfru4qddg3kr)** went from 1M pledge to 800k on paper, but they still have ~1MAda plegde. They went 99% margin private 3 months ago. Interesting as we did not know they had a pool. Glad it’s single high pledge pool. Another ISPO for $NMKR?
 - Found a **Cardanians [CRDNS](https://cardanoscan.io/pool/e069112add6af5fa1a11a1716357de1848c22229eb2eaa007702d5c9?tab=epochhistory) private pool** big boy of 42.5 Million. You can tell by the relays [here](https://cexplorer.io/pool/pool1up53z2kadt6l5xs359ckx477rpyvyg3favh25qrhqt2ujclpq3h/about#data).
 
 ## What We're Watching: The Power of ISPO Pools
-It's no secret that ISPO pools have the power to pull delegation away from many single pools, thus affecting MAV and network health.
+It's no secret that ISPO pools have the power to pull delegation away from many single pools, thus affecting MAV and network health (not to mention ADA sell side pressure).
 
 Just look at how fast FAX pool saturated for the OrcFax ISPO, [0 to Saturated in 10 Epochs](https://cexplorer.io/pool/pool10s6zdzdnncnfc200wnlp9endaeud76v424zdnurx9askwshm02x).
 
-****fix up****
-- Spectrum Finance ISPO
-    - SpectrumFi (formerly ErgoDEX) launching cross-chain to Cardano and pursuing an ISPO
-    - https://twitter.com/SpectrumLabs_/status/1650565473967194113?s=20 
-    - They are open source everything and have a steadfast grassroots community. We’ll keep an eye on these potential pools.
-- Iagon ISPO might rip like FAX and pool stake from single small pools.
-- Goofy Goofers (h/t Bison)
-    - Goofy Gophers Mining Club, GGMC
-    - Keep your eyes peeled for any new pools looking like this: https://twitter.com/GGMC_nft/status/1650249711129968640?s=20
+Therefore, we are watching the following ISPO Pools that will likely open in the next few weeks or months. The impacts of ISPO Pools will have to be done in the future. 
+
+- **Spectrum Finance ISPO**: [SpectrumFi](https://spectrum.fi/) (formerly ErgoDEX) launching cross-chain to Cardano and pursuing an [ISPO per their twitter announcement](https://twitter.com/SpectrumLabs_/status/1650565473967194113?s=20)
+    - They open source everything and have a steadfast grassroots community. We’ll keep an eye on these potential pools as this launch may be big.
+- **Iagon ISPO** might rip like FAX and pool stake from single small pools.
+- **Goofy Goofers**: Goofy Gophers Mining Club, [GGMC]. Keep your eyes peeled for any new pools looking like [GGMC](https://twitter.com/GGMC_nft/status/1650249711129968640?s=20)
     - Goofy Gophers Mining Club | SOLD OUT on Twitter - Twitter
     - “Miners have started to arrive in Iowa ⛏️ Soon, they'll be working day and night to power the GGMC and pour liquidity into #ADA ☀️🌙 #UtilityCNFT”
-    - Hat tip to Bison Coin for this: https://twitter.com/bisoncoin_io/status/1650250966216896514?s=20 (use this tweet in the article embedded pic)
-- Reverse ISPO flood from rumors of Frosty and team implosion? Smells of a staking bank run in the making. 
-- Total staked dropping to high 67%, DeFi offering better returns? (h/t LiberLion article)
-    - Something to keep an eye on, as DeFi ramps up, and TVL, does Staking % go down? If folks can get a better return in DeFi than Staking (which will only go down over time as reserve rewards diminish)…https://twitter.com/liberlion17/status/1649378719046197258?s=20 
+    - Hat tip to Bison Coin for this tipoff: 
 
-****fix up****
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">First project to bring the real world generated revenue back it&#39;s cardano investors<br><br>If this is not bullish then idk what is 🤍🚀<a href="https://twitter.com/hashtag/ggmc?src=hash&amp;ref_src=twsrc%5Etfw">#ggmc</a> <a href="https://twitter.com/search?q=%24ada&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ada</a> <a href="https://t.co/yjCpcbUqk5">https://t.co/yjCpcbUqk5</a></p>&mdash; Bison Coin 🉐 (@bisoncoin_io) <a href="https://twitter.com/bisoncoin_io/status/1650250966216896514?ref_src=twsrc%5Etfw">April 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+- **Total staked dropping to high 67%**,: Is DeFi offering better returns? Why the drop in stake? Something to keep an eye on, as DeFi ramps up, and TVL, does Staking % go down? If folks can get a better return in DeFi than Staking (which will only go down over time as reserve rewards diminish). Hat tip to LiberLion for bringing this topic to light. 
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">1/3<a href="https://twitter.com/hashtag/DeFi?src=hash&amp;ref_src=twsrc%5Etfw">#DeFi</a> is a problem for PoS<br><br>PoS is secure if delegators are incentivized to staking, but if they can get better returns elsewhere, they can withdraw their cryptocurrencies and go with their funds where it yields more. If this happens, the network becomes less secure.</p>&mdash; Li₿εʁLiøη (@liberlion17) <a href="https://twitter.com/liberlion17/status/1649378719046197258?ref_src=twsrc%5Etfw">April 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+The impacts and discussion of ISPO Pools will have to be done in the future. For the record, BALANCE remains indifferent unless it starts impacting Cardano's network decentralization.
 
 ## BALANCE Updates
 

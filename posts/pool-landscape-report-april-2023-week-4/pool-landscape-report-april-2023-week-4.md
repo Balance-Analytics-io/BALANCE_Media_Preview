@@ -122,12 +122,12 @@ Interestingly enough, Ada North Pool [ANP](https://pool.pm/0000fc522cea692e3e714
 Honestly Iagon is a pretty cool project and at least they are keeping it single pool. Keep your eyes on IAGL1 to potentially flood with stake like FAX of Orcfax did.
 
 ## Noteworthy Micro Updates
-- Cardano Foundation (CF) Whales have [migrated](https://twitter.com/Lovecoach_nic/status/1649382379528544261?s=20)to a new cohort of pool focused on building.
-- Liqwid Finance (LQ) [announced](https://twitter.com/liqwidfinance/status/1652325919263195136?s=20) a new Cohort 2 Delegation to Single Pools. Much respect to the Community Delegation initiative as we [tweeted recognition](https://twitter.com/BalanceData22/status/1650891689848889344?s=20)!
+- **Cardano Foundation (CF) Whales** have [migrated](https://twitter.com/Lovecoach_nic/status/1649382379528544261?s=20)to a new cohort of pool focused on building.
+- **Liqwid Finance (LQ)** [announced](https://twitter.com/liqwidfinance/status/1652325919263195136?s=20) a new Cohort 2 Delegation to Single Pools. Much respect to the Community Delegation initiative as we [tweeted recognition](https://twitter.com/BalanceData22/status/1650891689848889344?s=20)!
 - The CF and LQ community delegation definitely stirs up some staking changes, but as the delegation is towards single pools, these changes should have no significant affect on MAV.
-- [PRIDE Pool](https://twitter.com/StakeWithPride) aka “Stake With Pride” passed 10k followers on Twitter _and_ is a single pool doing great work. Congrats! He’s also a supporter of CIP-50 research and Decentralization.
-- [NMKR](https://cexplorer.io/pool/pool1aq2kqdp9xf9w47vttvmqnahwd4scz2qyddsr9l4mfru4qddg3kr) went from 1M pledge to 800k on paper, but they still have ~1MAda plegde. They went 99% margin private 3 months ago. Interesting as we did not know they had a pool. Glad it’s single high pledge pool. Another ISPO for $NMKR?
-- Found a Cardanians [CRDNS](https://cardanoscan.io/pool/e069112add6af5fa1a11a1716357de1848c22229eb2eaa007702d5c9?tab=epochhistory) private pool big boy of 42.5 Million. You can tell by the relays [here](https://cexplorer.io/pool/pool1up53z2kadt6l5xs359ckx477rpyvyg3favh25qrhqt2ujclpq3h/about#data).
+- **[PRIDE Pool](https://twitter.com/StakeWithPride)** aka “Stake With Pride” passed 10k followers on Twitter _and_ is a single pool doing great work. Congrats! He’s also a supporter of CIP-50 research and Decentralization.
+- **[NMKR](https://cexplorer.io/pool/pool1aq2kqdp9xf9w47vttvmqnahwd4scz2qyddsr9l4mfru4qddg3kr)** went from 1M pledge to 800k on paper, but they still have ~1MAda plegde. They went 99% margin private 3 months ago. Interesting as we did not know they had a pool. Glad it’s single high pledge pool. Another ISPO for $NMKR?
+- Found a **Cardanians [CRDNS](https://cardanoscan.io/pool/e069112add6af5fa1a11a1716357de1848c22229eb2eaa007702d5c9?tab=epochhistory) private pool** big boy of 42.5 Million. You can tell by the relays [here](https://cexplorer.io/pool/pool1up53z2kadt6l5xs359ckx477rpyvyg3favh25qrhqt2ujclpq3h/about#data).
 
 ## What We're Watching: The Power of ISPO Pools
 It's no secret that ISPO pools have the power to pull delegation away from many single pools, thus affecting MAV and network health.

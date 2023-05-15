@@ -17,25 +17,40 @@ series: true
 
 ## Pool Landscape Updates
 **(4/30/23 Epoch 409 -> 5/15/23 Epoch 411)**
-**More New Multi-pools, Big Binance Stake Drop, NEW GIRL Gone?, Staked Ada Dropping**
+**More New Multi-Pools, Big Binance Stake Drop, NEW GIRL Gone?, Staked Ada Dropping**
 
-Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro picture of what changed.
+Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro picture of what has changed.
 
-### Fifteen (15) new pools have been created since last “pool groups” dataset update (April 30th, 2023).
-- Over 50% of new pools created (this round) are part of Multi-Pool Operations (MPOs).
-    - WAVE added 1 new pool(s)
-    - KID added 2 new pool(s)
-    - MS added 1 new pool(s)
-    - BD added 1 new pool(s)
-    - New pool group SIMBA with 3 pools - same DNS used for relays
-### Huge Binance Stake drop by 55% (1.57BAda)!
-- Where did it go? Maybe some walelt slueths can help.
-- K-effective impacts and MAV increases!
-### NEW GIRL dead? Live Stake effectively dropped to zero...(335MAda Private Pool, all pledge, 100% margin)
-- Epoch 411 analysis, it's interesting to see NEW GIRL attempt to respawn under different POOL IDs.
-- ADA was moved through the same stake address within minute through the same utility.
-- Given this finding, the NEW GIRL pool group is re-established using the new pool hash ID values. Looks like new pool IDs and new addresses, but . 
-- Even if the funds were indeed a change in ownership, we still believe this to be a legit Multi-Pool Operation.
+### Fifteen (15) New Pools have been Created - ~50% are MPOs
+Since the last report (April 30th), fifteen (15) new pools have been created. 
+- Over 50% of the new pools created (this round) are part of Multi-Pool Operations (MPOs).
+    - WAVE added 1 new pool(s).
+    - KID added 2 new pools.
+    - MS added 1 new pool.
+    - BD added 1 new pool.
+    - New pool group SIMBA with 3 pools - same DNS used for relays.
+    
+### Huge Binance Stake Drop by 55% (1.57BAda)!
+There was a significant drop in the Binance group stake, 1.57 Billion (yes, with a B) Ada, resulting in a decrease of 55% of their Live Stake - That's huge! 
+- Where did the Ada go? Maybe some wallet sleuths can help. Are they positioning for SEC crackdowns or selling to cover costs?
+- K-effective impacts and MAV increased significantly, see for yourself! MAV is now 27.
+
+See for yourself. Here's a demo of searching for Binance Group and seeing the change from the last 10ish Epochs:
+
+{% video src="binance_stake_v_lev_demo.mov" %}
+
+
+Here's a demo of seeing the increase in MAV and K-Effective! What's good to see is the K-Effective, a weighted measure of the pool groups, increasing rapidly. The only question remaining, where is the stake going?
+
+{% video src="keff_demo.mov" %}
+
+### NEW GIRL dead? (335MAda Private Pool, all pledge, 100% margin)
+In Epoch 411's analysis, it was very interesting to see the NEW GIRL private pool group's Live Stake effectively dropped to zero.
+- In the Epoch 411 analysis, it's interesting to see NEW GIRL attempt to respawn under different POOL IDs.
+- ADA was moved through the same stake address within minutes through the same utility.
+- Given this finding, the NEW GIRL pool group is re-established using the new pool hash ID values. It appears that new pool IDs and new addresses are being used.
+- Even if the funds were indeed a change in ownership, we still believe this to be a legitimate Multi-Pool Operation.
+
 
 
 ## Noteworthy Community Updates

@@ -51,7 +51,6 @@ In Epoch 411's analysis, it was very interesting to see the NEW GIRL private poo
 - Even if the funds were indeed a change in ownership, we still believe this to be a legitimate Multi-Pool Operation.
 
 
-
 ## Noteworthy Community Updates
 - **[ARMN](https://pool.pm/2a05c534817a0b97ce0c5a2354b6e35a067c52408fa70c77e0b5e378) Pool honestly doing great work** promoting decentralization thru building [@plu_ts](https://twitter.com/plu_ts), a typescript eDSL for Cardano smart contract and transactions.
     - The work is being done by [@MicheleHarmonic](https://twitter.com/MicheleHarmonic) whose twitter bio reads "decentralization first - @hlabs_tech founder - creator of @plu_ts". 

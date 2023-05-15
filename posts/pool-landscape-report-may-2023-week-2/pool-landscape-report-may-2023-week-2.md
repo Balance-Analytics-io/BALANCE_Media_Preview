@@ -131,6 +131,7 @@ Another tweet by unusual_whales mentions Apple's new high-yield savings account,
 
 While it's positive to see the blockchain being utilized, we must ensure that the staked Ada doesn't decrease too much. Staked Ada serves as a defense mechanism against Sybil attacks, providing security to our blockchain through staking instead of relying solely on hash
 
+<html>
 
 | EPOCH | 390              | 411              | DELTA              | % DELTA |
 |-------|------------------|------------------|--------------------|---------|
@@ -160,6 +161,46 @@ While it's positive to see the blockchain being utilized, we must ensure that th
 | 12-May| 64.50%           | -3.90%           | 23,150,000,000.00  |         |
 |       |                  | (939,490,114.46) |                    |         |
 
+</html>
+
+<table>
+  <tr>
+    <th>EPOCH</th>
+    <th>390</th>
+    <th>411</th>
+    <th>DELTA</th>
+    <th>% DELTA</th>
+  </tr>
+  <tr>
+    <td>NAME</td>
+    <td>BCSH</td>
+    <td>BCSH</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>STAKE</td>
+    <td>130,992,699.00</td>
+    <td>112,372,940.00</td>
+    <td>(18,619,759.00)</td>
+    <td>-14%</td>
+  </tr>
+  <tr>
+    <td>PLEDGE</td>
+    <td>10,690,003.00</td>
+    <td>4,740,003.00</td>
+    <td>(5,950,000.00)</td>
+    <td>-56%</td>
+  </tr>
+  <tr>
+    <td>TOTAL</td>
+    <td></td>
+    <td></td>
+    <td>(24,569,759.00)</td>
+    <td></td>
+  </tr>
+  <!-- ... Rest of the table rows ... -->
+</table>
 
 
 

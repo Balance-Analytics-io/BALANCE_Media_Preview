@@ -173,13 +173,15 @@ Thank you both for all that you do. Please check out their stake pools!
 
 {% img src="cf_spo_rss_vote_ballot.png" alt="cf_spo_rss_vote_ballot" %}
 
-- Atrium Smart Contract “Staking Baskets” - Wow
+- Big Pey & Atrium Smart Contract “Staking Baskets” for Multi-Delegation - Wow!
   - https://youtu.be/HYD5PoDSDfY min 4:30
   - Big Pey Helping Decentralization in a Big Way
   - Community will vote on 50 single pools
   - Newb onboarding and education focused
-  - https://twitter.com/bigpeyyt/status/1655981104061448194?s=46&t=JQlKbDRawqEwOGdi1Bs47Q
-- Djed reserve ratio has been under 400%, 360% on 5/8/23 - does this have any staked ADA impacts? Is SHEN Staked yet?
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">In collaboration with <a href="https://twitter.com/MLabs10?ref_src=twsrc%5Etfw">@MLabs10</a> we&#39;re writing smart contracts that allow users to create staking baskets. <br><br>Our first staking baskets is called &#39;Diffusion&#39;! Diffusion is focused on decentralizing <a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a>. <br><br>Users will be paid their <a href="https://twitter.com/search?q=%24ADA&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ADA</a> rewards + <a href="https://twitter.com/search?q=%24Atrium&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$Atrium</a> tokens. <a href="https://t.co/zCYVHgOZkU">pic.twitter.com/zCYVHgOZkU</a></p>&mdash; big pey (@bigpeyYT) <a href="https://twitter.com/bigpeyYT/status/1655981104061448194?ref_src=twsrc%5Etfw">May 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+- Djed reserve ratio has been under 400% for a while at 360% on 5/8/23. Only within last week is it now above 400% reserves again. Does this have any Staked ADA impacts? Is SHEN Staked yet?
 
 ## BALANCE Updates
 

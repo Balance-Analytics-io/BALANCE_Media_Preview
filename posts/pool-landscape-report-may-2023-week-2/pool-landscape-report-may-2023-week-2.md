@@ -114,7 +114,11 @@ A recent realworld example of liquidity flocking to higher yields is the Apple H
 
 ### Hidden Surprise: Big Group Stake Moves to the Downside
 
-However, upon checking how much total ada was unstaked even recently, DeFi TVL seems to be only a fraction of the impact.
+However, upon checking how much total ada was unstaked even recently, DeFi TVL seems to be only a fraction of the impact. From checking the current amout of Staked Ada today, versus
+
+{% img src="staked_ada_may_15_2023.png" alt="staked_ada_may_15_2023" %}
+*Source: [CExplorer](https://cexplorer.io/)*<br><br>
+
 
 Well, you may be surprised to find there has been a significant decline in stake from four (4) major pool groups, including Binance!
 

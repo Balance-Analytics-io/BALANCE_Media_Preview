@@ -21,7 +21,6 @@ series: true
 
 - 15 new pools created since last “pool groups” dataset update
 - Over 50% of new pools created (this round) are part of multi-pool operations
-    - *UPBIT added 5 new pool(s) (*I noticed this while checking pool.pm 10 total pools and covered this in the last newsletter, therefore subtracting 5 pools from the total)
     - WAVE added 1 new pool(s)
     - KID added 2 new pool(s)
     - MS added 1 new pool(s)
@@ -31,6 +30,7 @@ series: true
     - Where did it go?
     - K-effective impacts and MAV!
 - NEW GIRL dead? Live Stake effectively dropped to zero.
+
 Just reviewed the chart data for epoch 411, interesting to see NEW GIRL attempt to respawn under different POOL IDs.
 In doing more investigation into the NEW GIRL pool group issue, I found that the ADA was moved through the same stake address within minutes.  Given this finding, I will re-establish the NEW GIRL pool group using the new pool hash ID values. Looks like new pool IDs and new addresses, but all moved within minutes apart through the same utility. Even if the funds were indeed a change in ownership, I still believe this to be a multi-pool operation.
 
@@ -100,5 +100,5 @@ Both extremely erudite, steadfast, and kind Cardano Community members diligently
 
 
 ## BALANCE Updates
-- Working on more charts
-- API is getting hits (pic)
+- In the trenches working on more charts. The Svelte + D3 learning curve is steep, and little references, but once over the hump, more charts should flow faster.
+- The Public Pool Group API is starting to get hits, pretty nice grwoth metric! (pic)

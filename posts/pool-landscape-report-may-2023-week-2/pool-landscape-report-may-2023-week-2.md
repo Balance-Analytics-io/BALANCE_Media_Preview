@@ -58,9 +58,10 @@ In Epoch 411's analysis, it was very interesting to see the NEW GIRL private poo
     - [ARMN](https://cexplorer.io/pool/pool19gzu2dyp0g9e0nsvtg34fdhrtgr8c5jq37nscalqkh3hsjmas69#performance) is Baremetel, “A pool that supports decentralization through the creation of utility software, running on bare metal servers” (Source:  https://harmonicpool.on.fleek.co/).  
     - The pool is Part of the Cardano Single Pool Alliances. Nice work!
 
-- [ADAOZ] Pool mints 5000 blocks, of Pete (Astroboy). The pool uses a mix between baremetal, cloud, and raspberry pi relays
-    - https://www.youtube.com/@LearnCardano 
-    - https://twitter.com/astroboysoup/status/1653500791444086784?s=20 
+- [ADAOZ](https://pool.pm/6658713e2cbfa4e347691a0435953f5acbe9f03d330e94caa3a0cfb4) Pool of [Pete (Astroboy)](https://twitter.com/astroboysoup/status/1653500791444086784?s=20) mints 5000 blocks!
+    - The pool uses a mix between baremetal, cloud, and raspberry pi relays
+    - Pete does great community work with no-shill Cardano education and a professional and fun touch. Highly recommend checking out his youtube channel: https://www.youtube.com/@LearnCardano
+
 - Armada Alliance Docs now has a Parrot AI Helper
     - https://twitter.com/OTG_WCat/status/1653681108435779584?s=20 
     - https://armada-alliance.com/docs/ 

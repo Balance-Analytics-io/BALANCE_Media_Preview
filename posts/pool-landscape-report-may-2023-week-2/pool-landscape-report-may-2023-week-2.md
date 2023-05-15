@@ -83,7 +83,7 @@ In Epoch 411's analysis, it was very interesting to see the NEW GIRL private poo
 We have observed a consistent decline in Staked Ada, which warrents a bit of investigation: Why?
 
 {% img src="decline_staked_ada.png" alt="decline_staked_ada" %}
-*Source: [Cardano Blockchain Insights](https://lookerstudio.google.com/u/0/reporting/3136c55b-635e-4f46-8e4b-b8ab54f2d460/page/p_wxcw6g0irc)*<br>
+*Source: [Cardano Blockchain Insights](https://lookerstudio.google.com/u/0/reporting/3136c55b-635e-4f46-8e4b-b8ab54f2d460/page/p_wxcw6g0irc)*
 
 We tweeted and asked the Cardano Community what they thought. [Marco](https://twitter.com/MarcoMeerman) graciously added DeFi is the culprit.
 
@@ -98,7 +98,7 @@ DeFi on Cardano is definitely gaining momentum, and you know the memecoin craze 
 Checking DeFiLama the Cardano TVL is definitley on the rise.
 
 {% img src="defilama_tvl_ada.png" alt="defilama_tvl_ada" %}
-<p>*Source: [DeFiLama](https://defillama.com/chain/Cardano?tvl=true)*</p>
+*Source: [DeFiLama](https://defillama.com/chain/Cardano?tvl=true)*<br><br>
 
 From the Year-To-Date bottom of the curve, the TVL increased by ~95MAda or +190%.
 

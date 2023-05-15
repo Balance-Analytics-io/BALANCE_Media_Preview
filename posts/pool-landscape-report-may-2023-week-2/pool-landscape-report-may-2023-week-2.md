@@ -168,7 +168,7 @@ Thank you both for all that you do. Please check out their stake pools!
 ## What We’re Paying Attention To
 
 - Cardano Foundation SPO On-Chain Poll for Stake Pool Reward Sharing Scheme (RSS) Parameters.
-  - A lot of rekindled discussion on twitter.
+  - A lot of rekindled discussion on twitter. Make sure to check how your Stake Pool will vote (if they can).
   - What do you think will happen? Pro tip: watch the Coinbase stake pools for the answer.
 
 {% img src="cf_spo_rss_vote_ballot.png" alt="cf_spo_rss_vote_ballot" %}

@@ -66,26 +66,30 @@ In doing more investigation into the NEW GIRL pool group issue, I found that the
 
 ## Topic: Staked Ada Down, Impacts of DeFi and Memecoin Craze? … or is it Something More?
     - Has DeFi and the Memecoin mania resulted in less staked Ada… or are Exchanges Unstaking?
-    - <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">It&#39;s <a href="https://twitter.com/hashtag/ADA?src=hash&amp;ref_src=twsrc%5Etfw">#ADA</a> going into DeFi.</p>&mdash; M₳rco Meerm₳n (@MarcoMeerman) <a href="https://twitter.com/MarcoMeerman/status/1656018934703824919?ref_src=twsrc%5Etfw">May 9, 2023</a></blockquote>
+    
+    <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">It&#39;s <a href="https://twitter.com/hashtag/ADA?src=hash&amp;ref_src=twsrc%5Etfw">#ADA</a> going into DeFi.</p>&mdash; M₳rco Meerm₳n (@MarcoMeerman) <a href="https://twitter.com/MarcoMeerman/status/1656018934703824919?ref_src=twsrc%5Etfw">May 9, 2023</a></blockquote>
+
     - <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     - https://twitter.com/AdaverseNews/status/1622686423307456540?s=20 
     - 105MAda according to Adverse News
     - <check defi lama>
     - But this is not even close to 35% unstated (Billion?)
-    - Real world extreme example, how Apple high interest savings accounts are pulling money out of small mid regional banks: https://twitter.com/unusual_whales/status/1656328492689104900?s=46&t=JQlKbDRawqEwOGdi1Bs47Q
-    - Biggest staking drops were
-        - April 5th, Epoch 403->404 day - BCSH and New Guy big changes
-        - April 20th, Epoch 406->407 day - Binance big drop
-        - May 3rd, Epoch 409, Binance shrunk again
+    - Real world extreme example, how Apple high interest savings accounts are pulling money out of small mid regional banks. Money talks. 
+
+    <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Apple’s, <a href="https://twitter.com/search?q=%24AAPL&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$AAPL</a>, new high yield savings account brought in as much as $990 million in deposits over its first four days, per Forbes.</p>&mdash; unusual_whales (@unusual_whales) <a href="https://twitter.com/unusual_whales/status/1656328492689104900?ref_src=twsrc%5Etfw">May 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ 
 
 
 ## Single Pool Spotlight: TERM and COSD
 Both extremely erudite, steadfast, and kind Cardano Community members diligently contributing to CIPS, Cardano Forums, and Cardano Professional Society in the Matrix. Not only that, their stake pools are shining examples of Good Actors in the landscape. Kudos to both and thank you for all that you do.
+- [TERM](https://pool.pm/08f05bcfaada3bb5c038b8c88c6b502ceabfd9978973159458c6535b)
+- [COSD](https://pool.pm/c94e6fe1123bf111b77b57994bcd836af8ba2b3aa72cfcefbec2d3d4)
 
 
 ## What We’re Paying Attention To
 - Cardano Foundation SPO On-Chain Poll for Stake Pool Reward Sharing Scheme (RSS) Parameters.
     - A lot of rekindled discussion on twitter.
+    - What do you think will happen? Pro tip: watch the Coinbase stake pools for the answer.
 - Atrium Smart Contract “Staking Baskets” - Wow 
     - https://youtu.be/HYD5PoDSDfY min 4:30 
     - Big Pey Helping Decentralization in a  Big Way

@@ -100,7 +100,7 @@ Checking DeFiLama the Cardano TVL is definitley on the rise.
 {% img src="defilama_tvl_ada.png" alt="defilama_tvl_ada" %}
 *Source: [DeFiLama](https://defillama.com/chain/Cardano?tvl=true)*<br><br>
 
-From the Year-To-Date bottom of the curve, the TVL increased by **~95MAda or +190%**.
+From the Year-To-Date bottom of the curve, the TVL increased by **~95MAda or +190%** (not including Staking).
 
 While it's positive to see the blockchain being utilized for DeFi, we must ensure that the staked Ada doesn't decrease too much. Staked Ada serves as a defense mechanism against Sybil attacks, providing security to our blockchain through staking instead of relying solely on hash.
 
@@ -108,7 +108,7 @@ Our friend [@LiberLion](https://twitter.com/liberlion17/status/16493742459593768
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Much of the consensus staking goes to DeFi. <br>We see the increase in TVL.<br><br>I see a problem here. I saw it before, too. <br>I wrote this article 2 years ago:<br>&#39;Stake Pools vs. Liquidity Pools&#39;<a href="https://t.co/ASfhdGQHug">https://t.co/ASfhdGQHug</a> <a href="https://t.co/ty2hLEnnc9">https://t.co/ty2hLEnnc9</a></p>&mdash; Li₿εʁLiøη (@liberlion17) <a href="https://twitter.com/liberlion17/status/1649374245959376899?ref_src=twsrc%5Etfw">April 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-A recent realworld example of liquidity flocking to higher yields is the Apple High Interest Yield Savings Account. High yield has a magnetic effect for sure.
+A recent real-world example of liquidity flocking to higher yields is the Apple High Interest Yield Savings Account. High yield has a magnetic effect for sure.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Apple’s, <a href="https://twitter.com/search?q=%24AAPL&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$AAPL</a>, new high yield savings account brought in as much as $990 million in deposits over its first four days, per Forbes.</p>&mdash; unusual_whales (@unusual_whales) <a href="https://twitter.com/unusual_whales/status/1656328492689104900?ref_src=twsrc%5Etfw">May 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -124,7 +124,7 @@ However, upon checking how much total Ada was unstaked even recently, DeFi TVL s
 
 That about a -3.9% decline of 966MAda (just under 1BAda). The DeFi TVL raise from Jan 1st was about 94MAda. That's only a 10% impact. What else is going on?
 
-*Well*, you may be surprised to find there has been a *significant decline* in stake from four (4) major pool groups, including Binance!
+*Well*, you may be surprised to find there has been a ***significant decline*** in stake from four (4) major pool groups, including Binance!
 
 The first clue was the significant sudden drops in staking as seen in the image below:
 

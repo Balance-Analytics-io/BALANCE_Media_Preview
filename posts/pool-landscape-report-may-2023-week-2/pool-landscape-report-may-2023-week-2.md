@@ -98,7 +98,11 @@ DeFi on Cardano is definitely gaining momentum, and you know the memecoin craze 
 Checking DeFiLama the Cardano TVL is definitley on the rise.
 
 {% img src="defilama_tvl_ada.png" alt="defilama_tvl_ada" %}
-<center> *Source: [DeFiLama](https://defillama.com/chain/Cardano?tvl=true)* </center>
+<div style="display: flex; align-items: center; justify-content: center; height: 100vh;">
+  <p>*Source: [DeFiLama](https://defillama.com/chain/Cardano?tvl=true)*</p>
+</div>
+
+
 
 From the Year-To-Date bottom of the curve, the TVL increased by ~95MAda or +190%.
 

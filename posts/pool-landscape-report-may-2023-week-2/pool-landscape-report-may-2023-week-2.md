@@ -52,6 +52,12 @@ In Epoch 411's analysis, it was very interesting to see the NEW GIRL private poo
 
 
 ## Noteworthy Community Updates
+
+- test 
+- test
+    - test
+    - [test](test)
+
 - **[ARMN](https://pool.pm/2a05c534817a0b97ce0c5a2354b6e35a067c52408fa70c77e0b5e378) Pool honestly doing great work** promoting decentralization thru building [@plu_ts](https://twitter.com/plu_ts), a typescript eDSL for Cardano smart contract and transactions.
     - The work is being done by [@MicheleHarmonic](https://twitter.com/MicheleHarmonic) whose twitter bio reads "decentralization first - @hlabs_tech founder - creator of @plu_ts". 
     - [ARMN](https://cexplorer.io/pool/pool19gzu2dyp0g9e0nsvtg34fdhrtgr8c5jq37nscalqkh3hsjmas69#performance) is Baremetel, “A pool that supports decentralization through the creation of utility software, running on bare metal servers” (Source:  https://harmonicpool.on.fleek.co/).  
@@ -78,9 +84,12 @@ In Epoch 411's analysis, it was very interesting to see the NEW GIRL private poo
     - [LoveLike](https://twitter.com/lovelikeio) is a professional operated single pool help us grow and decentralize cardano! LOVLK is committed to stay a singlepool operation! Bio reads as a highly talented and professional dev/ops coder. They were part of the @CardanoSPA. (Source: https://lovelike.io/)
     - A bit of a quiet, small pool but none the less a loss in sSPO talent! Thank you for all your work.
 
+---------
 
 ## Topic: Staked Ada Down, Impacts of DeFi and Memecoin Craze? … or is it Something More?
-- Has DeFi and the Memecoin mania resulted in less staked Ada… or are Exchanges Unstaking?
+We've noticed a steady drop in Staked Ada.
+
+Has DeFi and the Memecoin mania resulted in less staked Ada… or are Exchanges Unstaking?
 - Biggest staking drops were
     - April 5th, Epoch 403->404 day - BCSH and New Guy big changes
     - April 20th, Epoch 406->407 day - Binance big drop
@@ -97,10 +106,14 @@ In Epoch 411's analysis, it was very interesting to see the NEW GIRL private poo
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Apple’s, <a href="https://twitter.com/search?q=%24AAPL&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$AAPL</a>, new high yield savings account brought in as much as $990 million in deposits over its first four days, per Forbes.</p>&mdash; unusual_whales (@unusual_whales) <a href="https://twitter.com/unusual_whales/status/1656328492689104900?ref_src=twsrc%5Etfw">May 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  
+- [@LiberLion](https://twitter.com/liberlion17/status/1649374245959376899?s=20) has pointed out this concern too.
 
+On one hand it's good to see the blockchain being used. On the other, let's hope Staked Ada doesn't get too low because it's the Sybil attack defense mechanism for our blockchain (i.e. stake instead of hashrate).
 
 ## Single Pool Spotlight: TERM and COSD
-Both extremely erudite, steadfast, and kind Cardano Community members diligently contributing to CIPS, Cardano Forums, and Cardano Professional Society in the Matrix. Not only that, their stake pools are shining examples of Good Actors in the landscape. Kudos to both and thank you for all that you do.
+We would like to give kudos to two outstanding community members who have been diligently contributing to CIPS, Cardano Forums, and the Cardano Professional Society in the Matrix. Both are extremely erudite, steadfast, and kind. Additionally, their stake pools are shining examples of good actors in the landscape.
+
+Thank you both for all that you do. Please check out their stake pools:
 - [TERM](https://pool.pm/08f05bcfaada3bb5c038b8c88c6b502ceabfd9978973159458c6535b)
 - [COSD](https://pool.pm/c94e6fe1123bf111b77b57994bcd836af8ba2b3aa72cfcefbec2d3d4)
 

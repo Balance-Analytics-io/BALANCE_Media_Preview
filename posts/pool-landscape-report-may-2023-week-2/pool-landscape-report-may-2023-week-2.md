@@ -131,17 +131,26 @@ The first clue was the significant sudden drops in staking as seen in the image 
 {% img src="decline_in_staked_ada_zoom.png" alt="decline_in_staked_ada_zoom" %}
 *Source: [Cardano Blockchain Insights](https://lookerstudio.google.com/u/0/reporting/3136c55b-635e-4f46-8e4b-b8ab54f2d460/page/p_wxcw6g0irc)*<br><br>
 
+What do these dates correspond with? From reviewing our charts and checking the Epoch Calendar, the following was noteworthy:
+
 The most significant drops in staking occurred on the following dates:
 - April 5th, Epoch 403 to 404 - BCSH and New Guy experienced significant changes.
 - April 20th, Epoch 406 to 407 - Binance witnessed a substantial drop.
 - May 3rd, Epoch 409 - Binance experienced another decrease.
 
-According to a tweet by M₳rco Meerm₳n, Ada is flowing into DeFi. Adverse News also reported a decrease of 105MAda due to DeFi.
+From checking our [BALANCE Stake Vs Leverage Pool Group Chart](https://www.balanceanalytics.io/chartboards/decentralization), the following stake changes took place amoung these four (4) large pool groups.
 
-However, this drop is not even close to the speculated 35% unstaked (billion?). It's worth considering real-world examples, such as how high-interest savings accounts offered by Apple can pull funds from small to mid-regional banks. Money talks.
+**Staked Ada Changes from Epoch 390 (Jan 30th) to 411 (May 15th)
+- **BINANCE -55% decrease for -1,573MAda**
+- COINBASE -16% decrease for -420MAda
+- BCSH -17% decrease for -24MAda
+- NEW GUY -39% decrease for -140MAda
 
-Another tweet by unusual_whales mentions Apple's new high-yield savings account, which accumulated nearly $990 million in deposits over four days. This highlights the influence money can have on financial decisions.
+That's a combined Staked Ada loss of -2.15 Billion Ada, or a combined -36% change in stake among the four (4) groups total.
 
+So, assuming around Jan 1st the Staked Ada was 72% or 25.8BAda, and today it's 65% for 23.8BAda, thats a loss of -7% or -1.8BAda.
+
+In short, it appears the Staked Ada decrease is definitely reflected in the loss of Stake from these 4 big pool groups. Whether or not it's being sold or put into DeFi not reflected in DeFiLama is unknown.
 
 
 ## Single Pool Spotlight: TERM and COSD

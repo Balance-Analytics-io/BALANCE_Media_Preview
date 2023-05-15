@@ -52,6 +52,7 @@ In Epoch 411's analysis, it was very interesting to see the NEW GIRL private poo
 
 
 ## Noteworthy Community Updates
+
 - **[ARMN](https://pool.pm/2a05c534817a0b97ce0c5a2354b6e35a067c52408fa70c77e0b5e378) Pool honestly doing great work** promoting decentralization thru building [@plu_ts](https://twitter.com/plu_ts), a typescript eDSL for Cardano smart contract and transactions.
     - The work is being done by [@MicheleHarmonic](https://twitter.com/MicheleHarmonic) whose twitter bio reads "decentralization first - @hlabs_tech founder - creator of @plu_ts". 
     - [ARMN](https://cexplorer.io/pool/pool19gzu2dyp0g9e0nsvtg34fdhrtgr8c5jq37nscalqkh3hsjmas69#performance) is Baremetel, “A pool that supports decentralization through the creation of utility software, running on bare metal servers” (Source:  https://harmonicpool.on.fleek.co/).  
@@ -110,6 +111,9 @@ Both extremely erudite, steadfast, and kind Cardano Community members diligently
 - Cardano Foundation SPO On-Chain Poll for Stake Pool Reward Sharing Scheme (RSS) Parameters.
     - A lot of rekindled discussion on twitter.
     - What do you think will happen? Pro tip: watch the Coinbase stake pools for the answer.
+
+{% img src="cf_spo_rss_vote_ballot.png" alt="cf_spo_rss_vote_ballot" %}
+
 - Atrium Smart Contract “Staking Baskets” - Wow 
     - https://youtu.be/HYD5PoDSDfY min 4:30 
     - Big Pey Helping Decentralization in a  Big Way
@@ -120,5 +124,7 @@ Both extremely erudite, steadfast, and kind Cardano Community members diligently
 
 
 ## BALANCE Updates
-- In the trenches working on more charts. The Svelte + D3 learning curve is steep, and little references, but once over the hump, more charts should flow faster.
+- We are inn the trenches working on more charts. The Svelte + D3 learning curve is steep, and little open-source references, but once over the hump, more charts should flow faster.
 - The Public Pool Group API is starting to get hits, pretty nice grwoth metric! (pic)
+
+{% img src="balance_api_calls_last_month.png" alt="balance_api_calls_last_month" %}

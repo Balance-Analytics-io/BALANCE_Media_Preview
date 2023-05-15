@@ -57,13 +57,13 @@ In Epoch 411's analysis, it was very interesting to see the NEW GIRL private poo
 
 
 ## Noteworthy Community Updates
-- **[ARMN](https://pool.pm/2a05c534817a0b97ce0c5a2354b6e35a067c52408fa70c77e0b5e378) Pool honestly doing great work** promoting decentralization thru building [@plu_ts](https://twitter.com/plu_ts), a typescript eDSL for Cardano smart contract and transactions.
-    - The work is being done by [@MicheleHarmonic](https://twitter.com/MicheleHarmonic) whose twitter bio reads "decentralization first - @hlabs_tech founder - creator of @plu_ts". 
+- **[ARMN](https://pool.pm/2a05c534817a0b97ce0c5a2354b6e35a067c52408fa70c77e0b5e378) Pool honestly doing great work** promoting decentralization thru building **[@plu_ts](https://twitter.com/plu_ts)**, a typescript eDSL for Cardano smart contract and transactions.
+    - The work is being done by **[@MicheleHarmonic](https://twitter.com/MicheleHarmonic)** whose twitter bio reads "decentralization first - @hlabs_tech founder - creator of @plu_ts". 
     - [ARMN](https://cexplorer.io/pool/pool19gzu2dyp0g9e0nsvtg34fdhrtgr8c5jq37nscalqkh3hsjmas69#performance) is Baremetel, “A pool that supports decentralization through the creation of utility software, running on bare metal servers” (Source:  https://harmonicpool.on.fleek.co/).  
     - The pool is Part of the Cardano Single Pool Alliances. Nice work!
 - **[ADAOZ](https://pool.pm/6658713e2cbfa4e347691a0435953f5acbe9f03d330e94caa3a0cfb4) Pool of [Pete (Astroboy)](https://twitter.com/astroboysoup/status/1653500791444086784?s=20) mints 5000 blocks!**
     - The pool uses a mix between baremetal, cloud, and raspberry pi relays.
-    - Pete does great community work with no-shill Cardano education and a professional and fun touch. Highly recommend checking out his youtube channel: https://www.youtube.com/@LearnCardano
+    - Pete does great community work with no-shill Cardano education and a professional and fun touch. Highly recommend checking out his youtube channel [LearnCardano](https://www.youtube.com/@LearnCardano)
 - **[Armada Alliance](https://armada-alliance.com/docs/) Docs now has a Parrot AI Helper for Docs**. Go give it a spin.
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr"><a href="https://twitter.com/alliance_armada?ref_src=twsrc%5Etfw">@alliance_armada</a> now has an AI Parrot integrated into our docs to help you build a node and setup a pool.<a href="https://t.co/W1rKQOyMw0">https://t.co/W1rKQOyMw0</a> <a href="https://t.co/TKLo8FQJui">pic.twitter.com/TKLo8FQJui</a></p>&mdash; 🌟Star Forge⚡ OTG 📡 Stake Pool (@OTG_WCat) <a href="https://twitter.com/OTG_WCat/status/1653681108435779584?ref_src=twsrc%5Etfw">May 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

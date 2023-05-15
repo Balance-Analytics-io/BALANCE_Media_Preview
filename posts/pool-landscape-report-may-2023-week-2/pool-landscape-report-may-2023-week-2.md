@@ -100,7 +100,7 @@ Checking DeFiLama the Cardano TVL is definitley on the rise.
 {% img src="defilama_tvl_ada.png" alt="defilama_tvl_ada" %}
 *Source: [DeFiLama](https://defillama.com/chain/Cardano?tvl=true)*<br><br>
 
-From the Year-To-Date bottom of the curve, the TVL increased by ~95MAda or +190%.
+From the Year-To-Date bottom of the curve, the TVL increased by **~95MAda or +190%**.
 
 While it's positive to see the blockchain being utilized for DeFi, we must ensure that the staked Ada doesn't decrease too much. Staked Ada serves as a defense mechanism against Sybil attacks, providing security to our blockchain through staking instead of relying solely on hash.
 
@@ -114,13 +114,17 @@ A recent realworld example of liquidity flocking to higher yields is the Apple H
 
 ### Hidden Surprise: Big Group Stake Moves to the Downside
 
-However, upon checking how much total ada was unstaked even recently, DeFi TVL seems to be only a fraction of the impact. From checking the current amout of Staked Ada today, versus
+However, upon checking how much total Ada was unstaked even recently, DeFi TVL seems to be only a fraction of the impact. From checking the current amout of Staked Ada today, versus April 1st.
 
 {% img src="staked_ada_may_15_2023.png" alt="staked_ada_may_15_2023" %}
 *Source: [CExplorer](https://cexplorer.io/)*<br><br>
 
+- April 1st: 68.4% Staked, ~24.78BAda
+- May 15th: 64.6% Staked, ~23.82BAda
 
-Well, you may be surprised to find there has been a significant decline in stake from four (4) major pool groups, including Binance!
+That about a -3.9% decline of 966MAda (just under 1BAda). The DeFi TVL raise from Jan 1st was about 94MAda. That's only a 10% impact. What else is going on?
+
+*Well*, you may be surprised to find there has been a *significant decline* in stake from four (4) major pool groups, including Binance!
 
 The first clue was the significant sudden drops in staking as seen in the image below:
 

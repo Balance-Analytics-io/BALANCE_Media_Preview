@@ -98,7 +98,7 @@ DeFi on Cardano is definitely gaining momentum, and you know the memecoin craze 
 Checking DeFiLama the Cardano TVL is definitley on the rise.
 
 {% img src="defilama_tvl_ada.png" alt="defilama_tvl_ada" %}
-*Source: [DeFiLama](https://defillama.com/chain/Cardano?tvl=true)*
+<center>*Source: [DeFiLama](https://defillama.com/chain/Cardano?tvl=true)*</center>
 
 From the Year-To-Date bottom of the curve, the TVL increased by ~95MAda or +190%.
 
@@ -120,7 +120,7 @@ Well, you may be surprised to find there has been a significant decline in stake
 
 The first clue was the significant sudden drops in staking as seen in the image below:
 
-{% img src="decline_staked_ada.png" alt="decline_staked_ada" %}
+{% img src="decline_in_staked_ada_zoom.png" alt="decline_in_staked_ada_zoom" %}
 *Source: [Cardano Blockchain Insights](https://lookerstudio.google.com/u/0/reporting/3136c55b-635e-4f46-8e4b-b8ab54f2d460/page/p_wxcw6g0irc)*
 
 The most significant drops in staking occurred on the following dates:

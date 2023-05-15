@@ -70,7 +70,7 @@ In Epoch 411's analysis, it was very interesting to see the NEW GIRL private poo
 - **[HAZEL](https://pool.pm/be80794a946cf5e578846fc81e3c62ac13f4ab3335e0f5dc046edad4) pool is [now 2 years old and upped their pledge 270l -> 325k](https://twitter.com/NilsCodes/status/1653802569146470402?s=20), well done!**
     - Support HAZEL's work for [HAZELnet_io Bot](https://twitter.com/HAZELnet_io): "An enterprise grade Community Integration Tool on Cardano. Discord Bot with NFT & delegator verification & scam protection 🔑 With love from HAZEL 😺"
 - **[GURU](https://pool.pm/96840eba5a4d0ff0d42f7ad5ac83343a0c6a87b1c71bf106cc544855) pool increased their minFee from 340 -> 813Ada and 0%. Not a bad move.** 
-    - Their pool rewards teeter between 500-800, so they should get more rewards but perhaps better pool ranking with 0% margin fee. It’s good to see someone making moves and coming off 340Ada, and it makes sense! You can follow their healthy ROS *[here](https://pooltool.io/pool/96840eba5a4d0ff0d42f7ad5ac83343a0c6a87b1c71bf106cc544855/epochs)*
+    - Their pool rewards teeter between 500-800, so they should get more rewards but perhaps better pool ranking with 0% margin fee. It’s good to see someone making moves and coming off 340Ada, and it makes sense! You can follow their healthy ROS *[here](https://pooltool.io/pool/96840eba5a4d0ff0d42f7ad5ac83343a0c6a87b1c71bf106cc544855/epochs)*.
 - **[JACK](https://pool.pm/bd50ebea27a9e846bcd873c361ecb1a4d9baf738040d232882109fcd) stake pool retiring due to outside interests “media business & content to explore more of my interests.”**
     - [Jack](https://twitter.com/jackfriks/status/1655231010823622659?s=20) has great contributions to Cardano education and onboarding new users. He also provided valient contributions to decentralization. Best of luck in whatever you pursue!
 - **[LOVLK](https://pool.pm/331711ffbc442853ede9bbf478f6c7ddc62772cd1633df72285878d3) pool retiring. Created in Nov 2021 (Epoch 302)**
@@ -110,9 +110,12 @@ On one hand it's good to see the blockchain being used. On the other, let's hope
 
 ## Topic: Staked Ada Down, Impacts of DeFi and Memecoin Craze? … or is it Something More?
 
-We have observed a consistent decline in Staked Ada. This raises the question: Is it a result of the DeFi (Decentralized Finance) and Memecoin frenzy causing less Ada to be staked, or is there something more?
+We have observed a consistent decline in Staked Ada. This raises the question: Is it a result of the DeFi (Decentralized Finance) and Memecoin frenzy causing less Ada to be staked, or is there something more to it?
 
-You may be surprised to find out exchanges unstaking their Ada
+Well, you may be surprised to find there has been a significant decline in stake from four (4) major pool groups, including Binance!
+
+
+
 The most significant drops in staking occurred on the following dates:
 - April 5th, Epoch 403 to 404 - BCSH and New Guy experienced significant changes.
 - April 20th, Epoch 406 to 407 - Binance witnessed a substantial drop.
@@ -127,6 +130,35 @@ Another tweet by unusual_whales mentions Apple's new high-yield savings account,
 [@LiberLion](https://twitter.com/liberlion17/status/1649374245959376899?s=20) has also expressed concerns about this trend.
 
 While it's positive to see the blockchain being utilized, we must ensure that the staked Ada doesn't decrease too much. Staked Ada serves as a defense mechanism against Sybil attacks, providing security to our blockchain through staking instead of relying solely on hash
+
+
+| EPOCH | 390              | 411              | DELTA              | % DELTA |
+|-------|------------------|------------------|--------------------|---------|
+| NAME  | BCSH             | BCSH             |                    |         |
+| STAKE | 130,992,699.00   | 112,372,940.00   | (18,619,759.00)    | -14%    |
+| PLEDGE| 10,690,003.00    | 4,740,003.00     | (5,950,000.00)     | -56%    |
+| TOTAL |                  |                  | (24,569,759.00)    |         |
+|       |                  |                  |                    |         |
+| NAME  | BINANCE          | BINANCE          |                    |         |
+| STAKE | 2,884,453,595.00 | 1,310,712,823.00 | (1,573,740,772.00) | -55%    |
+| PLEDGE| 96.00            | 96.00            | -                  | 0%      |
+| TOTAL |                  |                  | (1,573,740,772.00) |         |
+|       |                  |                  |                    |         |
+| NAME  | NEW GUY          | NEW GUY          |                    |         |
+| STAKE | 365,235,217.00   | 224,609,870.00   | (140,625,347.00)   | -39%    |
+| PLEDGE| -                | -                | -                  | #DIV/0! |
+| TOTAL |                  |                  | (140,625,347.00)   |         |
+|       |                  |                  |                    |         |
+| NAME  | COINBASE         | COINBASE         |                    |         |
+| STAKE | 2,588,823,058.00 | 2,168,378,655.00 | (420,444,403.00)   | -16%    |
+| PLEDGE| 2,000.00         | 2,000.00         | -                  | 0%      |
+| TOTAL |                  |                  | (420,444,403.00)   |         |
+|       |                  |                  |                    |         |
+| TOTAL | 5,969,504,569.00 | 3,816,074,288.00 | (2,153,430,281.00) | -36%    |
+|       | Staked Ada       |                  |                    |         |
+| 1-Apr | 68.40%           |                  | 24,089,490,114.46  |         |
+| 12-May| 64.50%           | -3.90%           | 23,150,000,000.00  |         |
+|       |                  | (939,490,114.46) |                    |         |
 
 
 

@@ -19,20 +19,22 @@ series: true
 **(4/30/23 Epoch 409 -> 5/15/23 Epoch 411)**
 **More New Multi-pools, Big Binance Stake Drop, NEW GIRL Gone?, Staked Ada Dropping**
 
-- 15 new pools created since last “pool groups” dataset update
-- Over 50% of new pools created (this round) are part of multi-pool operations
+Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro picture of what changed.
+- 15 new pools have been created since last “pool groups” dataset update (April 30th, 2023).
+- Over 50% of new pools created (this round) are part of Multi-Pool Operations (MPOs).
     - WAVE added 1 new pool(s)
     - KID added 2 new pool(s)
     - MS added 1 new pool(s)
     - BD added 1 new pool(s)
-    - Created new pool group SIMBA with 3 pools - same DNS used for relays
-- Huge Binance Stake drop!
-    - Where did it go?
-    - K-effective impacts and MAV!
-- NEW GIRL dead? Live Stake effectively dropped to zero.
-
-Just reviewed the chart data for epoch 411, interesting to see NEW GIRL attempt to respawn under different POOL IDs.
-In doing more investigation into the NEW GIRL pool group issue, I found that the ADA was moved through the same stake address within minutes.  Given this finding, I will re-establish the NEW GIRL pool group using the new pool hash ID values. Looks like new pool IDs and new addresses, but all moved within minutes apart through the same utility. Even if the funds were indeed a change in ownership, I still believe this to be a multi-pool operation.
+    - New pool group SIMBA with 3 pools - same DNS used for relays
+- Huge Binance Stake drop by 55% (1.57BAda)!
+    - Where did it go? Maybe some walelt slueths can help.
+    - K-effective impacts and MAV increases!
+- NEW GIRL dead? Live Stake effectively dropped to zero...(335MAda Private Pool, all pledge, 100% margin)
+    - Epoch 411 analysis, it's nteresting to see NEW GIRL attempt to respawn under different POOL IDs.
+    - ADA was moved through the same stake address within minute through the same utility.
+    - Given this finding, the NEW GIRL pool group is re-established using the new pool hash ID values. Looks like new pool IDs and new addresses, but . 
+    - Even if the funds were indeed a change in ownership, we still believe this to be a legit Multi-Pool Operation.
 
 
 ## Noteworthy Community Updates
@@ -66,7 +68,11 @@ In doing more investigation into the NEW GIRL pool group issue, I found that the
 
 ## Topic: Staked Ada Down, Impacts of DeFi and Memecoin Craze? … or is it Something More?
 - Has DeFi and the Memecoin mania resulted in less staked Ada… or are Exchanges Unstaking?
-
+- Biggest staking drops were
+    - April 5th, Epoch 403->404 day - BCSH and New Guy big changes
+    - April 20th, Epoch 406->407 day - Binance big drop
+    - May 3rd, Epoch 409, Binance shrunk again
+- 
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">It&#39;s <a href="https://twitter.com/hashtag/ADA?src=hash&amp;ref_src=twsrc%5Etfw">#ADA</a> going into DeFi.</p>&mdash; M₳rco Meerm₳n (@MarcoMeerman) <a href="https://twitter.com/MarcoMeerman/status/1656018934703824919?ref_src=twsrc%5Etfw">May 9, 2023</a></blockquote>
 
 - <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

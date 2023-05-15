@@ -140,8 +140,8 @@ The most significant drops in staking occurred on the following dates:
 
 From checking our [BALANCE Stake Vs Leverage Pool Group Chart](https://www.balanceanalytics.io/chartboards/decentralization), the following stake changes took place amoung these four (4) large pool groups.
 
-**Staked Ada Changes from Epoch 390 (Jan 30th) to 411 (May 15th)
-- **BINANCE -55% decrease for -1,573MAda**
+**Staked Ada Changes from Epoch 390 (Jan 30th) to 411 (May 15th)**
+- **BINANCE -55% decrease for -1,573MAda** (Wow!)
 - COINBASE -16% decrease for -420MAda
 - BCSH -17% decrease for -24MAda
 - NEW GUY -39% decrease for -140MAda
@@ -150,7 +150,7 @@ That's a combined Staked Ada loss of -2.15 Billion Ada, or a combined -36% chang
 
 So, assuming around Jan 1st the Staked Ada was 72% or 25.8BAda, and today it's 65% for 23.8BAda, thats a loss of -7% or -1.8BAda.
 
-In short, it appears the Staked Ada decrease is definitely reflected in the loss of Stake from these 4 big pool groups. Whether or not it's being sold or put into DeFi not reflected in DeFiLama is unknown.
+In short, it appears the Staked Ada decrease is definitely reflected in the loss of Stake from these 4 big pool groups. Whether or not it's being sold or put into DeFi not reflected in DeFiLama is unknown, but DeFi alone seems unlikely. Let us know what you think.
 
 
 ## Single Pool Spotlight: TERM and COSD

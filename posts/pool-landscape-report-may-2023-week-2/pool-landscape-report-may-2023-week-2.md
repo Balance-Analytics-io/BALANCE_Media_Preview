@@ -83,7 +83,7 @@ In Epoch 411's analysis, it was very interesting to see the NEW GIRL private poo
 We have observed a consistent decline in Staked Ada, which warrents a bit of investigation: Why?
 
 {% img src="decline_staked_ada.png" alt="decline_staked_ada" %}
-*Source: [Cardano Blockchain Insights](https://lookerstudio.google.com/u/0/reporting/3136c55b-635e-4f46-8e4b-b8ab54f2d460/page/p_wxcw6g0irc)*
+*Source: [Cardano Blockchain Insights](https://lookerstudio.google.com/u/0/reporting/3136c55b-635e-4f46-8e4b-b8ab54f2d460/page/p_wxcw6g0irc)*<br><br>
 
 We tweeted and asked the Cardano Community what they thought. [Marco](https://twitter.com/MarcoMeerman) graciously added DeFi is the culprit.
 
@@ -121,7 +121,7 @@ Well, you may be surprised to find there has been a significant decline in stake
 The first clue was the significant sudden drops in staking as seen in the image below:
 
 {% img src="decline_in_staked_ada_zoom.png" alt="decline_in_staked_ada_zoom" %}
-*Source: [Cardano Blockchain Insights](https://lookerstudio.google.com/u/0/reporting/3136c55b-635e-4f46-8e4b-b8ab54f2d460/page/p_wxcw6g0irc)*
+*Source: [Cardano Blockchain Insights](https://lookerstudio.google.com/u/0/reporting/3136c55b-635e-4f46-8e4b-b8ab54f2d460/page/p_wxcw6g0irc)*<br><br>
 
 The most significant drops in staking occurred on the following dates:
 - April 5th, Epoch 403 to 404 - BCSH and New Guy experienced significant changes.
@@ -136,19 +136,17 @@ Another tweet by unusual_whales mentions Apple's new high-yield savings account,
 
 
 
-
 ## Single Pool Spotlight: TERM and COSD
 
-We would like to give kudos to two outstanding community members who have been diligently contributing to CIPS, Cardano Forums, and the Cardano Professional Society in the Matrix. Both are extremely erudite, steadfast, and kind. Additionally, their stake pools are shining examples of good actors in the landscape.
+We would like to give kudos to two outstanding community members:
+1. **[Terminada](https://forum.cardano.org/u/terminada/summary)**: [TERM](https://pool.pm/08f05bcfaada3bb5c038b8c88c6b502ceabfd9978973159458c6535b)
+2. **[Robert Phair](https://forum.cardano.org/u/cosdpool/summary)**: [COSD](https://pool.pm/c94e6fe1123bf111b77b57994bcd836af8ba2b3aa72cfcefbec2d3d4)
 
-Thank you both for all that you do. Please check out their stake pools:
+They both have been diligently contributing to CIPS, Cardano Forums, and the Cardano Professional Society in the Matrix. Both are extremely erudite, steadfast, and kind. Additionally, their stake pools are shining examples of good actors in the landscape.
 
-https://forum.cardano.org/u/terminada/summary
-https://forum.cardano.org/u/cosdpool/summary
+Thank you both for all that you do. Please check out their stake pools!
 
-
-- [TERM](https://pool.pm/08f05bcfaada3bb5c038b8c88c6b502ceabfd9978973159458c6535b)
-- [COSD](https://pool.pm/c94e6fe1123bf111b77b57994bcd836af8ba2b3aa72cfcefbec2d3d4)
+**Note:** TERM has an extremely high pledge, about ~3MAda, and he could ***easily*** split the pool into an MPO and minFee farm the 340Ada and win more blocks. Instead, like many others, they are steadfast in changing the Reward Sharing Scheme Game Thoery. This is a shining example of the right thing to do for network health. Pledge should matter more.
 
 ## What We’re Paying Attention To
 

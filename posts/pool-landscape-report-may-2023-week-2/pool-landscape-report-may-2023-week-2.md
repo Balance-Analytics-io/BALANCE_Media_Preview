@@ -29,13 +29,13 @@ Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro pi
     - BD added 1 new pool(s)
     - New pool group SIMBA with 3 pools - same DNS used for relays
 ### Huge Binance Stake drop by 55% (1.57BAda)!
-    - Where did it go? Maybe some walelt slueths can help.
-    - K-effective impacts and MAV increases!
+- Where did it go? Maybe some walelt slueths can help.
+- K-effective impacts and MAV increases!
 ### NEW GIRL dead? Live Stake effectively dropped to zero...(335MAda Private Pool, all pledge, 100% margin)
-    - Epoch 411 analysis, it's interesting to see NEW GIRL attempt to respawn under different POOL IDs.
-    - ADA was moved through the same stake address within minute through the same utility.
-    - Given this finding, the NEW GIRL pool group is re-established using the new pool hash ID values. Looks like new pool IDs and new addresses, but . 
-    - Even if the funds were indeed a change in ownership, we still believe this to be a legit Multi-Pool Operation.
+- Epoch 411 analysis, it's interesting to see NEW GIRL attempt to respawn under different POOL IDs.
+- ADA was moved through the same stake address within minute through the same utility.
+- Given this finding, the NEW GIRL pool group is re-established using the new pool hash ID values. Looks like new pool IDs and new addresses, but . 
+- Even if the funds were indeed a change in ownership, we still believe this to be a legit Multi-Pool Operation.
 
 
 ## Noteworthy Community Updates

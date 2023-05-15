@@ -39,7 +39,6 @@ See for yourself. Here's a demo of searching for Binance Group and seeing the ch
 
 {% video src="binance_stake_v_lev_demo.mov" %}
 
-
 Here's a demo of seeing the increase in MAV and K-Effective! What's good to see is the K-Effective, a weighted measure of the pool groups, increasing rapidly. The only question remaining, where is the stake going?
 
 {% video src="keff_demo.mov" %}
@@ -54,15 +53,10 @@ In Epoch 411's analysis, it was very interesting to see the NEW GIRL private poo
 
 
 ## Noteworthy Community Updates
-- [ARMN] Pool honestly doing great working promoting decentralization thru building plu_ts, a typescript eDSL for Cardano smart contract and transactions.
-    - Decentralization first - @hlabs_tech founder - creator of @plu_ts
-    - https://twitter.com/MicheleHarmonic 
-    - Baremetel 
-    - “A pool that supports decentralization through the creation of utility software, running on bare metal servers”
-    - https://cexplorer.io/pool/pool19gzu2dyp0g9e0nsvtg34fdhrtgr8c5jq37nscalqkh3hsjmas69#performance 
-    - https://harmonicpool.on.fleek.co/ 
-    - https://pool.pm/2a05c534817a0b97ce0c5a2354b6e35a067c52408fa70c77e0b5e378 
-    - Part of the Cardano Single Pool Alliances. 
+- [ARMN](https://pool.pm/2a05c534817a0b97ce0c5a2354b6e35a067c52408fa70c77e0b5e378) Pool honestly doing great working promoting decentralization thru building [@plu_ts](https://twitter.com/plu_ts), a typescript eDSL for Cardano smart contract and transactions.
+
+The work is being done by [@@MicheleHarmonic](https://twitter.com/MicheleHarmonic) whose twitter bio reads "ecentralization first - @hlabs_tech founder - creator of @plu_ts". [ARMN](https://cexplorer.io/pool/pool19gzu2dyp0g9e0nsvtg34fdhrtgr8c5jq37nscalqkh3hsjmas69#performance) is Baremetel, “A pool that supports decentralization through the creation of utility software, running on bare metal servers” (Source:  https://harmonicpool.on.fleek.co/).  The pool is Part of the Cardano Single Pool Alliances. Nice work!
+
 - [ADAOZ] Pool mints 5000 blocks, of Pete (Astroboy). The pool uses a mix between baremetal, cloud, and raspberry pi relays
     - https://www.youtube.com/@LearnCardano 
     - https://twitter.com/astroboysoup/status/1653500791444086784?s=20 
@@ -80,6 +74,7 @@ In Epoch 411's analysis, it was very interesting to see the NEW GIRL private poo
     - LoveLike is a professional operated single pool help us grow and decentralize cardano! LOVLK is committed to stay a singlepool operation!
     - Bio reads as a highly talented and professional dev/ops coder. https://lovelike.io/ https://twitter.com/lovelikeio 
     - part of the @CardanoSPA
+
 
 
 ## Topic: Staked Ada Down, Impacts of DeFi and Memecoin Craze? … or is it Something More?

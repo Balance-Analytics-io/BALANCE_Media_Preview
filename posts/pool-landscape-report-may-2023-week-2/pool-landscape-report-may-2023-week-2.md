@@ -89,12 +89,9 @@ Has DeFi and the Memecoin mania resulted in less staked Ada… or are Exchanges 
   - April 20th, Epoch 406->407 day - Binance big drop
   - May 3rd, Epoch 409, Binance shrunk again
 
-<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">It&#39;s <a href="https://twitter.com/hashtag/ADA?src=hash&amp;ref_src=twsrc%5Etfw">#ADA</a> going into DeFi.</p>&mdash; M₳rco Meerm₳n (@MarcoMeerman) <a href="https://twitter.com/MarcoMeerman/status/1656018934703824919?ref_src=twsrc%5Etfw">May 9, 2023</a></blockquote>
 
-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-- https://twitter.com/AdaverseNews/status/1622686423307456540?s=20
+
 - 105MAda according to Adverse News
-- <check defi lama>
 - But this is not even close to 35% unstated (Billion?)
 - Real world extreme example, how Apple high interest savings accounts are pulling money out of small mid regional banks. Money talks.
 
@@ -110,11 +107,41 @@ On one hand it's good to see the blockchain being used. On the other, let's hope
 
 ## Topic: Staked Ada Down, Impacts of DeFi and Memecoin Craze? … or is it Something More?
 
-We have observed a consistent decline in Staked Ada. This raises the question: Is it a result of the DeFi (Decentralized Finance) and Memecoin frenzy causing less Ada to be staked, or is there something more to it?
+We have observed a consistent decline in Staked Ada, which warrents a bit of investigation: Why?
+
+{% img src="decline_staked_ada.png" alt="decline_staked_ada" %}
+#### Source: [Cardano Blockchain Insights](https://lookerstudio.google.com/u/0/reporting/3136c55b-635e-4f46-8e4b-b8ab54f2d460/page/p_wxcw6g0irc)
+
+### Influence of DeFi on Staked Ada
+
+This raises the question: Is it a result of the DeFi (Decentralized Finance) and Memecoin frenzy causing less Ada to be staked, or is there something more to the story? 
+
+DeFi on Cardano is definitely gaining momentum, and you know the memecoin craze is absolutely wild right now.
+
+Checking DeFiLama the Cardano TVL is definitley on the rise.
+
+{% img src="defilama_tvl_ada.png" alt="defilama_tvl_ada" %}
+#### Source: [DeFiLama](https://defillama.com/chain/Cardano?tvl=true)
+
+From the Year-To-Date bottom of the curve, the TVL increased by ~95MAda or +190%.
+
+Our friend [@LiberLion](https://twitter.com/liberlion17/status/1649374245959376899?s=20) has expressed concerns about the trend if DeFi offers higher yields than staking, will the Staked Ada decrease, and thus decrease network security?
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Much of the consensus staking goes to DeFi. <br>We see the increase in TVL.<br><br>I see a problem here. I saw it before, too. <br>I wrote this article 2 years ago:<br>&#39;Stake Pools vs. Liquidity Pools&#39;<a href="https://t.co/ASfhdGQHug">https://t.co/ASfhdGQHug</a> <a href="https://t.co/ty2hLEnnc9">https://t.co/ty2hLEnnc9</a></p>&mdash; Li₿εʁLiøη (@liberlion17) <a href="https://twitter.com/liberlion17/status/1649374245959376899?ref_src=twsrc%5Etfw">April 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+We tweeted and asked the Cardano Community what they thought. [Marco](https://twitter.com/MarcoMeerman) graciously added DeFi is the culprit.
+
+<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">It&#39;s <a href="https://twitter.com/hashtag/ADA?src=hash&amp;ref_src=twsrc%5Etfw">#ADA</a> going into DeFi.</p>&mdash; M₳rco Meerm₳n (@MarcoMeerman) <a href="https://twitter.com/MarcoMeerman/status/1656018934703824919?ref_src=twsrc%5Etfw">May 9, 2023</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+### Hidden Surprise: Big Group Stake Moves to the Downside
 
 Well, you may be surprised to find there has been a significant decline in stake from four (4) major pool groups, including Binance!
 
+The first clue was the significant sudden drops in staking as seen in the image below:
 
+{% img src="decline_staked_ada.png" alt="decline_staked_ada" %}
 
 The most significant drops in staking occurred on the following dates:
 - April 5th, Epoch 403 to 404 - BCSH and New Guy experienced significant changes.
@@ -127,83 +154,9 @@ However, this drop is not even close to the speculated 35% unstaked (billion?). 
 
 Another tweet by unusual_whales mentions Apple's new high-yield savings account, which accumulated nearly $990 million in deposits over four days. This highlights the influence money can have on financial decisions.
 
-[@LiberLion](https://twitter.com/liberlion17/status/1649374245959376899?s=20) has also expressed concerns about this trend.
+
 
 While it's positive to see the blockchain being utilized, we must ensure that the staked Ada doesn't decrease too much. Staked Ada serves as a defense mechanism against Sybil attacks, providing security to our blockchain through staking instead of relying solely on hash
-
-<html>
-
-| EPOCH | 390              | 411              | DELTA              | % DELTA |
-|-------|------------------|------------------|--------------------|---------|
-| NAME  | BCSH             | BCSH             |                    |         |
-| STAKE | 130,992,699.00   | 112,372,940.00   | (18,619,759.00)    | -14%    |
-| PLEDGE| 10,690,003.00    | 4,740,003.00     | (5,950,000.00)     | -56%    |
-| TOTAL |                  |                  | (24,569,759.00)    |         |
-|       |                  |                  |                    |         |
-| NAME  | BINANCE          | BINANCE          |                    |         |
-| STAKE | 2,884,453,595.00 | 1,310,712,823.00 | (1,573,740,772.00) | -55%    |
-| PLEDGE| 96.00            | 96.00            | -                  | 0%      |
-| TOTAL |                  |                  | (1,573,740,772.00) |         |
-|       |                  |                  |                    |         |
-| NAME  | NEW GUY          | NEW GUY          |                    |         |
-| STAKE | 365,235,217.00   | 224,609,870.00   | (140,625,347.00)   | -39%    |
-| PLEDGE| -                | -                | -                  | #DIV/0! |
-| TOTAL |                  |                  | (140,625,347.00)   |         |
-|       |                  |                  |                    |         |
-| NAME  | COINBASE         | COINBASE         |                    |         |
-| STAKE | 2,588,823,058.00 | 2,168,378,655.00 | (420,444,403.00)   | -16%    |
-| PLEDGE| 2,000.00         | 2,000.00         | -                  | 0%      |
-| TOTAL |                  |                  | (420,444,403.00)   |         |
-|       |                  |                  |                    |         |
-| TOTAL | 5,969,504,569.00 | 3,816,074,288.00 | (2,153,430,281.00) | -36%    |
-|       | Staked Ada       |                  |                    |         |
-| 1-Apr | 68.40%           |                  | 24,089,490,114.46  |         |
-| 12-May| 64.50%           | -3.90%           | 23,150,000,000.00  |         |
-|       |                  | (939,490,114.46) |                    |         |
-
-</html>
-
-<table>
-  <tr>
-    <th>EPOCH</th>
-    <th>390</th>
-    <th>411</th>
-    <th>DELTA</th>
-    <th>% DELTA</th>
-  </tr>
-  <tr>
-    <td>NAME</td>
-    <td>BCSH</td>
-    <td>BCSH</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>STAKE</td>
-    <td>130,992,699.00</td>
-    <td>112,372,940.00</td>
-    <td>(18,619,759.00)</td>
-    <td>-14%</td>
-  </tr>
-  <tr>
-    <td>PLEDGE</td>
-    <td>10,690,003.00</td>
-    <td>4,740,003.00</td>
-    <td>(5,950,000.00)</td>
-    <td>-56%</td>
-  </tr>
-  <tr>
-    <td>TOTAL</td>
-    <td></td>
-    <td></td>
-    <td>(24,569,759.00)</td>
-    <td></td>
-  </tr>
-  <!-- ... Rest of the table rows ... -->
-</table>
-
-
-
 
 
 ## Single Pool Spotlight: TERM and COSD

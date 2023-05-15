@@ -63,6 +63,26 @@ In Epoch 411's analysis, it was very interesting to see the NEW GIRL private poo
     - The work is being done by [@MicheleHarmonic](https://twitter.com/MicheleHarmonic) whose twitter bio reads "decentralization first - @hlabs_tech founder - creator of @plu_ts".
     - [ARMN](https://cexplorer.io/pool/pool19gzu2dyp0g9e0nsvtg34fdhrtgr8c5jq37nscalqkh3hsjmas69#performance) is Baremetel, “A pool that supports decentralization through the creation of utility software, running on bare metal servers” (Source:  https://harmonicpool.on.fleek.co/).
     - The pool is Part of the Cardano Single Pool Alliances. Nice work!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
 ## Topic: Staked Ada Down, Impacts of DeFi and Memecoin Craze? … or is it Something More?

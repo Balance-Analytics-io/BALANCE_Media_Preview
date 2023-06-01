@@ -21,33 +21,16 @@ series: true
 
 Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro picture of what has changed since last time.
 
-### Eight (8) New Pools, New MPO FIGMENT, NEW GIRL Scoop
+- RELAY Stake Pool increased Pledge from 69kAda to 125kAda
+    - https://twitter.com/RelayStakePool/status/1660431995183169538
+    - RELAY Stake Pool increased Pledge from 69kAda to 125kAda
+    - https://twitter.com/RelayStakePool/status/1660431995183169538  
+    - RELAY Stake Pool increased Pledge from 69kAda to 125kAda
+    - https://twitter.com/RelayStakePool/status/1660431995183169538  
 
-Since 5/15/23 Epoch 411, the following pool actions have taken place: 
-
-- Eight (8) new pools were created since the last pool group dataset review/update.
-
-- One (1) pool belongs to the [IDP](https://pool.pm/b9ffb01687eb9f12433a6edec90d808b75f9bde51ab2495d278d7727), which is [IDO PASS DAO](https://idopass.finance/index.html#). From their website:
-
-    > "IDO PASS DAO is a Launchpad, DAO, Incubator, On-Chain Mapping. IDO Pass DAO is the first Cardano DAO to focus on IDOs, launchpads, and Blue chip CNFT fractionalization."
-
-- [FIGMENT](https://figment.io/) is a new pool group forming, with two (2) pools so far. They are an institutional staking-as-a-service company that honestly has a very sophisticated website. It reminds me of Vanguard's style. From their website:
-
-    > "Digital Asset Staking Built for Institutions. The complete staking solution for 200+ institutional clients, including asset managers, custodians, exchanges, foundations, and wallets, to earn rewards on their digital assets."
-
-    - It's interesting how these VC Staking Services, or Staking Pools as a Service (SPaaS), are emerging with new lingo. Cardano, despite its top 10 market cap, is listed at the bottom. Go figure.
-
-    {% img src="figment_shot.png" alt="figment_shot" %}
-
-    - Regardless, it's good to see Cardano joining their service group and API. Maybe we should welcome them and let them know we agree there are no risks to staking and how much better it is than Ethereum...also that Community Delegation is the better option.
-
-    <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">🔎 Take a look into <a href="https://twitter.com/Cardano?ref_src=twsrc%5Etfw">@Cardano</a> - a PoS blockchain that aims to improve blockchain scalability, interoperability, and sustainability 👀<br><br>Learn more 👇<a href="https://t.co/9IW89oWOXV">https://t.co/9IW89oWOXV</a> <a href="https://t.co/g1wldjpCvT">pic.twitter.com/g1wldjpCvT</a></p>&mdash; Figment (@Figment_io) <a href="https://twitter.com/Figment_io/status/1511375511087419398?ref_src=twsrc%5Etfw">April 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-- One (1) existing pool was added to the NEW GIRL group (the pool has approximately 51 mADA). This is a very curious development, with NEW GIRL creating new pools and group activity.
-
-***Note: If you are curious exactly which pools, you'll need to join the Matrix Group Edits Chat to find out. See below.***
-
-
+- RELAY Stake Pool increased Pledge from 69kAda to 125kAda
+    - https://twitter.com/RelayStakePool/status/1660431995183169538  
+    
 ### Huge Drop in Staked Ada on May 18th
 On May 18th there was a pretty big drop in Staked Ada! This was attributed to Binance continuing to de-stake Ada. But then, a few days later, a pretty decent U-Turn? What is going on?
 

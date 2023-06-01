@@ -48,20 +48,22 @@ Since 5/15/23 Epoch 411, the following pool actions have taken place:
 
 
 ### Huge Drop in Staked Ada on May 18th
-- May 18th pretty big drop in stake!
-- Staked Ada U-Turn end of May, what could it be?
+On May 18th there was a pretty big drop in Staked Ada! This was attributed to Binance continuing to de-stake Ada. But then, a few days later, a pretty decent U-Turn? What is going on?
 
-### Binance is Back with New Pools for K=1000
-- Binance is back!
-https://twitter.com/BalanceData22/status/1663720822937190401?s=20 
+{% img src="staked_ada_u_turn.png" alt="staked_ada_u_turn" %}
+
+
+### Binance is Back with New Pools for K=1000!
 
 <blockquote class="twitter-tweet tw-align center"><p lang="en" dir="ltr">annnd Binance is back. New Pools fully configured for k=1000.<br><br>hat tip to <a href="https://twitter.com/earncoinpool?ref_src=twsrc%5Etfw">@earncoinpool</a> and <a href="https://twitter.com/KpunToN00b?ref_src=twsrc%5Etfw">@KpunToN00b</a> (Homer J AAA) in our Matrix Group Edits Chat! <br><br>All are welcome to join &amp; help be an On-Chain <a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> Guardians (dm for a username).<a href="https://t.co/9gCb4iD0g0">https://t.co/9gCb4iD0g0</a> <a href="https://t.co/1b2Q5VmGAf">pic.twitter.com/1b2Q5VmGAf</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1663720822937190401?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Not only that, they stole [BrotherShip Pool's](https://twitter.com/BrothershipPool) Ticker **BSP**!
+So Binance is back. They still have their 64 BNP Pools, but low and behold they are creating new pools for K=1000 (or 32MAda) configuration. Insider tip offs, or smart and proactive?
+
+Regardless, the new pools stole our friend [BrotherShip Pool's](https://twitter.com/BrothershipPool) Ticker **BSP**! How rude. Now, how will people know who is the real BSP of the Cardano Single Pool Alliance.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Will the real slim shady, please stand up... <a href="https://t.co/D64IPsPvem">pic.twitter.com/D64IPsPvem</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1663714167021355008?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Perhaps the best we can do is make some social media noise by engaging with this tweet by [Pool.pm](pool.pm)
+Perhaps the best we can do is make some social media noise by engaging with this tweet by [Pool.pm](pool.pm).
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">In a selfish &amp; careless move, <a href="https://twitter.com/binance?ref_src=twsrc%5Etfw">@binance</a> has just created 32 pools with the BSP ticker already used by <a href="https://twitter.com/BrothershipPool?ref_src=twsrc%5Etfw">@BrothershipPool</a> since the very first day of the Shelley era 3 years ago.<a href="https://twitter.com/cz_binance?ref_src=twsrc%5Etfw">@cz_binance</a>, it shows a deep lack of care for the <a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> staking space from you company, please react! <a href="https://t.co/qSdYgBgAv7">pic.twitter.com/qSdYgBgAv7</a></p>&mdash; pool.pm (@pool_pm) <a href="https://twitter.com/pool_pm/status/1663809731603906560?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

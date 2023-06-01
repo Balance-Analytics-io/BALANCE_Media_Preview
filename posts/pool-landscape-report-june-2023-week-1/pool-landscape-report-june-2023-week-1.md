@@ -25,7 +25,9 @@ Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro pi
 
 Since 5/15/23 Epoch 411, the following pool actions have taken place: 
 
-- Eight (8) new pools were created since the last pool group dataset review/update.
+<li>
+Eight (8) new pools were created since the last pool group dataset review/update.
+</li>
 
 - One (1) pool belongs to the [IDP](https://pool.pm/b9ffb01687eb9f12433a6edec90d808b75f9bde51ab2495d278d7727), which is [IDO PASS DAO](https://idopass.finance/index.html#). From their website:
 

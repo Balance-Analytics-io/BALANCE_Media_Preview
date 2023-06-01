@@ -74,6 +74,9 @@ Since 5/15/23 Epoch 411, the following pool actions have taken place:
 
 - Eight (8) new pools were created since the last pool group dataset review/update.
 
+- One (1) pool belongs to the [IDP](https://pool.pm/b9ffb01687eb9f12433a6edec90d808b75f9bde51ab2495d278d7727), which is [IDO PASS DAO](https://idopass.finance/index.html#). From their website:
+
+    > "IDO PASS DAO is a Launchpad, DAO, Incubator, On-Chain Mapping. IDO Pass DAO is the first Cardano DAO to focus on IDOs, launchpads, and Blue chip CNFT fractionalization."
 
 
 ## Noteworthy Community Updates

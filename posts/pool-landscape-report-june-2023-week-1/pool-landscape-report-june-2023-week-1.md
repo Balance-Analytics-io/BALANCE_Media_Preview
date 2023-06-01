@@ -28,7 +28,7 @@ Since 5/15/23 Epoch 411, the following pool actions have taken place:
 
 - Eight (8) new pools were created since the last pool group dataset review/update.
 
-- `pool1h8lmq958aw03yse6dm0vjrvq3d6ln009r2eyjhf834mjw9x33ng` belongs to the [IDP](https://pool.pm/b9ffb01687eb9f12433a6edec90d808b75f9bde51ab2495d278d7727), which is [IDO PASS DAO](https://idopass.finance/index.html#). From their website:
+- One (1) pool belongs to the [IDP](https://pool.pm/b9ffb01687eb9f12433a6edec90d808b75f9bde51ab2495d278d7727), which is [IDO PASS DAO](https://idopass.finance/index.html#). From their website:
 
     > "IDO PASS DAO is a Launchpad, DAO, Incubator, On-Chain Mapping. IDO Pass DAO is the first Cardano DAO to focus on IDOs, launchpads, and Blue chip CNFT fractionalization."
 
@@ -46,6 +46,7 @@ Since 5/15/23 Epoch 411, the following pool actions have taken place:
 
 - One (1) existing pool was added to the NEW GIRL group (the pool has approximately 51 mADA). This is a very curious development, with NEW GIRL creating new pools and group activity.
 
+***Note: If you are curious exactly which pools, you'll need to join the Matrix Group Edits Chat to find out. See below.***
 
 ### Huge Drop in Staked Ada on May 18th
 On May 18th there was a pretty big drop in Staked Ada! This was attributed to Binance continuing to de-stake Ada. But then, a few days later, a pretty decent U-Turn? What is going on?
@@ -61,7 +62,7 @@ So Binance is back. They still have their 64 BNP Pools, but low and behold they 
 
 Regardless, the new pools stole our friend [BrotherShip Pool's](https://twitter.com/BrothershipPool) Ticker **BSP**! How rude. Now, how will people know who is the real BSP of the Cardano Single Pool Alliance.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Will the real slim shady, please stand up... <a href="https://t.co/D64IPsPvem">pic.twitter.com/D64IPsPvem</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1663714167021355008?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Will the real slim shady, please stand up... <a href="https://t.co/D64IPsPvem">pic.twitter.com/D64IPsPvem</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1663714167021355008?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Perhaps the best we can do is make some social media noise by engaging with this tweet by [Pool.pm](pool.pm).
 

@@ -21,7 +21,6 @@ series: true
 
 Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro picture of what has changed since last time.
 
-
 ### Eight (8) New Pools, New MPO FIGMENT, NEW GIRL Scoop
 
 Since 5/15/23 Epoch 411, the following pool actions have taken place: 
@@ -48,6 +47,7 @@ Since 5/15/23 Epoch 411, the following pool actions have taken place:
 
 ***Note: If you are curious exactly which pools, you'll need to join the Matrix Group Edits Chat to find out. See below.***
 
+
 ### Huge Drop in Staked Ada on May 18th
 On May 18th there was a pretty big drop in Staked Ada! This was attributed to Binance continuing to de-stake Ada. But then, a few days later, a pretty decent U-Turn? What is going on?
 
@@ -67,14 +67,6 @@ Regardless, the new pools stole our friend [BrotherShip Pool's](https://twitter.
 Perhaps the best we can do is make some social media noise by engaging with this tweet by [Pool.pm](pool.pm).
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">In a selfish &amp; careless move, <a href="https://twitter.com/binance?ref_src=twsrc%5Etfw">@binance</a> has just created 32 pools with the BSP ticker already used by <a href="https://twitter.com/BrothershipPool?ref_src=twsrc%5Etfw">@BrothershipPool</a> since the very first day of the Shelley era 3 years ago.<a href="https://twitter.com/cz_binance?ref_src=twsrc%5Etfw">@cz_binance</a>, it shows a deep lack of care for the <a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> staking space from you company, please react! <a href="https://t.co/qSdYgBgAv7">pic.twitter.com/qSdYgBgAv7</a></p>&mdash; pool.pm (@pool_pm) <a href="https://twitter.com/pool_pm/status/1663809731603906560?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Eight (8) New Pools, New MPO FIGMENT, NEW GIRL Scoop
-
-Since 5/15/23 Epoch 411, the following pool actions have taken place:
-
-- Eight (8) new pools were created since the last pool group dataset review/update.
-
-- One (1) new pool
 
 
 ## Noteworthy Community Updates

@@ -25,9 +25,7 @@ Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro pi
 
 Since 5/15/23 Epoch 411, the following pool actions have taken place: 
 
-<li>
-Eight (8) new pools were created since the last pool group dataset review/update.
-</li>
+- Eight (8) new pools were created since the last pool group dataset review/update.
 
 - One (1) pool belongs to the [IDP](https://pool.pm/b9ffb01687eb9f12433a6edec90d808b75f9bde51ab2495d278d7727), which is [IDO PASS DAO](https://idopass.finance/index.html#). From their website:
 
@@ -58,7 +56,7 @@ On May 18th there was a pretty big drop in Staked Ada! This was attributed to Bi
 
 ### Binance is Back with New Pools for K=1000!
 
-<blockquote class="twitter-tweet tw-align center"><p lang="en" dir="ltr">annnd Binance is back. New Pools fully configured for k=1000.<br><br>hat tip to <a href="https://twitter.com/earncoinpool?ref_src=twsrc%5Etfw">@earncoinpool</a> and <a href="https://twitter.com/KpunToN00b?ref_src=twsrc%5Etfw">@KpunToN00b</a> (Homer J AAA) in our Matrix Group Edits Chat! <br><br>All are welcome to join &amp; help be an On-Chain <a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> Guardians (dm for a username).<a href="https://t.co/9gCb4iD0g0">https://t.co/9gCb4iD0g0</a> <a href="https://t.co/1b2Q5VmGAf">pic.twitter.com/1b2Q5VmGAf</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1663720822937190401?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">annnd Binance is back. New Pools fully configured for k=1000.<br><br>hat tip to <a href="https://twitter.com/earncoinpool?ref_src=twsrc%5Etfw">@earncoinpool</a> and <a href="https://twitter.com/KpunToN00b?ref_src=twsrc%5Etfw">@KpunToN00b</a> (Homer J AAA) in our Matrix Group Edits Chat! <br><br>All are welcome to join &amp; help be an On-Chain <a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> Guardians (dm for a username).<a href="https://t.co/9gCb4iD0g0">https://t.co/9gCb4iD0g0</a> <a href="https://t.co/1b2Q5VmGAf">pic.twitter.com/1b2Q5VmGAf</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1663720822937190401?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 So Binance is back. They still have their 64 BNP Pools, but low and behold they are creating new pools for K=1000 (or 32MAda) configuration. Insider tip offs, or smart and proactive?
 

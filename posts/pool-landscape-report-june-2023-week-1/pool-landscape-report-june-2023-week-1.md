@@ -21,13 +21,31 @@ series: true
 
 Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro picture of what has changed since last time.
 
+
 ### Eight (8) New Pools, New MPO FIGMENT, NEW GIRL Scoop
 
-Since 5/15/23 Epoch 411, the following pool action has taken place:
-    - 8 new pools created since last pool group dataset review / update
-    - pool1h8lmq958aw03yse6dm0vjrvq3d6ln009r2eyjhf834mjw9x33ng belongs to the IDO PASS DAO - https://idopass.finance/index.html#
-    - New pool group forming - FIGMENT - https://figment.io/ (2 pools)
-    - 1 existing pool added to NEW GIRL group (pool has approx. 51 mADA
+Since 5/15/23 Epoch 411, the following pool actions have taken place:
+
+- Eight (8) new pools were created since the last pool group dataset review/update.
+
+- `pool1h8lmq958aw03yse6dm0vjrvq3d6ln009r2eyjhf834mjw9x33ng` belongs to the [IDP](https://pool.pm/b9ffb01687eb9f12433a6edec90d808b75f9bde51ab2495d278d7727), which is [IDO PASS DAO](https://idopass.finance/index.html#). From their website:
+
+    > "IDO PASS DAO is a Launchpad, DAO, Incubator, On-Chain Mapping. IDO Pass DAO is the first Cardano DAO to focus on IDOs, launchpads, and Blue chip CNFT fractionalization."
+
+- [FIGMENT](https://figment.io/) is a new pool group forming, with two (2) pools so far. They are an institutional staking-as-a-service company that honestly has a very sophisticated website. It reminds me of Vanguard's style. From their website:
+
+    > "Digital Asset Staking Built for Institutions. The complete staking solution for 200+ institutional clients, including asset managers, custodians, exchanges, foundations, and wallets, to earn rewards on their digital assets."
+
+    - It's interesting how these VC Staking Services, or Staking Pools as a Service (SPaaS), are emerging with new lingo. Cardano, despite its top 10 market cap, is listed at the bottom. Go figure.
+
+    {% img src="figment_shot.png" alt="figment_shot" %}
+
+    - Regardless, it's good to see Cardano joining their service group and API. Maybe we should welcome them and let them know we agree there are no risks to staking and how much better it is than Ethereum...also that Community Delegation is the better option.
+
+    <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">🔎 Take a look into <a href="https://twitter.com/Cardano?ref_src=twsrc%5Etfw">@Cardano</a> - a PoS blockchain that aims to improve blockchain scalability, interoperability, and sustainability 👀<br><br>Learn more 👇<a href="https://t.co/9IW89oWOXV">https://t.co/9IW89oWOXV</a> <a href="https://t.co/g1wldjpCvT">pic.twitter.com/g1wldjpCvT</a></p>&mdash; Figment (@Figment_io) <a href="https://twitter.com/Figment_io/status/1511375511087419398?ref_src=twsrc%5Etfw">April 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+- One (1) existing pool was added to the NEW GIRL group (the pool has approximately 51 mADA). This is a very curious development, with NEW GIRL creating new pools and group activity.
+
 
 ### Huge Drop in Staked Ada on May 18th
 - May 18th pretty big drop in stake!
@@ -46,8 +64,6 @@ Not only that, they stole [BrotherShip Pool's](https://twitter.com/BrothershipPo
 Perhaps the best we can do is make some social media noise by engaging with this tweet by [Pool.pm](pool.pm)
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">In a selfish &amp; careless move, <a href="https://twitter.com/binance?ref_src=twsrc%5Etfw">@binance</a> has just created 32 pools with the BSP ticker already used by <a href="https://twitter.com/BrothershipPool?ref_src=twsrc%5Etfw">@BrothershipPool</a> since the very first day of the Shelley era 3 years ago.<a href="https://twitter.com/cz_binance?ref_src=twsrc%5Etfw">@cz_binance</a>, it shows a deep lack of care for the <a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> staking space from you company, please react! <a href="https://t.co/qSdYgBgAv7">pic.twitter.com/qSdYgBgAv7</a></p>&mdash; pool.pm (@pool_pm) <a href="https://twitter.com/pool_pm/status/1663809731603906560?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-- Do you feel like with the drop in Binance Stake and Staked Ada down to 60%, the amount of blocks available to mint opened up, do you feel like your pool won more blocks? Let us know.
 
 
 ## Noteworthy Community Updates
@@ -133,6 +149,8 @@ If you think about it, despite having the same number of pools, there is now les
 
 ### Call to Action: Audit our Pool Group API and Join our Matrix Group Edits Chat
 We would like to call for an audit of our Public Pool Group API and invite you to let us know if there are any mistakes. All suggestions are welcomed.
+
+[https://www.balanceanalytics.io/api/groupdata.json](https://www.balanceanalytics.io/api/groupdata.json)
 
 Join us in the Group Edits Chat Room in our Matrix Balance Space! Become an On-Chain Cardano Guardian. Alternatively, you can DM us on Twitter.
 

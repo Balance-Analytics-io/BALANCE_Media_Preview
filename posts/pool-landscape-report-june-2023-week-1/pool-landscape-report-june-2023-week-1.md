@@ -16,7 +16,8 @@ series: true
 ## Pool Landscape Updates
 
 **(5/15/23 Epoch 411 -> 05/30/23 Epoch 415)**
-**Binance is Back with New Pools, A Call To Action for Pool Re-Delegation, Cardano Foundation Reward Sharing Scheme Poll Results**
+
+**Binance is Back with New Pools, A Call To Action for Pool Re-Delegation, Cardano Foundation Reward Sharing Scheme Polel Results, BALNC Pool with 4.88% ROS Last Epoch!**
 
 Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro picture of what has changed since last time.
 
@@ -119,9 +120,24 @@ Lending not staking?
 
 ## BALANCE Updates
 
-### BALNC Pool Seeing Great Rewards Lately
-No longer is the a low Return On Stake (ROS) excuse to not delegate with us, aside from the BALANCE Web App service we provide, the BALNC pool is hot! The last four (4) epochs 
+### The BALNC Pool Seeing Great Rewards Lately: 4.9% ROS for Epoch 414!
+The BALNC Pool has been experiencing amazing rewards lately! For the last Epoch 414, we achieved a 4.9% Return On Stake (ROS), and over the past four (4) epochs, we achieved a 3.9% ROS!
 
+{% img src="balnc_epoch414_ros.png" alt="balnc_epoch414_ros" %}
 
-- call to action to review the pool group API and let us know if there’s mistakes. Join the matrix group or DM. 
-- Great ROS last epoch, ada rewards no longer a deterrent to stake with us BALNC!
+No longer is there a low ROS excuse to not delegate with us. Aside from the BALANCE Web App service we provide, the BALNC pool is hot!
+
+Sidenote: Have you noticed that with the drop in Binance Stake and overall Staked Ada decreasing from 70% to 60%, it has resulted in more blocks won for your pool?
+
+If you think about it, despite having the same number of pools, there is now less Staked Ada and more block supply available to mint. With an increase in block supply and a decrease in demand, it becomes easier for small single pools to win a block—effectively causing a difficulty drop (using Bitcoin mining terms).
+
+### Call to Action: Audit our Pool Group API and Join our Matrix Group Edits Chat
+We would like to call for an audit of our Public Pool Group API and invite you to let us know if there are any mistakes. All suggestions are welcomed.
+
+Join us in the Group Edits Chat Room in our Matrix Balance Space! Become an On-Chain Cardano Guardian. Alternatively, you can DM us on Twitter.
+
+{% img src="balance_matrix_chat.png" alt="balance_matrix_chat" %}
+
+Cheers,
+
+- The BALANCE Team

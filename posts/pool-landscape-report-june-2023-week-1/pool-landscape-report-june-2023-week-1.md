@@ -24,7 +24,7 @@ Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro pi
 
 ### Eight (8) New Pools, New MPO FIGMENT, NEW GIRL Scoop
 
-Since 5/15/23 Epoch 411, the following pool actions have taken place:
+Since 5/15/23 Epoch 411, the following pool actions have taken place: 
 
 - Eight (8) new pools were created since the last pool group dataset review/update.
 

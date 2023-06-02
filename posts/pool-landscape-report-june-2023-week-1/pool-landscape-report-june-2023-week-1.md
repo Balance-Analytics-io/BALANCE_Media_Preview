@@ -21,7 +21,8 @@ series: true
 
 Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro picture of what has changed since last time.
 
-<h3 id="eight-8-new-pools-new-mpo-figment-new-girl-scoop">Eight (8) New Pools, New MPO FIGMENT, NEW GIRL Scoop</h3>
+### Eight (8) New Pools, New MPO FIGMENT, NEW GIRL Scoop
+
 <p>Since 5/15/23 Epoch 411, the following pool actions have taken place: </p>
 <ul>
 <li>Eight (8) new pools were created since the last pool group dataset review/update.

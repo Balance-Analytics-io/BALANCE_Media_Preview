@@ -31,7 +31,7 @@ One (1) pool belongs to the [IDP](https://pool.pm/b9ffb01687eb9f12433a6edec90d80
 
     > "IDO PASS DAO is a Launchpad, DAO, Incubator, On-Chain Mapping. IDO Pass DAO is the first Cardano DAO to focus on IDOs, launchpads, and Blue chip CNFT fractionalization."
 
-[FIGMENT](https://figment.io/) is a new pool group forming, with two (2) pools so far. They are an institutional Stake-Pool-as-a-Service (SPaaS) company that honestly has a very sophisticated website. It reminds me of Vanguard's style. From their website:
+- [FIGMENT](https://figment.io/) is a new pool group forming, with two (2) pools so far. They are an institutional Stake-Pool-as-a-Service (SPaaS) company that honestly has a very sophisticated website. It reminds me of Vanguard's style. From their website:
 
     > "Digital Asset Staking Built for Institutions. The complete staking solution for 200+ institutional clients, including asset managers, custodians, exchanges, foundations, and wallets, to earn rewards on their digital assets."
 

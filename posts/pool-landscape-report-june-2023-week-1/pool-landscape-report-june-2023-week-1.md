@@ -48,6 +48,8 @@ Since 5/15/23 Epoch 411, the following pool actions have taken place:
 ***Note: If you are curious exactly which pools, you'll need to join the Matrix Group Edits Chat to find out. See below.***
 
 
+
+
  ### Huge Drop in Staked Ada on May 18th
  
  On May 18th there was a pretty big drop in Staked Ada! This was attributed to Binance continuing to de-stake Ada. But then, a few days later, a pretty decent U-Turn? What is going on?

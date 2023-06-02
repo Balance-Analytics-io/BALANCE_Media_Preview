@@ -38,7 +38,7 @@ Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro pi
 <ul>
 <li>It&#39;s interesting how these VC Staking Services, or Staking Pools as a Service (SPaaS), have  Cardano at the bottom of their list (or even shown at all) despite its top 10 market cap. Go figure.
 
-{% img src=&quot;figment_shot.png&quot; alt=&quot;figment_shot&quot; %}
+{% img src="figment_shot.png"; alt="figment_shot" %}
 
 </li>
 <li>Regardless, it&#39;s good to see Cardano joining their service group and API. Maybe we should welcome them and let them know we agree there are no risks to staking and how much better it is than Ethereum...also that Community Delegation is the best option.

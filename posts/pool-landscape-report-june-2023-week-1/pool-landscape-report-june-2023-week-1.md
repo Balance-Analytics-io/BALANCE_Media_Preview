@@ -93,7 +93,7 @@ If you follow us at BALANCE, you probably are well aware, but just in case, here
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">📌Mark the day as we take a step towards <a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> <a href="https://twitter.com/hashtag/governance?src=hash&amp;ref_src=twsrc%5Etfw">#governance</a> with the very first on-chain poll. 📊<br><br>The <a href="https://twitter.com/hashtag/CardanoFoundation?src=hash&amp;ref_src=twsrc%5Etfw">#CardanoFoundation</a> has published a first question regarding k and minPoolCost parameters.<br><br>🗳SPOs can cast their ballot until the end of the epoch.<br><br>➡️<a href="https://t.co/tVrI8LnXaK">https://t.co/tVrI8LnXaK</a> <a href="https://t.co/nIzqsEBhj2">pic.twitter.com/nIzqsEBhj2</a></p>&mdash; Cardano Foundation (@Cardano_CF) <a href="https://twitter.com/Cardano_CF/status/1659032512457474048?ref_src=twsrc%5Etfw">May 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The SPO Poll on the **Reward Sharing Scheme: k and minPoolCost** was a great catalyst to get people thinking about what pools they delegate to, what they represent, and most importantly, what the long term security and decentralization of Cardano. 
+The SPO Poll on the **Reward Sharing Scheme: k and minPoolCost** was a great catalyst to get people thinking about what pools they delegate to, what they represent, and most importantly, the long term security and decentralization of Cardano. 
 
 In all seriousness, Stake Pools and the Ada Staking Rewards provide the fundamental primative to the monetary policy, blockchain consensus (minting blocks), and the Sybil and Off-Chain Government Attack Resistance thru holding Ada and being decentralized.
 
@@ -101,21 +101,21 @@ The Reward Sharing Scheme (RSS) Staking Equation is of utmost importance for the
 
 [AdaState.net](https://adastat.net/) did a great job of tracking the poll live and providing results in a exportable .csv format. [You can see it here.](https://adastat.net/polls/96861fe7da8d45ba5db95071ed3889ed1412929f33610636c072a4b5ab550211)
 
-Honestly, the Cardano Foundation (CF) did a pretty good job of hosting this poll advertisement, holding meetings with SPOs, answer questions, and being available on Telegram Channels (thank you Markus) as well that the Forum.
+Honestly, the Cardano Foundation (CF) did a pretty good job of hosting this poll advertisement, holding meetings with SPOs, answer questions, and being available on Telegram Channels (thank you Markus) as well the Forum.
 
 All in all, we BALANCE are very educated and in-the-weeds if you will in the Reward Sharing Scheme (RSS), or the Staking Rewards given to pools and delegators equation.
 
-We believe that none of the provided options would provide the freedom of choice and free market conditions for Stake Pool Operators to thrive and choose their own rewards, not confined to a minimum fee.
+We believe that none of the provided options would provide the freedom of choice and free market conditions for Stake Pool Operators to thrive and choose their own rewards, not be confined to a minimum fee.
 
 Here's the official statement for our vote:
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">BALNC voted &quot;None&quot; for CIP-0094 because our choice for network health and decentralization were not on the ballot, nor given an option, and we stood by our principles.<a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> Austrian Economics meets Decentralization.<a href="https://t.co/dMuVrTPc0b">https://t.co/dMuVrTPc0b</a> <a href="https://t.co/77MMrZ6inL">pic.twitter.com/77MMrZ6inL</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1659030008482988034?ref_src=twsrc%5Etfw">May 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-If you want a detailed explanation of how Multi-Pool Operators can gain the current reward sharing scheme system thru minimum fee "farming" and cabal forcing other pools to join their mandatory high fees, the Great Army of Spies broke it down beautifully, and was a great advocate for Single Pools and decentralization. We highly recommend watching his video:
+If you want a detailed explanation of how Multi-Pool Operators can gain the current reward sharing scheme system thru minimum fee "farming" and cabal forcing other pools to join their mandatory high fees, the Great [Army of Spies](https://twitter.com/ArmySpies) broke it down beautifully, and was a great advocate for Single Pools and decentralization. We highly recommend watching his video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DRYryGCPGSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-That being said, for the next few days is **the window of opportunity to find a stake pool whose opinion you agree with**, and re-delegate your stake. In reality, this is basically a wallet holder's vote for a pool representative, who will work for the future you want to see in Cardano.
+That being said, the next few days is **the window of opportunity to find a stake pool whose opinion you agree with**, and re-delegate your stake. In reality, this is basically a wallet holder's vote for a pool representative, who will work for the future you want to see in Cardano.
 
 To Delegate is to Vote!
 
@@ -137,7 +137,7 @@ Thank you for the contributor page to refernce sources like BALANCE and others, 
 
 Checkout the Dashboard [here](https://lookerstudio.google.com/u/0/reporting/639b7209-36db-4aea-956e-6d220412ba9c/page/p_gti726jc6c)
 
-{% img src="a4d_dashboard" alt="a4d_dashboard" %}
+{% img src="a4d_dashboard.png" alt="a4d_dashboard" %}
 
 ## What We’re Paying Attention To
 

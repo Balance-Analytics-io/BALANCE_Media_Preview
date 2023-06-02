@@ -85,18 +85,23 @@ Perhaps the best we can do is make some social media noise by engaging with this
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Can your stake pool forge blocks at 65 MPH or on a lonesome dirt road in a town that only has a grid marker for a name? <br><br>It won&#39;t be much longer till this is a reality.<br><br>Support the pool to help me make it a success. Delegate your <a href="https://twitter.com/search?q=%24ADA&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ADA</a> to ticker OTG.<br><br>Let&#39;s do this!<a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> <a href="https://t.co/hfULS20TlW">pic.twitter.com/hfULS20TlW</a></p>&mdash; 🌟Star Forge⚡ OTG 📡 Stake Pool (@OTG_WCat) <a href="https://twitter.com/OTG_WCat/status/1664036671266889730?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-## Topic: RSS SPO Vote?
-Well, by now you know there was a great "experimental" voting event for SPOs over the last few weeks. If you follow us, you probably are well aware, but just in case, here's the Cardano Foundation tweet.
+## Topic: SPO Reward Sharing Scheme (RSS) Parameter Vote: k and minPoolCost
+
+Well, by now you know there was a great "experimental" voting event for SPOs over the last few weeks. By "experimental", it really was a serious litmus test, and the first semi-official Cardano Governance voting event.
+
+If you follow us at BALANCE, you probably are well aware, but just in case, here's the Cardano Foundation tweet.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">📌Mark the day as we take a step towards <a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> <a href="https://twitter.com/hashtag/governance?src=hash&amp;ref_src=twsrc%5Etfw">#governance</a> with the very first on-chain poll. 📊<br><br>The <a href="https://twitter.com/hashtag/CardanoFoundation?src=hash&amp;ref_src=twsrc%5Etfw">#CardanoFoundation</a> has published a first question regarding k and minPoolCost parameters.<br><br>🗳SPOs can cast their ballot until the end of the epoch.<br><br>➡️<a href="https://t.co/tVrI8LnXaK">https://t.co/tVrI8LnXaK</a> <a href="https://t.co/nIzqsEBhj2">pic.twitter.com/nIzqsEBhj2</a></p>&mdash; Cardano Foundation (@Cardano_CF) <a href="https://twitter.com/Cardano_CF/status/1659032512457474048?ref_src=twsrc%5Etfw">May 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The SPO Poll on **Reward Sharing Scheme: k and minPoolCost** was a great catalyst to get people thinking about what pools they delegate to, what they represent, and most importantly, the long term security and decentralization of Cardano from the utmost fundamental primative, the Sybil and Off-Chain Government Attack Resistance that decentralized Stake Pools provide as a service.
+The SPO Poll on the **Reward Sharing Scheme: k and minPoolCost** was a great catalyst to get people thinking about what pools they delegate to, what they represent, and most importantly, what the long term security and decentralization of Cardano. 
 
-The Staking Rewards Equation is of utmost importance for game theory incentives of long term decentralization, and thus commodity classification of Ada.
+In all seriousness, Stake Pools and the Ada Staking Rewards provide the fundamental primative to the monetary policy, blockchain consensus (minting blocks), and the Sybil and Off-Chain Government Attack Resistance thru holding Ada and being decentralized.
 
-AdaState.net did a great job of tracking the poll live and providing results in a export .csv format. [You can see it here.](https://adastat.net/polls/96861fe7da8d45ba5db95071ed3889ed1412929f33610636c072a4b5ab550211)
+The Reward Sharing Scheme (RSS) Staking Equation is of utmost importance for the game theory incentives of long term decentralization, and thus forced commodity classification of Ada by the SEC.
 
-Honestly, Cardano Foundation did a pretty good job of hosting this poll advertisement, holding meetings with SPOs, answer questions, and being available on Telegram Channels (thank you Markus) as well that the Forum.
+[AdaState.net](https://adastat.net/) did a great job of tracking the poll live and providing results in a exportable .csv format. [You can see it here.](https://adastat.net/polls/96861fe7da8d45ba5db95071ed3889ed1412929f33610636c072a4b5ab550211)
+
+Honestly, the Cardano Foundation (CF) did a pretty good job of hosting this poll advertisement, holding meetings with SPOs, answer questions, and being available on Telegram Channels (thank you Markus) as well that the Forum.
 
 All in all, we BALANCE are very educated and in-the-weeds if you will in the Reward Sharing Scheme (RSS), or the Staking Rewards given to pools and delegators equation.
 
@@ -118,14 +123,19 @@ Don't know what's up, DM us on Twitter or Join our BALANCE Matrix Chat room, we 
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">📢Calling all Stake Delegators<br> <br>We are in the re-delegation phase of the <a href="https://twitter.com/hashtag/SPO?src=hash&amp;ref_src=twsrc%5Etfw">#SPO</a> on-chain poll experiment.<br><br>➡️View dashboards<br>➡️See how SPOs voted<br>➡️Examine results<br>➡️Decide whether or not to redelegate your stake to another SPO<br>👇👇<a href="https://t.co/QiZg6q5ZAe">https://t.co/QiZg6q5ZAe</a><a href="https://t.co/nwBgo8LXsN">https://t.co/nwBgo8LXsN</a> <a href="https://t.co/BEiTm7CexI">pic.twitter.com/BEiTm7CexI</a></p>&mdash; Cardano Foundation (@Cardano_CF) <a href="https://twitter.com/Cardano_CF/status/1663564854572244994?ref_src=twsrc%5Etfw">May 30, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+_Note: We have nothing against MPOs and their choice to operate at higher fees, they should be able to charge for their tool building and exceptional service. However, not all pools choose to run at 99.99999% uptime reliability, and by design multi pools have more time upkeep, hardware, and maintenance to attend to. If the RSS was geared toward incentiving Single Pools, their time, hardware, and effort would be consolidated, and the fees would not need to be so high. The Multi-Pool Model is purely to gain as much minimum fee to remain profitable and spread low fees overall amongst many pools. Even IOG does this model, altough the RSS paper clearly dictates this is harmful to the chain. You are more than welcome to command a high fee for your service, but not all pools choose to run at this level of capacity, and the blockchain is more than resiliant and reliable with many distrubited pools._
 
 ## Single Pool Spotlight: A4G Post Pool Voting Dashboard
 
-This week the Single Pool Spotlight Award goes to Ada4Good [A4G] for his [SPO RSS Voting Poll Results Dashboard](https://twitter.com/Ada4goodP/status/1661493725393027074?s=20)
+This week the Single Pool Spotlight Award goes to Ada4Good [A4G] for his SPO RSS Voting Poll Results Dashboard.
 
-In his work, he used BALANCE's Public Pool Group API which we are thrilled about.  Thank you for the contributor page to shoutout BALANCE, we appreciate it as we grow and build out our capabilities for the Cardano Community!
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Dear <a href="https://twitter.com/hashtag/cardano?src=hash&amp;ref_src=twsrc%5Etfw">#cardano</a> Community,<br><br>I have been working on a report regarding the current distribution of Cardano pools and the possible effects of changing the K Parameter.<br><br>The report also includes the Poll results. <br>Here it is:<a href="https://t.co/KkWZYpe9CV">https://t.co/KkWZYpe9CV</a><br><br>I believe in measurable… <a href="https://t.co/o5HrGie19D">pic.twitter.com/o5HrGie19D</a></p>&mdash; ADA4Good ❤️ Cardano Stake Pool (Vahid) (@Ada4goodP) <a href="https://twitter.com/Ada4goodP/status/1661493725393027074?ref_src=twsrc%5Etfw">May 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[https://lookerstudio.google.com/u/0/reporting/639b7209-36db-4aea-956e-6d220412ba9c/page/p_gti726jc6c](https://lookerstudio.google.com/u/0/reporting/639b7209-36db-4aea-956e-6d220412ba9c/page/p_gti726jc6c)
+In his work, A4G **used BALANCE's Public Pool Group API** which we are thrilled about!  
+
+Thank you for the contributor page to shoutout BALANCE and others, we appreciate it as we grow and build out our capabilities for the Cardano Community! This is the strength of the Community.
+
+Checkout the Dashboard [here](https://lookerstudio.google.com/u/0/reporting/639b7209-36db-4aea-956e-6d220412ba9c/page/p_gti726jc6c)
 
 {% img src="a4d_dashboard" alt="a4d_dashboard"}
 

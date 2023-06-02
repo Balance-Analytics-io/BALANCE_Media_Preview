@@ -15,7 +15,7 @@ series: true
 
 ## Pool Landscape Updates
 
-**(5/15/23 Epoch 411 -> 05/30/23 Epoch 415)**
+**(5/15/23 Epoch 412 -> 05/30/23 Epoch 415)**
 
 **Binance is Back with New Pools, A Call To Action for Pool Re-Delegation, Cardano Foundation Reward Sharing Scheme Polel Results, BALNC Pool with 4.88% ROS Last Epoch!**
 
@@ -35,17 +35,17 @@ Since 5/15/23 Epoch 411, the following pool actions have taken place:
 
     > "Digital Asset Staking Built for Institutions. The complete staking solution for 200+ institutional clients, including asset managers, custodians, exchanges, foundations, and wallets, to earn rewards on their digital assets."
 
-    - It's interesting how these VC Staking Services, or Staking Pools as a Service (SPaaS), are emerging with new lingo. Cardano, despite its top 10 market cap, is listed at the bottom. Go figure.
+    - It's interesting how these VC Staking Services, or Staking Pools as a Service (SPaaS), have  Cardano at the bottom of their list (or even shown at all) despite its top 10 market cap. Go figure.
 
     {% img src="figment_shot.png" alt="figment_shot" %}
 
-    - Regardless, it's good to see Cardano joining their service group and API. Maybe we should welcome them and let them know we agree there are no risks to staking and how much better it is than Ethereum...also that Community Delegation is the better option.
+    - Regardless, it's good to see Cardano joining their service group and API. Maybe we should welcome them and let them know we agree there are no risks to staking and how much better it is than Ethereum...also that Community Delegation is the best option.
 
     <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">🔎 Take a look into <a href="https://twitter.com/Cardano?ref_src=twsrc%5Etfw">@Cardano</a> - a PoS blockchain that aims to improve blockchain scalability, interoperability, and sustainability 👀<br><br>Learn more 👇<a href="https://t.co/9IW89oWOXV">https://t.co/9IW89oWOXV</a> <a href="https://t.co/g1wldjpCvT">pic.twitter.com/g1wldjpCvT</a></p>&mdash; Figment (@Figment_io) <a href="https://twitter.com/Figment_io/status/1511375511087419398?ref_src=twsrc%5Etfw">April 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-- One (1) existing pool was added to the NEW GIRL group (the pool has approximately 51 mADA). This is a very curious development, with NEW GIRL creating new pools and group activity.
+- One (1) existing pool was added to the NEW GIRL group (the pool has approximately 51 mADA). This is a very curious development, with NEW GIRL creating new pools previously and the group activity.
 
-***Note: If you are curious exactly which pools, you'll need to join the Matrix Group Edits Chat to find out. See below.***
+***Note: If you are curious exactly which pools, you'll need to join the Matrix Group Edits Chat to find out! See below.***
 
 
  ### Huge Drop in Staked Ada on May 18th
@@ -59,7 +59,7 @@ Since 5/15/23 Epoch 411, the following pool actions have taken place:
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">annnd Binance is back. New Pools fully configured for k=1000.<br><br>hat tip to <a href="https://twitter.com/earncoinpool?ref_src=twsrc%5Etfw">@earncoinpool</a> and <a href="https://twitter.com/KpunToN00b?ref_src=twsrc%5Etfw">@KpunToN00b</a> (Homer J AAA) in our Matrix Group Edits Chat! <br><br>All are welcome to join &amp; help be an On-Chain <a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> Guardians (dm for a username).<a href="https://t.co/9gCb4iD0g0">https://t.co/9gCb4iD0g0</a> <a href="https://t.co/1b2Q5VmGAf">pic.twitter.com/1b2Q5VmGAf</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1663720822937190401?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-So Binance is back. They still have their 64 BNP Pools, but low and behold they are creating new pools for K=1000 (or 32MAda) configuration. Insider tip offs, or smart and proactive?
+So Binance is back. They still have their 64 BNP Pools, but low and behold they are creating new pools for K=1000 (or 32MAda Saturation Limit) configuration. Insider tip offs, or smart and proactive?
 
 Regardless, the new pools stole our friend [BrotherShip Pool's](https://twitter.com/BrothershipPool) Ticker **BSP**! How rude. Now how will people know who is the real BSP of the Cardano Single Pool Alliance.
 
@@ -71,14 +71,13 @@ Perhaps the best we can do is make some social media noise by engaging with this
 
 
 ## Noteworthy Community Updates
-- [RELAY](https://pool.pm/6c1c1fc2b1e3e1ac056f6dd4dd4c3b78e66bd01896ca6e98a4d2431e) Stake Pool increased Pledge from 69kAda to 125kAda!
-    - https://twitter.com/RelayStakePool/status/1660431995183169538  
-- PRIDE increased pledge [60k to 75k, nice!](https://twitter.com/stakewithpride/status/1659185567811395584?s=46&t=JQlKbDRawqEwOGdi1Bs47Q). It goes without saying PRIDE pool has been an On-Chain Guardian for Decentralization.
-    - Really nice SPO Vote [dataviz!](https://twitter.com/StakeWithPride/status/1660313539121385472)
-- The Community is starting to take notice on the Staked Ada Delisting and potential Binance impacts, see [Cardano with Paul](https://twitter.com/cwpaulm/status/1660648057363365893). Good looks Smaug!
-- More on [Atrium Staking Baskets by BLOOM](https://twitter.com/bigpeyyt/status/1661059040644931585?s=46&t=JQlKbDRawqEwOGdi1Bs47Q). Looking forward to the details! So far it will be a smart contract that will delegate to 50 stake pools (Diffusion) and reward folks with Atrium Token. We definitely need easier on-boarding wallets and tools so this looks good so far. The best part is it will be open sourced which is absolutely crucial for trust.
-- MILK Vault Staking by MuesliSwap was [announced](https://twitter.com/muesliswapteam/status/1662897396492247041?s=46&t=JQlKbDRawqEwOGdi1Bs47Q). Again, limited details, even in the [medium blog post](https://docs.muesliswap.com/cardano/staking). This is [another smart contract staking](https://medium.com/@muesliswap/introducing-milk-vaults-f01975f1f6b) (not private pool with high pledge) like Eternl did, so we'll be looking for more details here too.
-- Homer J [AAA] did some great homework and found a [relay pool party](https://twitter.com/KpunToN00b/status/1663512334994923520?s=20 
+- [RELAY](https://pool.pm/6c1c1fc2b1e3e1ac056f6dd4dd4c3b78e66bd01896ca6e98a4d2431e) Stake Pool increased [Pledge from 69kAda to 125kAda!](https://twitter.com/RelayStakePool/status/1660431995183169538)
+- [PRIDE increased pledge from 60k to 75k, nice!](https://twitter.com/stakewithpride/status/1659185567811395584?s=46&t=JQlKbDRawqEwOGdi1Bs47Q). It goes without saying PRIDE pool has been an On-Chain Guardian for Decentralization. Also, he made a really nice SPO Vote [dataviz! Check it out.](https://twitter.com/StakeWithPride/status/1660313539121385472).
+- The Community is starting to take notice on the Staked Ada Delisting and potential Binance impacts, see [Cardano with Paul tweet here](https://twitter.com/cwpaulm/status/1660648057363365893). Good looks Smaug!
+- [More on Atrium Staking Baskets by BLOOM](https://twitter.com/bigpeyyt/status/1661059040644931585?s=46&t=JQlKbDRawqEwOGdi1Bs47Q). Looking forward to the details! 
+  - So far from what we can gather it will be a smart contract that will delegate to 50 stake pools (Diffusion) and reward folks with Atrium Token. We definitely need easier on-boarding wallets and tools so this looks good so far. The best part is it will be open sourced which is absolutely crucial for trust.
+- [MILK Vault Staking by MuesliSwap was announced](https://twitter.com/muesliswapteam/status/1662897396492247041?s=46&t=JQlKbDRawqEwOGdi1Bs47Q). Again, limited details, even in the [medium blog post](https://docs.muesliswap.com/cardano/staking). This is [another smart contract staking](https://medium.com/@muesliswap/introducing-milk-vaults-f01975f1f6b) (not private pool with high pledge) like Eternl did, so we'll be looking for more details here too.
+- Homer J [AAA] did some [great homework and found a relay pool party!](https://twitter.com/KpunToN00b/status/1663512334994923520?s=20 
 ). Although this sounds fun, it's a high density failure point for many pools. Note, a pool can have many relays, but being dispursed is key.
 - The Great OTG Pool is building a mobile stake pool #SPOMAD. Don't believe me, just check out his tweets below. It's nice to follow along the industrious experimenter, much like Ben Franklin.
 
@@ -89,29 +88,29 @@ Perhaps the best we can do is make some social media noise by engaging with this
 
 Well, by now you know there was a great "experimental" voting event for SPOs over the last few weeks. By "experimental", it really was a serious litmus test, and the first semi-official Cardano Governance voting event.
 
-If you follow us at BALANCE, you probably are well aware, but just in case, here's the Cardano Foundation tweet.
+If you follow us at BALANCE, you are probably already well aware, but just in case, here's the Cardano Foundation tweet.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">📌Mark the day as we take a step towards <a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> <a href="https://twitter.com/hashtag/governance?src=hash&amp;ref_src=twsrc%5Etfw">#governance</a> with the very first on-chain poll. 📊<br><br>The <a href="https://twitter.com/hashtag/CardanoFoundation?src=hash&amp;ref_src=twsrc%5Etfw">#CardanoFoundation</a> has published a first question regarding k and minPoolCost parameters.<br><br>🗳SPOs can cast their ballot until the end of the epoch.<br><br>➡️<a href="https://t.co/tVrI8LnXaK">https://t.co/tVrI8LnXaK</a> <a href="https://t.co/nIzqsEBhj2">pic.twitter.com/nIzqsEBhj2</a></p>&mdash; Cardano Foundation (@Cardano_CF) <a href="https://twitter.com/Cardano_CF/status/1659032512457474048?ref_src=twsrc%5Etfw">May 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The SPO Poll on the **Reward Sharing Scheme: k and minPoolCost** was a great catalyst to get people thinking about what pools they delegate to, what they represent, and most importantly, the long term security and decentralization of Cardano. 
+The SPO Poll on the Reward Sharing Scheme: k and minPoolCost was a significant catalyst that prompted individuals to contemplate the pools they delegate to, their representation, and, most importantly, the long-term security and decentralization of Cardano through the staking equation parameters.
 
-In all seriousness, Stake Pools and the Ada Staking Rewards provide the fundamental primative to the monetary policy, blockchain consensus (minting blocks), and the Sybil and Off-Chain Government Attack Resistance thru holding Ada and being decentralized.
+Stake Pools and Ada Staking Rewards play a crucial role in the monetary policy, blockchain consensus (block minting), as well as in providing resistance against Sybil and Off-Chain Government Attacks through Ada holdings and decentralization.
 
-The Reward Sharing Scheme (RSS) Staking Equation is of utmost importance for the game theory incentives of long term decentralization, and thus forced commodity classification of Ada by the SEC.
+The Reward Sharing Scheme (RSS) Staking Equation holds immense importance in terms of game theory incentives for long-term decentralization and, consequently, the compelled classification of Ada as a commodity by the SEC.
 
 [AdaState.net](https://adastat.net/) did a great job of tracking the poll live and providing results in a exportable .csv format. [You can see it here.](https://adastat.net/polls/96861fe7da8d45ba5db95071ed3889ed1412929f33610636c072a4b5ab550211)
 
-Honestly, the Cardano Foundation (CF) did a pretty good job of hosting this poll advertisement, holding meetings with SPOs, answer questions, and being available on Telegram Channels (thank you Markus) as well the Forum.
+The Cardano Foundation (CF) deserves credit for effectively hosting this poll, conducting meetings with SPOs, responding to questions, and being accessible on Telegram Channels (special thanks to Markus) as well as the Forum.
 
-All in all, we BALANCE are very educated and in-the-weeds if you will in the Reward Sharing Scheme (RSS), or the Staking Rewards given to pools and delegators equation.
+At BALANCE, we possess a deep understanding of the Reward Sharing Scheme (RSS) or the equation governing Staking Rewards for pools and delegators. 
 
-We believe that none of the provided options would provide the freedom of choice and free market conditions for Stake Pool Operators to thrive and choose their own rewards, not be confined to a minimum fee.
+**We believe that none of the options presented in the poll would offer the freedom of choice and the necessary conditions for a free market, allowing Stake Pool Operators to thrive and determine their own rewards without being restricted by a minimum fee.**
 
-Here's the official statement for our vote:
+Here's the official statement for the **BALNC Pool vote**:
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">BALNC voted &quot;None&quot; for CIP-0094 because our choice for network health and decentralization were not on the ballot, nor given an option, and we stood by our principles.<a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> Austrian Economics meets Decentralization.<a href="https://t.co/dMuVrTPc0b">https://t.co/dMuVrTPc0b</a> <a href="https://t.co/77MMrZ6inL">pic.twitter.com/77MMrZ6inL</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1659030008482988034?ref_src=twsrc%5Etfw">May 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-If you want a detailed explanation of how Multi-Pool Operators can gain the current reward sharing scheme system thru minimum fee "farming" and cabal forcing other pools to join their mandatory high fees, the Great [Army of Spies](https://twitter.com/ArmySpies) broke it down beautifully, and was a great advocate for Single Pools and decentralization. We highly recommend watching his video:
+If you're interested in a detailed explanation of how Multi-Pool Operators can exploit the current reward sharing scheme system through minimum fee "farming" and coercing other pools to join them in imposing high fees, the Great [Army of Spies](https://twitter.com/ArmySpies) has done an excellent job of breaking it down. They have been a strong advocate for Single Pools and decentralization. We highly recommend watching his video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DRYryGCPGSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -154,8 +153,6 @@ Checkout the Dashboard [here](https://lookerstudio.google.com/u/0/reporting/639b
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">WOAH... <a href="https://twitter.com/MinswapDEX?ref_src=twsrc%5Etfw">@MinswapDEX</a> <a href="https://twitter.com/search?q=%24MIN&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$MIN</a><a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> <a href="https://twitter.com/search?q=%24ADA&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ADA</a> <a href="https://t.co/r0ot96DjSv">pic.twitter.com/r0ot96DjSv</a></p>&mdash; BlockchainBill (@BlockchainBill0) <a href="https://twitter.com/BlockchainBill0/status/1664093629135060994?ref_src=twsrc%5Etfw">June 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-https://twitter.com/OTG_WCat/status/1664068607796453377?s=20 
-
 In addtional to BALNC, there's quite a few (okay ton) of pools more than willing to provide exceptional service! OTG Pool has a well founded request!
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">I wish <a href="https://twitter.com/MinswapDEX?ref_src=twsrc%5Etfw">@MinswapDEX</a>, instead of opening another pool(theirs is getting grossly over saturated) they would choose OTG. I have always had great respect for what they have done for our community. <br><br>That&#39;s the tweet. It&#39;s out there now. <a href="https://t.co/yw3cW6FCiw">pic.twitter.com/yw3cW6FCiw</a></p>&mdash; 🌟Star Forge⚡ OTG 📡 Stake Pool (@OTG_WCat) <a href="https://twitter.com/OTG_WCat/status/1664068607796453377?ref_src=twsrc%5Etfw">June 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -172,9 +169,9 @@ The BALNC Pool has been experiencing amazing rewards lately! For the last Epoch 
 
 No longer is there a low ROS excuse to not delegate with us. Aside from the BALANCE Web App service we provide, the BALNC pool is hot!
 
-Sidenote: Have you noticed that with the drop in Binance Stake and overall Staked Ada decreasing from 70% to 60%, it has resulted in more blocks won for your pool?
+_Sidenote: Have you noticed that with the drop in Binance Stake and overall Staked Ada decreasing from 70% to 60%, it has resulted in more blocks won for your pool?
 
-If you think about it, despite having the same number of pools, there is now less Staked Ada and more block supply available to mint. With an increase in block supply and a decrease in demand, it becomes easier for small single pools to win a block—effectively causing a difficulty drop (using Bitcoin mining terms).
+If you think about it, despite having the same number of pools, there is now less Staked Ada and more block supply available to mint. With an increase in block supply and a decrease in demand, it becomes easier for small single pools to win a block—effectively causing a difficulty drop (using Bitcoin mining terms)._
 
 ### Call to Action: Audit our Pool Group API and Join our Matrix Group Edits Chat
 We would like to call for an audit of our Public Pool Group API and invite you to let us know if there are any mistakes. All suggestions are welcomed.

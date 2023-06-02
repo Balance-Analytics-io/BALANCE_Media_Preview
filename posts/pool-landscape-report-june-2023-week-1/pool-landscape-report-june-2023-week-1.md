@@ -24,9 +24,9 @@ Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro pi
 <h3 id="eight-8-new-pools-new-mpo-figment-new-girl-scoop">Eight (8) New Pools, New MPO FIGMENT, NEW GIRL Scoop</h3>
 <p>Since 5/15/23 Epoch 411, the following pool actions have taken place: </p>
 <ul>
-<li><p>Eight (8) new pools were created since the last pool group dataset review/update.</p>
+<li>Eight (8) new pools were created since the last pool group dataset review/update.
 </li>
-<li><p>One (1) pool belongs to the <a href="https://pool.pm/b9ffb01687eb9f12433a6edec90d808b75f9bde51ab2495d278d7727">IDP</a>, which is <a href="https://idopass.finance/index.html#">IDO PASS DAO</a>. From their website:</p>
+<li>One (1) pool belongs to the <a href="https://pool.pm/b9ffb01687eb9f12433a6edec90d808b75f9bde51ab2495d278d7727">IDP</a>, which is <a href="https://idopass.finance/index.html#">IDO PASS DAO</a>. From their website:
 <blockquote>
 <p>&quot;IDO PASS DAO is a Launchpad, DAO, Incubator, On-Chain Mapping. IDO Pass DAO is the first Cardano DAO to focus on IDOs, launchpads, and Blue chip CNFT fractionalization.&quot;</p>
 </blockquote>

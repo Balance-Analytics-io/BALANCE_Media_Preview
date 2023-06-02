@@ -31,19 +31,21 @@ Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro pi
 <p>&quot;IDO PASS DAO is a Launchpad, DAO, Incubator, On-Chain Mapping. IDO Pass DAO is the first Cardano DAO to focus on IDOs, launchpads, and Blue chip CNFT fractionalization.&quot;</p>
 </blockquote>
 </li>
-<li><p><a href="https://figment.io/">FIGMENT</a> is a new pool group forming, with two (2) pools so far. They are an institutional Stake-Pool-as-a-Service (SPaaS) company that honestly has a very sophisticated website. It reminds me of Vanguard&#39;s style. From their website:</p>
+<li><a href="https://figment.io/">FIGMENT</a> is a new pool group forming, with two (2) pools so far. They are an institutional Stake-Pool-as-a-Service (SPaaS) company that honestly has a very sophisticated website. It reminds me of Vanguard&#39;s style. From their website:
+<blockquote>
+<p>&quot;Digital Asset Staking Built for Institutions. The complete staking solution for 200+ institutional clients, including asset managers, custodians, exchanges, foundations, and wallets, to earn rewards on their digital assets.&quot;</p>
+</blockquote>
+<ul>
+<li><p>It&#39;s interesting how these VC Staking Services, or Staking Pools as a Service (SPaaS), have  Cardano at the bottom of their list (or even shown at all) despite its top 10 market cap. Go figure.</p>
+<p>{% img src=&quot;figment_shot.png&quot; alt=&quot;figment_shot&quot; %}</p>
+</li>
+<li><p>Regardless, it&#39;s good to see Cardano joining their service group and API. Maybe we should welcome them and let them know we agree there are no risks to staking and how much better it is than Ethereum...also that Community Delegation is the best option.</p>
+<p><blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">🔎 Take a look into <a href="https://twitter.com/Cardano?ref_src=twsrc%5Etfw">@Cardano</a> - a PoS blockchain that aims to improve blockchain scalability, interoperability, and sustainability 👀<br><br>Learn more 👇<a href="https://t.co/9IW89oWOXV">https://t.co/9IW89oWOXV</a> <a href="https://t.co/g1wldjpCvT">pic.twitter.com/g1wldjpCvT</a></p>&mdash; Figment (@Figment_io) <a href="https://twitter.com/Figment_io/status/1511375511087419398?ref_src=twsrc%5Etfw">April 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </p>
+</li>
+</ul>
 </li>
 </ul>
 
-    > "Digital Asset Staking Built for Institutions. The complete staking solution for 200+ institutional clients, including asset managers, custodians, exchanges, foundations, and wallets, to earn rewards on their digital assets."
-
-    - It's interesting how these VC Staking Services, or Staking Pools as a Service (SPaaS), have  Cardano at the bottom of their list (or even shown at all) despite its top 10 market cap. Go figure.
-
-    {% img src="figment_shot.png" alt="figment_shot" %}
-
-    - Regardless, it's good to see Cardano joining their service group and API. Maybe we should welcome them and let them know we agree there are no risks to staking and how much better it is than Ethereum...also that Community Delegation is the best option.
-
-    <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">🔎 Take a look into <a href="https://twitter.com/Cardano?ref_src=twsrc%5Etfw">@Cardano</a> - a PoS blockchain that aims to improve blockchain scalability, interoperability, and sustainability 👀<br><br>Learn more 👇<a href="https://t.co/9IW89oWOXV">https://t.co/9IW89oWOXV</a> <a href="https://t.co/g1wldjpCvT">pic.twitter.com/g1wldjpCvT</a></p>&mdash; Figment (@Figment_io) <a href="https://twitter.com/Figment_io/status/1511375511087419398?ref_src=twsrc%5Etfw">April 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 - One (1) existing pool was added to the NEW GIRL group (the pool has approximately 51 mADA). This is a very curious development, with NEW GIRL creating new pools previously and the group activity.
 

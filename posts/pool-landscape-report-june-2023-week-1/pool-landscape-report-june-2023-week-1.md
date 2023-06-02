@@ -31,7 +31,7 @@ Since 5/15/23 Epoch 411, the following pool actions have taken place:
 
     > "IDO PASS DAO is a Launchpad, DAO, Incubator, On-Chain Mapping. IDO Pass DAO is the first Cardano DAO to focus on IDOs, launchpads, and Blue chip CNFT fractionalization."
 
-- [FIGMENT](https://figment.io/) is a new pool group forming, with two (2) pools so far. They are an institutional staking-as-a-service company that honestly has a very sophisticated website. It reminds me of Vanguard's style. From their website:
+- [FIGMENT](https://figment.io/) is a new pool group forming, with two (2) pools so far. They are an institutional Stake-Pool-as-a-Service (SPaaS) company that honestly has a very sophisticated website. It reminds me of Vanguard's style. From their website:
 
     > "Digital Asset Staking Built for Institutions. The complete staking solution for 200+ institutional clients, including asset managers, custodians, exchanges, foundations, and wallets, to earn rewards on their digital assets."
 
@@ -48,8 +48,6 @@ Since 5/15/23 Epoch 411, the following pool actions have taken place:
 ***Note: If you are curious exactly which pools, you'll need to join the Matrix Group Edits Chat to find out. See below.***
 
 
-
-
  ### Huge Drop in Staked Ada on May 18th
  
  On May 18th there was a pretty big drop in Staked Ada! This was attributed to Binance continuing to de-stake Ada. But then, a few days later, a pretty decent U-Turn? What is going on?
@@ -57,13 +55,13 @@ Since 5/15/23 Epoch 411, the following pool actions have taken place:
 {% img src="staked_ada_u_turn.png" alt="staked_ada_u_turn" %}
 
 
-### Binance is Back with New Pools for K=1000!
+### Binance is Back with New Pools for K=1000
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">annnd Binance is back. New Pools fully configured for k=1000.<br><br>hat tip to <a href="https://twitter.com/earncoinpool?ref_src=twsrc%5Etfw">@earncoinpool</a> and <a href="https://twitter.com/KpunToN00b?ref_src=twsrc%5Etfw">@KpunToN00b</a> (Homer J AAA) in our Matrix Group Edits Chat! <br><br>All are welcome to join &amp; help be an On-Chain <a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> Guardians (dm for a username).<a href="https://t.co/9gCb4iD0g0">https://t.co/9gCb4iD0g0</a> <a href="https://t.co/1b2Q5VmGAf">pic.twitter.com/1b2Q5VmGAf</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1663720822937190401?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 So Binance is back. They still have their 64 BNP Pools, but low and behold they are creating new pools for K=1000 (or 32MAda) configuration. Insider tip offs, or smart and proactive?
 
-Regardless, the new pools stole our friend [BrotherShip Pool's](https://twitter.com/BrothershipPool) Ticker **BSP**! How rude. Now, how will people know who is the real BSP of the Cardano Single Pool Alliance.
+Regardless, the new pools stole our friend [BrotherShip Pool's](https://twitter.com/BrothershipPool) Ticker **BSP**! How rude. Now how will people know who is the real BSP of the Cardano Single Pool Alliance.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Will the real slim shady, please stand up... <a href="https://t.co/D64IPsPvem">pic.twitter.com/D64IPsPvem</a></p>&mdash; BALANCE (@BalanceData22) <a href="https://twitter.com/BalanceData22/status/1663714167021355008?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -73,36 +71,21 @@ Perhaps the best we can do is make some social media noise by engaging with this
 
 
 ## Noteworthy Community Updates
-- RELAY Stake Pool increased Pledge from 69kAda to 125kAda
+- [RELAY](https://pool.pm/6c1c1fc2b1e3e1ac056f6dd4dd4c3b78e66bd01896ca6e98a4d2431e) Stake Pool increased Pledge from 69kAda to 125kAda!
     - https://twitter.com/RelayStakePool/status/1660431995183169538  
 - PRIDE increased pledge 60k to 75k, nice!
-    - Really nice voting dataviz!
-    - https://twitter.com/StakeWithPride/status/1660313539121385472 (embed, or look for updated tweet)
-- The Community is starting to take notice on the Staked Ada Delisting and potential Binance impacts, see Cardano with Paul. Good looks Smaug!
-    - https://twitter.com/cwpaulm/status/1660648057363365893 (embed maybe)
-- More on Atrium Staking Baskets
-
-https://twitter.com/bigpeyyt/status/1661059040644931585?s=46&t=JQlKbDRawqEwOGdi1Bs47Q
-
-- MILK Vaults Staking by MuesliSwap 
-
-https://twitter.com/muesliswapteam/status/1662897396492247041?s=46&t=JQlKbDRawqEwOGdi1Bs47Q
-
-https://docs.muesliswap.com/cardano/staking
-Smart contract staking 
-
-https://medium.com/@muesliswap/introducing-milk-vaults-f01975f1f6b
-
-- Homer J [AAA] with great homework, found a relay pool party (single point failure)
-https://twitter.com/KpunToN00b/status/1663512334994923520?s=20 
-
-- OTG building a mobile stake pool #SPOMAD
+    - Really nice SPO Vote [dataviz!](https://twitter.com/StakeWithPride/status/1660313539121385472)
+- The Community is starting to take notice on the Staked Ada Delisting and potential Binance impacts, see [Cardano with Paul](https://twitter.com/cwpaulm/status/1660648057363365893). Good looks Smaug!
+- More on [Atrium Staking Baskets by BLOOM](https://twitter.com/bigpeyyt/status/1661059040644931585?s=46&t=JQlKbDRawqEwOGdi1Bs47Q). Looking forward to the details! So far it will be a smart contract that will delegate to 50 stake pools (Diffusion) and reward folks with Atrium Token. We definitely need easier on-boarding wallets and tools so this looks good so far. The best part is it will be open sourced which is absolutely crucial for trust.
+- MILK Vault Staking by MuesliSwap was [announced](https://twitter.com/muesliswapteam/status/1662897396492247041?s=46&t=JQlKbDRawqEwOGdi1Bs47Q). Again, limited details, even in the [medium blog post](https://docs.muesliswap.com/cardano/staking). This is [another smart contract staking](https://medium.com/@muesliswap/introducing-milk-vaults-f01975f1f6b) (not private pool with high pledge) like Eternl did, so we'll be looking for more details here too.
+- Homer J [AAA] did some great homework and found a [relay pool party](https://twitter.com/KpunToN00b/status/1663512334994923520?s=20 
+). Although this sounds fun, it's a high density failure point for many pools. Note, a pool can have many relays, but being dispursed is key.
+- The Great OTG Pool is building a mobile stake pool #SPOMAD. Don't believe me, just check out his tweets below. It's nice to follow along the industrious experimenter, much like Ben Franklin.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Can your stake pool forge blocks at 65 MPH or on a lonesome dirt road in a town that only has a grid marker for a name? <br><br>It won&#39;t be much longer till this is a reality.<br><br>Support the pool to help me make it a success. Delegate your <a href="https://twitter.com/search?q=%24ADA&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ADA</a> to ticker OTG.<br><br>Let&#39;s do this!<a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> <a href="https://t.co/hfULS20TlW">pic.twitter.com/hfULS20TlW</a></p>&mdash; 🌟Star Forge⚡ OTG 📡 Stake Pool (@OTG_WCat) <a href="https://twitter.com/OTG_WCat/status/1664036671266889730?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-Deep Dive Topic: ?
-- RSS SPO Vote?
+## Topic: RSS SPO Vote?
 - Ada4Good [A4G] dashboard https://twitter.com/Ada4goodP/status/1661493725393027074?s=20 
     - Thank you for the contributor BALANCE shoutout
     - https://lookerstudio.google.com/u/0/reporting/639b7209-36db-4aea-956e-6d220412ba9c/page/p_gti726jc6c 

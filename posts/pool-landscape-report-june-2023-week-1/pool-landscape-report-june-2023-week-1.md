@@ -25,13 +25,13 @@ Welcome back to the BALANCE Stake Pool Landscape Report. Here's the big macro pi
 
 Since 5/15/23 Epoch 411, the following pool actions have taken place: 
 
-- Eight (8) new pools were created since the last pool group dataset review/update.
+Eight (8) new pools were created since the last pool group dataset review/update.
 
-- One (1) pool belongs to the [IDP](https://pool.pm/b9ffb01687eb9f12433a6edec90d808b75f9bde51ab2495d278d7727), which is [IDO PASS DAO](https://idopass.finance/index.html#). From their website:
+One (1) pool belongs to the [IDP](https://pool.pm/b9ffb01687eb9f12433a6edec90d808b75f9bde51ab2495d278d7727), which is [IDO PASS DAO](https://idopass.finance/index.html#). From their website:
 
     > "IDO PASS DAO is a Launchpad, DAO, Incubator, On-Chain Mapping. IDO Pass DAO is the first Cardano DAO to focus on IDOs, launchpads, and Blue chip CNFT fractionalization."
 
-- [FIGMENT](https://figment.io/) is a new pool group forming, with two (2) pools so far. They are an institutional Stake-Pool-as-a-Service (SPaaS) company that honestly has a very sophisticated website. It reminds me of Vanguard's style. From their website:
+[FIGMENT](https://figment.io/) is a new pool group forming, with two (2) pools so far. They are an institutional Stake-Pool-as-a-Service (SPaaS) company that honestly has a very sophisticated website. It reminds me of Vanguard's style. From their website:
 
     > "Digital Asset Staking Built for Institutions. The complete staking solution for 200+ institutional clients, including asset managers, custodians, exchanges, foundations, and wallets, to earn rewards on their digital assets."
 

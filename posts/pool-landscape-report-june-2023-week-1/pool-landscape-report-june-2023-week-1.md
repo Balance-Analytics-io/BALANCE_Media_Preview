@@ -169,9 +169,9 @@ The BALNC Pool has been experiencing amazing rewards lately! For the last Epoch 
 
 No longer is there a low ROS excuse to not delegate with us. Aside from the BALANCE Web App service we provide, the BALNC pool is hot!
 
-_Sidenote: Have you noticed that with the drop in Binance Stake and overall Staked Ada decreasing from 70% to 60%, it has resulted in more blocks won for your pool?
+Sidenote: Have you noticed that with the drop in Binance Stake and overall Staked Ada decreasing from 70% to 60%, it has resulted in more blocks won for your pool?
 
-If you think about it, despite having the same number of pools, there is now less Staked Ada and more block supply available to mint. With an increase in block supply and a decrease in demand, it becomes easier for small single pools to win a block—effectively causing a difficulty drop (using Bitcoin mining terms)._
+If you think about it, despite having the same number of pools, there is now less Staked Ada and more block supply available to mint. With an increase in block supply and a decrease in demand, it becomes easier for small single pools to win a block-effectively causing a difficulty drop (using Bitcoin mining terms).
 
 ### Call to Action: Audit our Pool Group API and Join our Matrix Group Edits Chat
 We would like to call for an audit of our Public Pool Group API and invite you to let us know if there are any mistakes. All suggestions are welcomed.

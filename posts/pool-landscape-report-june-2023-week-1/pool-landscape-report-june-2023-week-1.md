@@ -141,20 +141,27 @@ Checkout the Dashboard [here](https://lookerstudio.google.com/u/0/reporting/639b
 
 ## What We’re Paying Attention To
 
-- VyFi launch
-    - Staking Vaults, private pools? Smart Contract Staking?
+- VyFi launch, Staking Vaults, are they private pools or smart contract staking? Seems like lending / DeFi.
     - https://app.vyfi.io/vaults 
     - https://vyfinance.medium.com/introduction-to-cardano-native-asset-vaults-on-the-vyfinance-platform-1a96c3b832b8 
-- CherryLend token presale, ADA sent to presale address, no staking, interesting to see what happens. Another Frosty token sale, hmm?
+- CherryLend token presale rage, ADA sent to presale address, no staking, interesting to see what happens. Another Frosty token sale, hmm?
     - https://twitter.com/Cherry_Lend/status/1658819858287476736?s=20 
 - MAYZ ISPO: Create, Manage, and Invest in Cardano Funds. Decentralized permissionless, and non custodial protocol. Another ISPO to pay attention to.
     - MAYZ Protocol is a decentralized, permissionless, and non-custodial protocol that aims to unlock the full potential of the Cardano ecosystem. By investing in MAYZ, you can create, manage and invest in Cardano funds. Gaining exposure to a diversified portfolio of Cardano native tokens, and MAYZ allows you to capitalize on the various opportunities within the Cardano ecosystem.
     - https://twitter.com/MAYZProtocol/status/1660629881518956547 
     - https://mayz.io/ 
-- MinSwap Pool Saturated? Will the open a new one, or will the community delegation seal their fait as a Cardano Legacy Great?
-    - https://twitter.com/BlockchainBill0/status/1664093629135060994?s=20  
-    - https://twitter.com/OTG_WCat/status/1664068607796453377?s=20 
+- MinSwap Pool Saturated? Will they open a new one, or will they community delegation seal their fait as a Cardano Legacy Great?
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">WOAH... <a href="https://twitter.com/MinswapDEX?ref_src=twsrc%5Etfw">@MinswapDEX</a> <a href="https://twitter.com/search?q=%24MIN&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$MIN</a><a href="https://twitter.com/hashtag/Cardano?src=hash&amp;ref_src=twsrc%5Etfw">#Cardano</a> <a href="https://twitter.com/search?q=%24ADA&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$ADA</a> <a href="https://t.co/r0ot96DjSv">pic.twitter.com/r0ot96DjSv</a></p>&mdash; BlockchainBill (@BlockchainBill0) <a href="https://twitter.com/BlockchainBill0/status/1664093629135060994?ref_src=twsrc%5Etfw">June 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+https://twitter.com/OTG_WCat/status/1664068607796453377?s=20 
+
+In addtional to BALNC, there's quite a few (okay ton) of pools more than willing to provide exceptional service! OTG Pool has a well founded request!
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">I wish <a href="https://twitter.com/MinswapDEX?ref_src=twsrc%5Etfw">@MinswapDEX</a>, instead of opening another pool(theirs is getting grossly over saturated) they would choose OTG. I have always had great respect for what they have done for our community. <br><br>That&#39;s the tweet. It&#39;s out there now. <a href="https://t.co/yw3cW6FCiw">pic.twitter.com/yw3cW6FCiw</a></p>&mdash; 🌟Star Forge⚡ OTG 📡 Stake Pool (@OTG_WCat) <a href="https://twitter.com/OTG_WCat/status/1664068607796453377?ref_src=twsrc%5Etfw">June 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - [Revuto](https://twitter.com/get_revuto) has added [Indigo's #iUSD stablecoin staking](https://twitter.com/get_revuto/status/1631429558900490240?s=20) to their platform services. Revuto has 34,000 followers on Twitter and is a subscription management service. Not entirely sure how this works, but based on their user base this is a good adoption deal. We'll have to dig into it, or let us know!
+- Memecoin craze, sounds fun, but stay safe, and take profits back into $ADA for your Generational Long-term Wealth Fund, of course staked to BALNC!
 
 ## BALANCE Updates
 

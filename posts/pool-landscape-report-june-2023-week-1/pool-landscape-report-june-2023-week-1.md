@@ -73,7 +73,7 @@ Perhaps the best we can do is make some social media noise by engaging with this
 ## Noteworthy Community Updates
 - [RELAY](https://pool.pm/6c1c1fc2b1e3e1ac056f6dd4dd4c3b78e66bd01896ca6e98a4d2431e) Stake Pool increased Pledge from 69kAda to 125kAda!
     - https://twitter.com/RelayStakePool/status/1660431995183169538  
-- PRIDE increased pledge 60k to 75k, nice!
+- PRIDE increased pledge [60k to 75k, nice!](https://twitter.com/stakewithpride/status/1659185567811395584?s=46&t=JQlKbDRawqEwOGdi1Bs47Q). It goes without saying PRIDE pool has been an On-Chain Guardian for Decentralization.
     - Really nice SPO Vote [dataviz!](https://twitter.com/StakeWithPride/status/1660313539121385472)
 - The Community is starting to take notice on the Staked Ada Delisting and potential Binance impacts, see [Cardano with Paul](https://twitter.com/cwpaulm/status/1660648057363365893). Good looks Smaug!
 - More on [Atrium Staking Baskets by BLOOM](https://twitter.com/bigpeyyt/status/1661059040644931585?s=46&t=JQlKbDRawqEwOGdi1Bs47Q). Looking forward to the details! So far it will be a smart contract that will delegate to 50 stake pools (Diffusion) and reward folks with Atrium Token. We definitely need easier on-boarding wallets and tools so this looks good so far. The best part is it will be open sourced which is absolutely crucial for trust.
@@ -123,46 +123,38 @@ Don't know what's up, DM us on Twitter or Join our BALANCE Matrix Chat room, we 
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">📢Calling all Stake Delegators<br> <br>We are in the re-delegation phase of the <a href="https://twitter.com/hashtag/SPO?src=hash&amp;ref_src=twsrc%5Etfw">#SPO</a> on-chain poll experiment.<br><br>➡️View dashboards<br>➡️See how SPOs voted<br>➡️Examine results<br>➡️Decide whether or not to redelegate your stake to another SPO<br>👇👇<a href="https://t.co/QiZg6q5ZAe">https://t.co/QiZg6q5ZAe</a><a href="https://t.co/nwBgo8LXsN">https://t.co/nwBgo8LXsN</a> <a href="https://t.co/BEiTm7CexI">pic.twitter.com/BEiTm7CexI</a></p>&mdash; Cardano Foundation (@Cardano_CF) <a href="https://twitter.com/Cardano_CF/status/1663564854572244994?ref_src=twsrc%5Etfw">May 30, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-_Note: We have nothing against MPOs and their choice to operate at higher fees, they should be able to charge for their tool building and exceptional service. However, not all pools choose to run at 99.99999% uptime reliability, and by design multi pools have more time upkeep, hardware, and maintenance to attend to. If the RSS was geared toward incentiving Single Pools, their time, hardware, and effort would be consolidated, and the fees would not need to be so high. The Multi-Pool Model is purely to gain as much minimum fee to remain profitable and spread low fees overall amongst many pools. Even IOG does this model, altough the RSS paper clearly dictates this is harmful to the chain. You are more than welcome to command a high fee for your service, but not all pools choose to run at this level of capacity, and the blockchain is more than resiliant and reliable with many distrubited pools._
+_Note: We have nothing against MPOs and their choice to operate at higher fees, they should be able to charge for their tool building and exceptional service. However, not all pools choose to run at 99.99999% uptime reliability, and by design multi pools have more time upkeep, hardware, and maintenance to attend to. If the RSS was geared toward incentivizing Single Pools, their time, hardware, and effort would be consolidated, and the fees would not need to be so high. The Multi-Pool Model is purely to gain as much minimum fee to remain profitable and spread low fees overall amongst many pools. Even IOG does this model, altough the RSS paper clearly dictates this is harmful to the chain. You are more than welcome to command a high fee for your service, but not all pools choose to run at this level of capacity, and the blockchain is more than resiliant and reliable with many distrubited pools._
 
 ## Single Pool Spotlight: A4G Post Pool Voting Dashboard
 
-This week the Single Pool Spotlight Award goes to Ada4Good [A4G] for his SPO RSS Voting Poll Results Dashboard.
+This week the Single Pool Spotlight Award goes to Ada4Good [A4G](https://pool.pm/cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f) for his [Cardano Pools & K=1000 Dashboard](https://lookerstudio.google.com/u/0/reporting/639b7209-36db-4aea-956e-6d220412ba9c/page/p_gti726jc6c).
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Dear <a href="https://twitter.com/hashtag/cardano?src=hash&amp;ref_src=twsrc%5Etfw">#cardano</a> Community,<br><br>I have been working on a report regarding the current distribution of Cardano pools and the possible effects of changing the K Parameter.<br><br>The report also includes the Poll results. <br>Here it is:<a href="https://t.co/KkWZYpe9CV">https://t.co/KkWZYpe9CV</a><br><br>I believe in measurable… <a href="https://t.co/o5HrGie19D">pic.twitter.com/o5HrGie19D</a></p>&mdash; ADA4Good ❤️ Cardano Stake Pool (Vahid) (@Ada4goodP) <a href="https://twitter.com/Ada4goodP/status/1661493725393027074?ref_src=twsrc%5Etfw">May 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 In his work, A4G **used BALANCE's Public Pool Group API** which we are thrilled about!  
 
-Thank you for the contributor page to shoutout BALANCE and others, we appreciate it as we grow and build out our capabilities for the Cardano Community! This is the strength of the Community.
+Thank you for the contributor page to refernce sources like BALANCE and others, we appreciate it as we grow and build out our capabilities for the Cardano Community! This is the strength of the Community, working together.
 
 Checkout the Dashboard [here](https://lookerstudio.google.com/u/0/reporting/639b7209-36db-4aea-956e-6d220412ba9c/page/p_gti726jc6c)
 
-{% img src="a4d_dashboard" alt="a4d_dashboard"}
+{% img src="a4d_dashboard" alt="a4d_dashboard" %}
 
 ## What We’re Paying Attention To
+
 - VyFi launch
-    - Staking Vaults, private pools? Smart Contract Staking
+    - Staking Vaults, private pools? Smart Contract Staking?
     - https://app.vyfi.io/vaults 
     - https://vyfinance.medium.com/introduction-to-cardano-native-asset-vaults-on-the-vyfinance-platform-1a96c3b832b8 
-- CherryLend token presale, ADA sent to presale address, no staking, interesting to see what happens
-        - https://twitter.com/Cherry_Lend/status/1658819858287476736?s=20 
-- MAYZ ISPO: Create, Manage, and Invest in Cardano Funds. Decentralized, permissionless, and non custodial protocol.
+- CherryLend token presale, ADA sent to presale address, no staking, interesting to see what happens. Another Frosty token sale, hmm?
+    - https://twitter.com/Cherry_Lend/status/1658819858287476736?s=20 
+- MAYZ ISPO: Create, Manage, and Invest in Cardano Funds. Decentralized permissionless, and non custodial protocol. Another ISPO to pay attention to.
     - MAYZ Protocol is a decentralized, permissionless, and non-custodial protocol that aims to unlock the full potential of the Cardano ecosystem. By investing in MAYZ, you can create, manage and invest in Cardano funds. Gaining exposure to a diversified portfolio of Cardano native tokens, and MAYZ allows you to capitalize on the various opportunities within the Cardano ecosystem.
     - https://twitter.com/MAYZProtocol/status/1660629881518956547 
     - https://mayz.io/ 
 - MinSwap Pool Saturated? Will the open a new one, or will the community delegation seal their fait as a Cardano Legacy Great?
     - https://twitter.com/BlockchainBill0/status/1664093629135060994?s=20  
     - https://twitter.com/OTG_WCat/status/1664068607796453377?s=20 
-
-https://twitter.com/stakewithpride/status/1659185567811395584?s=46&t=JQlKbDRawqEwOGdi1Bs47Q
-
-https://getrevuto.medium.com/new-staking-opportunities-are-coming-to-the-revuto-staking-center-1ce8ebeb0d7
-
-https://twitter.com/indigo_protocol/status/1631663300768301058?s=46&t=JQlKbDRawqEwOGdi1Bs47Q
-
-https://twitter.com/get_revuto/status/1631429558900490240?s=46&t=JQlKbDRawqEwOGdi1Bs47Q
-
-Lending not staking?
+- [Revuto](https://twitter.com/get_revuto) has added [Indigo's #iUSD stablecoin staking](https://twitter.com/get_revuto/status/1631429558900490240?s=20) to their platform services. Revuto has 34,000 followers on Twitter and is a subscription management service. Not entirely sure how this works, but based on their user base this is a good adoption deal. We'll have to dig into it, or let us know!
 
 ## BALANCE Updates
 
